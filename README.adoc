@@ -1,0 +1,41 @@
+= You Probably Shouldn't Eat Animals
+
+Project setup loosely based on https://github.com/progit/progit2/[Pro Git book].
+
+== How To Generate the Book
+
+You can generate the e-book files manually with Asciidoctor.
+If you run the following you _may_ actually get HTML, Epub, and PDF output files:
+
+----
+$ bundle config set --local path 'vendor/bundle'
+$ bundle install
+$ bundle exec rake book:build
+Converting to HTML...
+ -- HTML output at ypsea-book.html
+Converting to EPub...
+ -- Epub output at ypsea-book.epub
+Converting to PDF...
+ -- PDF output at ypsea-book.pdf
+----
+
+You can generate just one of the supported formats (HTML, EPUB, or PDF).
+Use one of the following commands:
+
+To generate the HTML book:
+
+----
+$ bundle exec rake book:build_html
+----
+
+To generate the EPUB book:
+
+----
+$ bundle exec rake book:build_epub
+----
+
+To generate the PDF book:
+
+----
+$ bundle exec rake book:build_pdf
+----
