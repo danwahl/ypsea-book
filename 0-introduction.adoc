@@ -1,4 +1,4 @@
-= Introduction
+== Introduction
 
 Try saying this sentence out loud, emphasizing a different word each time: "So, you think you can dance?"
 

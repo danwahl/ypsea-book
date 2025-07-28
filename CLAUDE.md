@@ -21,6 +21,14 @@ The author is writing a short book titled "You Probably Shouldn't Eat Animals" b
 - End sections with clear transitions that pull the reader forward
 - Frame as invitation to reconsider, not accusation of ignorance
 
+### Asciidoc Formatting
+- Use footnotes for citations: footnote:[Author, A. B., Author, C. D. (Year). Title of article. Journal Name, volume(issue), pages.]
+- Always include a blank line before any bulleted or numbered lists
+- Book title uses =
+- Chapter headings use ==
+- Major sections use ===
+- Subsections use ====
+
 ## Key Decisions Made
 
 ### Chapter Order
@@ -42,6 +50,8 @@ Not narrowly defined, but especially speaking to the "thoughtful dodger" who:
 - Using examples from across the political spectrum
 - Focusing on moral clarity without moral superiority
 - Acknowledge reader's likely familiarity with arguments without condescension
+- The "probably" in the title should be reflected in the text, not just the "Probably" chapter
+- Frame arguments as "what to do given substantial likelihood" rather than "what to do given certainty"
 
 ## Chapter-Specific Context
 
