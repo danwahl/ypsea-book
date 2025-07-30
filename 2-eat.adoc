@@ -6,7 +6,7 @@ That's how many animals the average American eats in their lifetime. Not meals. 
 
 But this chapter isn't about making you feel guilty for past meals. It's about understanding what it means to eat animals at the scale we do today, and why the system we've built to satisfy our appetite sits at the intersection of multiple catastrophes. Not metaphorical catastrophes or future risks, but measurable, ongoing crises affecting the planet's climate, its capacity to feed humans, and our own health.
 
-The story of how we got here—how eating animals transformed from occasional feast to industrial imperative—reveals something important about the difference between what we think we're doing when we eat meat and what we're actually doing. Because once we acknowledge that the animals on our plates had inner lives, we must confront not just the fact of their deaths but the entire machinery that produced them.
+The story of how we got here—how eating animals transformed from occasional feast to industrial imperative—reveals something important about the difference between what we think we're doing when we eat meat and what we're actually doing. Because once we acknowledge that the animals on our plates likely had inner lives, we must confront not just the fact of their deaths but the entire machinery that produced them.
 
 === The Scale of the Machine
 
@@ -18,6 +18,7 @@ But here's what the aggregate numbers hide: we're not eating 85 billion cows. Th
 
 This is what animal advocates call the "small-bodied animal problem." Our collective move from beef to chicken, often motivated by health or environmental concerns, has paradoxically increased the total number of sentient beings killed. It's like trying to reduce your environmental footprint by switching from an SUV to a motorcycle, but then driving 50 motorcycles.
 
+// TODO: just the oceans?
 The numbers become even more staggering when we include aquatic animals. Unlike land animals, fish are measured by weight rather than individuals—a convenient abstraction that helps us avoid confronting that we're killing somewhere between one and three trillion sentient beings from the oceans each year.footnote:[Estimates from "How Many Animals Are Killed for Food Every Day?" Sentient Media, 2025.]
 
 ==== The Industrial Blueprint
@@ -34,13 +35,14 @@ The standard practices read like a blueprint for suffering:
 
 And then there's slaughter itself. The lucky ones are properly stunned before their throats are slit. But at the line speeds required for profitability—up to 175 birds per minute in chicken plants—many aren't so lucky. They're still conscious when they enter the scalding tanks meant to remove their feathers.footnote:["Factory Farming: The Industry Behind Meat and Dairy," PETA, accessed 2025.]
 
-Similar practices have also become standard in aquaculture, industrial animal agriculture's final frontier. The rapid rise of fish farming has brought factory farm conditions underwater. Salmon are packed into sea cages at densities that would be like keeping a bathtub-sized fish in a bathtub. The stress drives aggression, disease, and parasitic infections that spread like wildfire through the cramped populations.footnote:["FAO Report: Global fisheries and aquaculture production reaches new record high," FAO, 2024.] In inland tanks, fish swim in endless circles through their own waste, dosed with antibiotics and pesticides to survive conditions no wild fish would ever encounter.
+Similar practices have also become standard in aquaculture, industrial animal agriculture's final frontier. The rapid rise of fish farming has brought factory farm conditions underwater. Salmon are packed into sea cages at densities that would be like keeping a bathtub-sized fish in a bathtub. The stress drives aggression, disease, and parasitic infections that spread like wildfire through the cramped populations.footnote:["FAO Report: Global fisheries and aquaculture production reaches new record high," FAO, 2024.] In inland tanks, fish swim in endless circles through their own waste, dosed with antibiotics and pesticides in order to survive conditions no wild fish would ever encounter.
 
+// TODO: 75 or 85 billion?
 What's crucial to understand is that these aren't failures of the system. They're features. When your business model requires killing 2,402 animals per second, globally, certain compromises become inevitable.footnote:[Calculated from 75.7 billion land animals slaughtered annually.]
 
 === The Environmental Cascade
 
-If the industrial slaughter of 85 billion land animals were only an animal welfare issue, it would still be among the great moral crises of our time. But the system required to feed, house, and process these animals is destroying the planet's ability to sustain life—ours included.
+If the industrial slaughter of 85 billion land animals were only an animal welfare issue, it would still be among the great moral crises of our time. But the system required to feed, house, and process these animals is diminishing the planet's ability to sustain other life—ours included.
 
 The environmental impact of animal agriculture isn't a single problem but a cascade of interconnected crises, each amplifying the others. At the root is a simple biological reality: the inefficiency of filtering plants through animals to obtain calories.
 
@@ -50,7 +52,11 @@ Start with climate change. According to the UN's Food and Agriculture Organizati
 
 But focusing on the percentage understates the urgency. Even if we eliminated fossil fuels tomorrow, emissions from our food system alone would make it impossible to limit warming to 1.5°C.footnote:["Climate change, public health, and animal welfare," Frontiers in Animal Science, 2024.] And unlike energy, where renewable alternatives exist, we can't simply swap out animals for solar-powered substitutes.
 
+// TODO: something about reductions in animal agriculture needed to reach climate targets?
+
 The sector's climate impact is especially pernicious because of the gases it emits. While energy production mainly releases CO₂, animal agriculture is the dominant source of methane and nitrous oxide—gases that are 28 and 265 times more potent than CO₂, respectively.footnote:[IPCC values for 100-year global warming potential.] Every cow is a methane factory, belching out the gas as a byproduct of digestion. Their manure releases more as it decomposes, along with nitrous oxide.
+
+// TODO: each hamburger is the equivalent of how many miles driven? etc.
 
 ==== The Land Grab
 
@@ -60,11 +66,15 @@ This voracious appetite for land makes animal agriculture the leading driver of 
 
 The bitter irony is that this land quickly degrades. Cattle compact soil, reduce plant cover, and accelerate erosion. Within years, productive pasture becomes degraded scrubland, pushing ranchers to clear more forest in an accelerating cycle of destruction.footnote:["What is Erosion? Effects of Soil Erosion and Land Degradation," WWF, accessed 2025.]
 
+// TODO: is this trend likely to get worse as population grows?
+
 ==== Water Under Assault
 
 The cascade continues with water. Agriculture uses 70% of global freshwater, with animal agriculture responsible for about a third of that.footnote:["The devastating water footprint of animal agriculture," Open Access Government, 2025.] But the numbers only hint at the true impact.
 
 Producing a kilogram of beef requires 15,415 liters of water—enough to supply a person's drinking needs for over 20 years.footnote:[Mekonnen & Hoekstra (2012), "The hidden water resource use behind meat and dairy."] Nearly all of this is "virtual water" used to irrigate feed crops. It's a stunning inefficiency: we're essentially feeding our water to animals.
+
+// TODO: almonds get a bad rap but are more water efficient than dairy, for example.
 
 But water consumption is only half the story. The 70 billion land animals raised annually in the US alone produce 885 billion pounds of manure—over 130 times the waste produced by the human population.footnote:["Factory Farming Environmental Impact," ASPCA, accessed 2025.] Unlike human waste, this receives no treatment. It's stored in vast open lagoons that can cover several acres, then sprayed on fields.
 
@@ -92,6 +102,8 @@ The recipe for a pandemic is simple: pack thousands of genetically uniform anima
 
 The 2009 H1N1 "swine flu" pandemic, which killed up to half a million people globally, emerged from industrial pig farms in Mexico.footnote:[CDC and WHO reports on 2009 H1N1 pandemic origins.] The ongoing spread of highly pathogenic avian influenza (H5N1), which has devastated poultry operations and recently jumped to cattle and farm workers, serves as a real-time warning of the system's pandemic potential.
 
+// TODO: mention COVID-19 and the potential role of wet markets!
+
 ==== Communities Under Siege
 
 The health impacts aren't abstractions—they're concentrated in rural communities, particularly communities of color, where CAFOs cluster.footnote:["Factory farm air pollution is harming communities of color," Environmental Health News, accessed 2025.]
@@ -99,6 +111,8 @@ The health impacts aren't abstractions—they're concentrated in rural communiti
 Imagine living downwind from a facility housing 10,000 pigs. The air reeks of ammonia and hydrogen sulfide—gases that cause respiratory illness, headaches, and depression.footnote:["The Public Health Impacts of Concentrated Animal Feeding Operations on Local Communities," accessed 2025.] When waste lagoons overflow, as they regularly do during storms, pathogens and nitrates contaminate drinking water. Property values plummet. Children develop asthma at elevated rates.
 
 For workers inside these facilities, conditions are even worse. Meatpacking is consistently ranked among America's most dangerous jobs. A USDA study found 81% of poultry workers at high risk for developing crippling musculoskeletal disorders.footnote:["81% of Meatpacking Workers at High Injury Risk, USDA Warns," Sentient Media, 2025.] Beyond physical dangers, the psychological toll of killing hundreds of animals per shift drives elevated rates of PTSD, depression, and domestic violence.
+
+// TODO: more COVID-19 connections with meatpacking plants?
 
 === The Inefficiency Paradox
 
@@ -111,6 +125,8 @@ The livestock sector uses 77% of agricultural land but produces only 18% of our 
 The problem is fundamental biology. When we feed crops to animals, most of the energy goes to keeping the animal alive—metabolism, movement, body heat. Only a fraction becomes edible meat. For every 100 calories of grain fed to cattle, we get back 3 calories of beef. Pigs return 10 calories. Chickens, our most "efficient" land animals, return just 12.footnote:["Feed-to-Meat Conversion Inefficiency Ratios," A Well-Fed World, accessed 2025.]
 
 This inefficiency has staggering implications. Globally, 36-41% of all crop calories go to livestock rather than humans.footnote:["Animal welfare is an opportunity to increase food security," World Federation for Animals, accessed 2025.] The crops fed to animals could directly nourish 3.5 to 4 billion additional people. In a world where 768 million face hunger, we're filtering enough food for billions through animals to feed millions.
+
+// TODO: what will happen as population grows?
 
 ==== The True Cost
 
@@ -125,6 +141,8 @@ But the real inefficiency is economic. The price of a burger doesn't reflect its
 One study estimated the global environmental cost of livestock at $1.18 trillion annually.footnote:["Trucost reveals $3.33 trillion environmental cost of farming," Grain.org, accessed 2025.] Healthcare costs attributable to red and processed meat consumption add another $285 billion.footnote:["The cost of livestock and meat consumption on human health," Zero Carbon Analytics, accessed 2025.] Factor in the projected economic impact of antimicrobial resistance—$100 trillion by 2050—and the "cheap" meat system looks like the most expensive mistake in human history.
 
 This economic fiction is maintained through massive subsidies. In the US alone, corn and soy producers—who grow mostly animal feed—received over $5 billion in federal subsidies in 2024.footnote:["Federal farm subsidies: What the data says," USAFacts, 2025.] The top 10,000 livestock operations received $12.1 billion in federal assistance between 2018 and 2023.footnote:["Department of Agriculture: Financial Assistance to Livestock Feeding Operations," GAO, 2025.]
+
+// TODO: extend this section on subsidies--how did we get here?
 
 We're paying three times for animal products: once at the store, again through our taxes, and finally through environmental and health damages that may prove irreversible.
 
@@ -142,7 +160,7 @@ These aren't solutions. They're problem displacement—addressing one symptom wh
 
 The real solution requires acknowledging what the system is actually for. It's not about feeding the world—plant agriculture does that far more efficiently. It's not about human health—as the WHO's cancer classifications make clear. It's not about economic efficiency—not when you count the true costs.
 
-It's about satisfying a learned preference for animal products regardless of the consequences. Once we see that clearly, the path forward becomes obvious, if not easy.
+It's about satisfying a learned preference for animal products regardless of the consequences. Once we see that clearly, the path forward becomes obvious, if not exactly easy.
 
 === Conclusion
 

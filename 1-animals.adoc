@@ -6,7 +6,7 @@ This wasn't a Disney movie moment. It was a carefully controlled experiment at t
 
 The eighth pig? He kept searching behind the mirror, occasionally stopping to admire his reflection.
 
-I think about Moritz sometimes when I'm grocery shopping, standing in the meat aisle where pork chops lie in neat rows under fluorescent lights. The packages list weights and prices per pound, cooking suggestions, and occasionally a farm's bucolic name. What they never mention is that their contents once belonged to someone who could recognize themselves in a mirror, who had preferences and friendships, who—as we'll see—possessed an emotional life rich enough to include optimism and pessimism, empathy and spite.
+I think about pigs like Moritz sometimes when I'm grocery shopping, standing in the meat aisle where pork chops lie in neat rows under fluorescent lights. The packages list weights and prices per pound, cooking suggestions, and occasionally a farm's bucolic name. What they never mention is that their contents once belonged to someone who could recognize themselves in a mirror, who had preferences and friendships, who—as we'll see—possessed an emotional life rich enough to include optimism and pessimism, empathy and spite.
 
 The question this chapter explores isn't whether animals are conscious. The weight of scientific evidence points overwhelmingly in one direction—though absolute certainty remains elusive, as it does for all questions of inner experience. The real question is how we've managed to ignore this mounting evidence so effectively, and what it means to truly confront the likelihood that the animals we eat aren't biological machines but sentient beings with inner lives.
 
@@ -18,6 +18,7 @@ Let's start with the animals we think we know.
 
 ==== The Social Cow
 
+// TODO: replace this anecdote
 When Emily arrived at a British sanctuary after years on a dairy farm, she did something that surprised even seasoned animal caregivers: she went looking for a friend. Not just any friend—she was searching for Jasmine, a cow she'd been separated from two years earlier. When sanctuary workers tracked down and reunited them, the two cows spent hours grooming each other and have remained inseparable since.footnote:[This anecdote, while not from a peer-reviewed source, represents documented behavior consistent with Marino, L., & Allen, K. (2017). The psychology of cows. Animal Behavior and Cognition, 4(4), 474-498.]
 
 This wasn't a fluke or anthropomorphic projection. Cattle form preferential bonds that scientists straightforwardly call "friendships." They choose specific companions to spend time with, become stressed when separated from them, and show physiological signs of comfort in their presence. When researchers measured stress hormones in cattle, they found that cows show lower cortisol levels—the biological marker of stress—when accompanied by their preferred companions versus randomly assigned ones.footnote:[Boissy, A., & Le Neindre, P. (1997). Behavioral, cardiac and cortisol responses to brief peer separation and reunion in cattle. Physiology & Behavior, 61(5), 693-699.]
@@ -32,6 +33,7 @@ The depth of this maternal anguish becomes even clearer when we examine what hap
 
 ==== The Sophisticated Pig
 
+// TODO: check that this is correct source
 If cows reveal the social dimension of farm animal consciousness, pigs demonstrate its cognitive heights. When researchers gave pigs a joystick-controlled video game task originally designed for primates, they didn't just learn to play—they exceeded expectations. The pigs had to move a cursor to hit targets on a screen, understanding the abstract connection between their snout movements on a joystick and events on a monitor. Not only did they succeed, but they continued performing above chance levels even when the food rewards were removed, apparently motivated by the game itself.footnote:[Croney, C. C., Adams, K. M., Washington, C. G., & Stricklin, W. R. (2003). A note on visual, olfactory and spatial cue use in foraging behavior of pigs: indirectly assessing consciousness. Applied Animal Behaviour Science, 83(4), 303-308.]
 
 But pigs' intelligence isn't confined to artificial tasks. In their social lives, they display what primatologists call "Machiavellian intelligence"—the ability to deceive and manipulate. Pigs will lead other pigs away from food caches they've discovered, then circle back to eat alone. This requires not just memory and planning, but what psychologists call "theory of mind"—understanding that others have beliefs that can be different from reality and that those beliefs can be manipulated.footnote:[Held, S., Mendl, M., Devereux, C., & Byrne, R. W. (2001). Behaviour of domestic pigs in a visual perspective taking task. Behaviour, 138(11), 1337-1354.]
@@ -98,7 +100,7 @@ Consider pain, the most primal conscious experience. In mammals, pain involves a
 
 This discovery did more than map pain—it proved the distinction between nociception (detecting damage) and suffering (finding it unpleasant). The mice without functioning "suffering neurons" were philosophical zombies for pain: all the behavioral responses, none of the experience.
 
-But what about animals without our exact brain structures? This question long justified dismissing fish and bird consciousness—they lack our layered neocortex, so how could they be conscious? The answer reveals a profound misunderstanding of evolution. Consciousness isn't tied to specific structures but to functions—functions that evolution has achieved through different means in different lineages.
+But what about animals without our exact brain structures? This question long justified dismissing fish and bird consciousness—they lack our layered neocortex, so how could they be conscious? The answer reveals a profound underestimation of evolution. Consciousness isn't tied to specific structures but to functions—functions that evolution has achieved through different means in different lineages.
 
 Birds demonstrate this principle beautifully. Their brains lack our neocortical layers but pack neurons differently, achieving similar computational power in less space. A crow's brain, despite being walnut-sized, contains neural densities that give it the problem-solving abilities of a young child. The avian pallium performs the same consciousness-supporting functions as the mammalian neocortex, just with different architecture.footnote:[Olkowicz, S., Kocourek, M., Lučan, R. K., Porteš, M., Fitch, W. T., Herculano-Houzel, S., & Němec, P. (2016). Birds have primate-like numbers of neurons in the forebrain. Proceedings of the National Academy of Sciences, 113(26), 7255-7260.]
 
@@ -116,15 +118,15 @@ These aren't programmed responses. They're decisions based on internal states—
 
 === The Evolutionary Logic of Feeling
 
-At this point, a deeper question emerges: why would consciousness evolve at all? Why should natural selection produce inner experience rather than sophisticated but unconscious responses? The answer reveals why consciousness—far from being a rare accident—is exactly what we should expect evolution to produce.
+At this point, a deeper question emerges: why would consciousness evolve at all? Why should natural selection produce inner experience rather than sophisticated but unconscious responses? The answer reveals why consciousness—far from being a rare accident—is exactly the kind of thing we should expect evolution to produce.
 
 Pain that merely causes withdrawal is like a smoke alarm that only sounds once. It alerts to immediate danger but teaches nothing about avoiding future threats. Conscious pain—pain that feels bad—creates memories, shapes behavior, and drives learning. An animal that feels pain remembers what caused it, avoids similar situations, and modifies its behavior during healing. One that merely responds reflexively learns nothing.
 
-Consider nociceptive sensitization—the increased pain sensitivity around injuries. This seems maladaptive (why hurt more when already injured?) until researchers tested its survival value. Squid with injuries showed enhanced sensitivity to touch around their wounds. When exposed to predators, these sensitized squid initiated escape responses faster than non-injured squid, significantly improving survival. The extra suffering literally saved their lives.footnote:[Crook, R. J., Dickson, K., Hanlon, R. T., & Walters, E. T. (2014). Nociceptive sensitization reduces predation risk. Current Biology, 24(10), 1121-1125.]
+Consider nociceptive sensitization—the increased pain sensitivity around injuries. This seems maladaptive (why hurt more when already injured?) until researchers tested its survival value. Squid with injuries showed enhanced sensitivity to touch around their wounds. When exposed to predators, these sensitized squid initiated escape responses faster than non-injured squid, significantly improving survival. The extra suffering quite possibly saved their lives.footnote:[Crook, R. J., Dickson, K., Hanlon, R. T., & Walters, E. T. (2014). Nociceptive sensitization reduces predation risk. Current Biology, 24(10), 1121-1125.]
 
 But evolution's strongest testimony to animal consciousness might come from an unexpected source: snake venom. Three separate cobra lineages independently evolved the ability to spit venom as defense. Remarkably, all three evolved the same biochemical innovation—toxins specifically designed not to kill but to cause extreme pain in mammalian pain receptors.footnote:[Kazandjian, T. D., Petras, D., Robinson, S. D., van Thiel, J., Greene, H. W., Arbuckle, K., ... & Casewell, N. R. (2021). Convergent evolution of pain-inducing defensive venom components in spitting cobras. Science, 371(6527), 386-390.]
 
-Think about what this means. For this defense to work, the targeted animals must not just detect the venom but find it experientially awful—so awful they'll avoid future encounters. The cobras evolved a weapon that specifically targets conscious suffering because their predators consciously suffer.
+Think about what this means. For this defense to work, the targeted animals must not just detect the venom but find it experientially awful—so awful they'll avoid future encounters. In this reading of the evidence, cobras evolved a weapon that specifically targets conscious suffering because their predators consciously suffer.
 
 === The Hard Problem and the Honest Response
 
@@ -147,6 +149,7 @@ The skeptic demanding proof of consciousness sets an impossible standard—one w
 
 Perhaps most tellingly, the "discovery" of animal consciousness is only surprising within a specific cultural context. Jainism has built an entire ethical system around minimizing harm to all sentient beings, organizing life by sensory capacity and corresponding ability to suffer. Buddhism recognizes animals as fellow sentient beings caught in the same cycle of suffering as humans. Indigenous traditions worldwide recognize animals as persons—different from humans but equally real in their experiences and relationships.footnote:[Harvey, G. (2006). Animism: Respecting the living world. Columbia University Press.]
 
+// TODO: not sure about this anecdote
 These aren't primitive anthropomorphisms but sophisticated worldviews that Western science is slowly validating. When Yup'ik hunters speak of seals "giving themselves" to respectful hunters, they're acknowledging what Cambridge neuroscientists put in technical language—that these are conscious beings whose lives matter.
 
 The convergence is striking. Whether we examine neurons or observe behavior, whether we consult neuroscientists or indigenous elders, whether we study evolution or practice meditation, the conclusion remains consistent: the animals we eat are sentient beings capable of suffering and joy, fear and contentment, bonds and loss.
