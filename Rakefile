@@ -50,7 +50,7 @@ namespace :book do
   desc "build PDF format"
   task :build_pdf do
     puts "Converting to PDF... (this one takes a while)"
-    `bundle exec asciidoctor-pdf #{params} -D #{BUILD_DIR} ypsea-book.adoc 2>/dev/null`
+    `bundle exec asciidoctor-pdf #{params} --theme book -a pdf-themesdir=. -a compress -D #{BUILD_DIR} ypsea-book.adoc 2>/dev/null`
     puts " -- PDF output at #{BUILD_DIR}/ypsea-book.pdf"
   end
 
