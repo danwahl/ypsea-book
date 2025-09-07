@@ -51,9 +51,9 @@ From this foundation, the path to our plates is straightforward. If unnecessary 
 
 The third bridge is less philosophical construction and more empirical observation: we already routinely derive oughts from is-statements, especially about environmental issues.
 
-Consider climate change. The statement "carbon emissions are warming the planet" is a scientific fact. The statement "we ought to reduce carbon emissions" is a moral imperative. Yet most people make this leap without existential hand-wringing. Why? Because when facts reveal serious harm to life and wellbeing, the moral response feels obvious, not mysterious.footnote:[For discussion of how environmental ethics navigates the is-ought gap, see Callicott, J. B. (1999). Beyond the Land Ethic. SUNY Press.]
+Consider preventable diseases. The statement "thousands of children die from malaria each year" is a factual observation. The statement "we ought to prevent these deaths" is a moral imperative. Yet most people make this leap without existential hand-wringing. Why? Because when facts reveal serious harm to life and wellbeing, the moral response feels obvious, not mysterious.footnote:[For discussion of how environmental ethics navigates the is-ought gap, see Callicott, J. B. (1999). Beyond the Land Ethic. SUNY Press.]
 
-If we accept that causing unnecessary harm to the environment creates obligations, why wouldn't causing unnecessary harm to sentient beings? The same logic applies to animal agriculture. When facts reveal systematic harm—suffering to billions of conscious creatures, environmental destruction, pandemic risk—the ought emerges not through philosophical trickery but through basic common sense.
+The same logic applies to animal agriculture. When facts reveal systematic harm—suffering to billions of conscious creatures, environmental destruction, pandemic risk—the ought emerges not through philosophical trickery but through basic common sense.
 
 === When All Ethical Roads Lead to Rome
 

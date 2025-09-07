@@ -18,8 +18,7 @@ Let's start with the animals we think we know.
 
 ==== The Social Cow
 
-// TODO: replace this anecdote
-When Emily arrived at a British sanctuary after years on a dairy farm, she did something that surprised even seasoned animal caregivers: she went looking for a friend. Not just any friend—she was searching for Jasmine, a cow she'd been separated from two years earlier. When sanctuary workers tracked down and reunited them, the two cows spent hours grooming each other and have remained inseparable since.footnote:[This anecdote, while not from a peer-reviewed source, represents documented behavior consistent with Marino, L., & Allen, K. (2017). The psychology of cows. Animal Behavior and Cognition, 4(4), 474-498.]
+When Ros arrived at Farm Sanctuary, she did something that moved even seasoned caregivers to tears. Though completely blind and in unfamiliar surroundings, she immediately found Tricia—another blind cow who'd been grieving the loss of her previous companion. Despite never having met before, the two cows instantly recognized something in each other. Within moments, they were grooming one another and have remained inseparable ever since.footnote:[Farm Sanctuary. "Better Together: Tricia and Ros, Blind Cows Who Are the Best of Friends." Accessed 2025.]
 
 This wasn't a fluke or anthropomorphic projection. Cattle form preferential bonds that scientists straightforwardly call "friendships." They choose specific companions to spend time with, become stressed when separated from them, and show physiological signs of comfort in their presence. When researchers measured stress hormones in cattle, they found that cows show lower cortisol levels—the biological marker of stress—when accompanied by their preferred companions versus randomly assigned ones.footnote:[Boissy, A., & Le Neindre, P. (1997). Behavioral, cardiac and cortisol responses to brief peer separation and reunion in cattle. Physiology & Behavior, 61(5), 693-699.]
 
@@ -120,7 +119,7 @@ These aren't programmed responses. They're decisions based on internal states—
 
 At this point, a deeper question emerges: why would consciousness evolve at all? Why should natural selection produce inner experience rather than sophisticated but unconscious responses? The answer reveals why consciousness—far from being a rare accident—is exactly the kind of thing we should expect evolution to produce.
 
-Pain that merely causes withdrawal is like a smoke alarm that only sounds once. It alerts to immediate danger but teaches nothing about avoiding future threats. Conscious pain—pain that feels bad—creates memories, shapes behavior, and drives learning. An animal that feels pain remembers what caused it, avoids similar situations, and modifies its behavior during healing. One that merely responds reflexively learns nothing.
+Pain that merely causes withdrawal is like autocorrect fixing your typo without you noticing—the mistake gets addressed but you never learn to spell the word correctly. Conscious pain—pain that feels bad—creates memories, shapes behavior, and drives learning. An animal that feels pain remembers what caused it, avoids similar situations, and modifies its behavior during healing. One that merely responds reflexively learns nothing.
 
 Consider nociceptive sensitization—the increased pain sensitivity around injuries. This seems maladaptive (why hurt more when already injured?) until researchers tested its survival value. Squid with injuries showed enhanced sensitivity to touch around their wounds. When exposed to predators, these sensitized squid initiated escape responses faster than non-injured squid, significantly improving survival. The extra suffering quite possibly saved their lives.footnote:[Crook, R. J., Dickson, K., Hanlon, R. T., & Walters, E. T. (2014). Nociceptive sensitization reduces predation risk. Current Biology, 24(10), 1121-1125.]
 
@@ -149,8 +148,7 @@ The skeptic demanding proof of consciousness sets an impossible standard—one w
 
 Perhaps most tellingly, the "discovery" of animal consciousness is only surprising within a specific cultural context. Jainism has built an entire ethical system around minimizing harm to all sentient beings, organizing life by sensory capacity and corresponding ability to suffer. Buddhism recognizes animals as fellow sentient beings caught in the same cycle of suffering as humans. Indigenous traditions worldwide recognize animals as persons—different from humans but equally real in their experiences and relationships.footnote:[Harvey, G. (2006). Animism: Respecting the living world. Columbia University Press.]
 
-// TODO: not sure about this anecdote
-These aren't primitive anthropomorphisms but sophisticated worldviews that Western science is slowly validating. When Yup'ik hunters speak of seals "giving themselves" to respectful hunters, they're acknowledging what Cambridge neuroscientists put in technical language—that these are conscious beings whose lives matter.
+When Inuit hunters perform rituals of respect for the seals they hunt.footnote:[https://webdocs.cs.ualberta.ca/~vis/models/sealhunt/culture.html, accessed 2025.], they're acknowledging a relationship with these animals that Western science has only recently begun to validate through studies of consciousness.
 
 The convergence is striking. Whether we examine neurons or observe behavior, whether we consult neuroscientists or indigenous elders, whether we study evolution or practice meditation, the conclusion remains consistent: the animals we eat are sentient beings capable of suffering and joy, fear and contentment, bonds and loss.
 

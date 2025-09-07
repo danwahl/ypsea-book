@@ -1,12 +1,15 @@
 == Eat
 
-Last Thanksgiving, while 46 million turkeys met their end across America, I found myself thinking about a number: 2,628.
+Last Thanksgiving, while 46 million turkeys met their end across America, I found myself thinking about another number: 1,750.footnote:[animalclock.org, accessed 2025.]
 
-That's how many animals the average American eats in their lifetime. Not meals. Individual animals. If you're 30 years old and reading this, you've likely already consumed about 900 chickens, 30 pigs, and 10 cows, plus assorted turkeys, fish, and others. Each one experiencing something like what Moritz the pig experienced—self-recognition, social bonds, fear, pain—until they didn't.
+That's about how many animals are killed for food in the US, every second. Each one experiencing something like what Moritz the pig experienced—self-recognition, social bonds, fear, pain—until they didn't.
 
-But this chapter isn't about making you feel guilty for past meals. It's about understanding what it means to eat animals at the scale we do today, and why the system we've built to satisfy our appetite sits at the intersection of multiple catastrophes. Not metaphorical catastrophes or future risks, but measurable, ongoing crises affecting the planet's climate, its capacity to feed humans, and our own health.
+But this chapter isn't about making you feel guilty. It's about understanding what it means to eat animals at the rate we do today, and why the system we've built to satisfy our appetite sits at the intersection of multiple catastrophes. Not metaphorical catastrophes or future risks, but measurable, ongoing crises affecting the planet's climate, its capacity to feed humans, and our own health.
 
-The story of how we got here—how eating animals transformed from occasional feast to industrial imperative—reveals something important about the difference between what we think we're doing when we eat meat and what we're actually doing. Because once we acknowledge that the animals on our plates likely had inner lives, we must confront not just the fact of their deaths but the entire machinery that produced them.
+The story of how we got here—how eating animals transformed from occasional feast to industrial imperative—reveals something important about the difference between what we think we're doing when we eat meat and what we're actually doing. Because once we acknowledge that those 1,750 animals likely had inner lives, we must confront not just the fact of their deaths but the entire machinery that produced them.
+
+.The animals killed for food in the US, every second
+image::images/animalclock.png[The animals killed for food in the US, every second, align=center]
 
 === The Scale of the Machine
 
@@ -16,7 +19,7 @@ In 2023, humans slaughtered 85.4 billion land animals for food.footnote:[FAO sta
 
 But here's what the aggregate numbers hide: we're not eating 85 billion cows. The overwhelming majority—75 billion—are chickens.footnote:[FAO data shows chickens account for over 88% of land animals slaughtered annually.] This matters because if consciousness is what matters morally, then the shift toward eating smaller animals has dramatically increased the number of individuals who suffer for our food. One cow might feed a family for months; one chicken feeds a family for one meal.
 
-This is what animal advocates call the "small-bodied animal problem." Our collective move from beef to chicken, often motivated by health or environmental concerns, has paradoxically increased the total number of sentient beings killed. It's like trying to reduce your environmental footprint by switching from an SUV to a motorcycle, but then driving 50 motorcycles.
+This is what animal advocates call the "small-bodied animal problem." Our collective move from beef to chicken, often motivated by health or environmental concerns, has paradoxically increased the total number of sentient beings killed. It's like trying to cut caffeine by switching from coffee to tea, then drinking twenty cups of tea a day.
 
 // TODO: just the oceans?
 The numbers become even more staggering when we include aquatic animals. Unlike land animals, fish are measured by weight rather than individuals—a convenient abstraction that helps us avoid confronting that we're killing somewhere between one and three trillion sentient beings from the oceans each year.footnote:[Estimates from "How Many Animals Are Killed for Food Every Day?" Sentient Media, 2025.]
@@ -140,7 +143,7 @@ One study estimated the global environmental cost of livestock at $1.18 trillion
 
 This economic fiction is maintained through massive subsidies. In the US alone, corn and soy producers—who grow mostly animal feed—received over $5 billion in federal subsidies in 2024.footnote:["Federal farm subsidies: What the data says," USAFacts, 2025.] The top 10,000 livestock operations received $12.1 billion in federal assistance between 2018 and 2023.footnote:["Department of Agriculture: Financial Assistance to Livestock Feeding Operations," GAO, 2025.]
 
-// TODO: extend this section on subsidies--how did we get here?
+These subsidies work through several mechanisms: direct payments to farmers based on acreage, subsidized crop insurance that socializes losses from poor harvests, price supports that guarantee minimum prices regardless of market conditions, and tax breaks for agricultural equipment and infrastructure. The result? Animal feed is artificially cheap, making meat production appear economically efficient when it's actually propped up by billions in taxpayer dollars. Without these subsidies, the true cost of animal products would be reflected at the checkout counter—and plant-based options would be the obvious economical choice.
 
 We're paying three times for animal products: once at the store, again through our taxes, and finally through environmental and health damages that may prove irreversible.
 
