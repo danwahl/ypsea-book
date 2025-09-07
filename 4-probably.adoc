@@ -6,7 +6,7 @@ The Bush administration was evil. Animals were for eating. Radiohead's *OK Compu
 
 Then something terrible happened: I kept learning things.
 
-Not big, dramatic revelations, but small cracks in the foundation. A philosophy class that complicated my easy ethics. A conservative coworker who was frustratingly kind. That growing suspicion that maybe *Kid A* was actually the masterpiece. Each new bit of information didn't strengthen my certainty—it eroded it, like water wearing away stone.
+Not big, dramatic revelations, but small cracks in the foundation. A philosophy class that complicated my easy ethics. A conservative coworker who was frustratingly kind. That growing suspicion that *Kid A* was actually the masterpiece. Each new bit of information didn't strengthen my certainty—it eroded it, like water wearing away stone.
 
 By thirty, I'd replaced most of my exclamation points with question marks. By forty, even the question marks came with footnotes.
 
@@ -20,7 +20,7 @@ Because when you're not sure, but the stakes are high, what you do with that unc
 
 === The Consciousness Conundrum
 
-Let me tell you about the most uncomfortable question in animal ethics: What if they don't feel anything at all?
+For me, the most uncomfortable question in animal ethics is: What if they don't feel anything at all?
 
 I don't mean this glibly. Some serious philosophers argue that what we interpret as animal suffering might be something else entirely—complex but unconscious responses, like a robot processing inputs without any inner experience. They have better arguments than you might think.
 
@@ -38,7 +38,7 @@ I find these arguments ultimately unconvincing, but I can't dismiss them entirel
 
 ==== Living Without Certainty
 
-Here's what's remarkable: we face this same uncertainty about human consciousness. I can't prove you're conscious rather than a p-zombie going through the motions. The problem of other minds is unsolvable in principle—we're each trapped in our own subjective experience, inferring but never knowing what others feel.
+But it doesn't stop with animals: we face this same uncertainty about human consciousness. I can't prove you're conscious rather than a p-zombie going through the motions. The problem of other minds is unsolvable in principle—we're each trapped in our own subjective experience, inferring but never knowing what others feel.
 
 Yet we don't throw up our hands and treat other humans as maybe-zombies. We assume they're conscious because the evidence strongly suggests it and the moral cost of being wrong is astronomical. The same logic applies to animals.
 
@@ -60,7 +60,7 @@ Push this logic far enough and you reach the reducto ad absurdum: What if plants
 
 But this slippery slope assumes we need certainty to act ethically. We don't. We need reasonable judgment about managing risk.
 
-Here's a practical framework: The evidence for mammal and bird consciousness is overwhelming. The evidence for fish consciousness is strong. The evidence for insect consciousness is suggestive and growing. The evidence for bivalve consciousness is minimal. The evidence for plant consciousness is nonexistent despite extensive investigation.
+Here's a practical framework: The evidence for mammal and bird consciousness is overwhelming. The evidence for fish consciousness is strong. The evidence for insect consciousness is suggestive and growing. The evidence for bivalve consciousness is minimal. The evidence for plant consciousness is practically nonexistent despite extensive investigation.
 
 This isn't arbitrary line-drawing. It's evidence-based risk assessment. When the stakes are high (potential suffering) and alternatives exist (plant foods), we should err on the side of caution. Not because we're certain, but because we're not.
 
@@ -114,7 +114,7 @@ When facing such profound uncertainty about creating lives for our own purposes,
 
 === Nature, Red in Tooth and Claw
 
-Here's something that keeps me up at night: the baby sea turtles.
+Consider the baby sea turtles.
 
 When they hatch, hundreds scramble toward the ocean in darkness. Seabirds pick them off one by one. Ghost crabs drag them into burrows. Those that reach the water face predatory fish. Of the hundreds that hatch, maybe one or two survive to adulthood. The beach becomes a killing field, and this is nature working exactly as intended.
 
@@ -155,7 +155,8 @@ In the face of such vast suffering—both wild and farmed—probably we should a
 === The Human Exception
 
 Here's a confession that might surprise you: I don't really like vegetables.
-Almost ten years into being vegan, and I still regard Brussels sprouts with deep suspicion. Kale tastes like punishment. Don't get me started on beets. My ideal meal involves bread, pasta, or potatoes—preferably all three. If left to my own devices, I'd probably get scurvy.
+
+Almost ten years into being vegan, and I still regard asparagus with deep suspicion. Sautéed spinach tastes like punishment. Don't get me started on cabbage. My ideal meal involves bread, pasta, or potatoes—preferably all three. If left to my own devices, I'd probably get scurvy.
 
 I mention this because people assume vegans are powered by pure love of plants. That we wake up craving wheatgrass shots and dream in shades of quinoa. But I'm vegan despite my vegetable aversion, not because of some deep affinity for produce. Which illustrates something important: the ethics of eating animals isn't about what you like. It's about what you can live without.
 
@@ -165,11 +166,11 @@ But what if you genuinely can't live without animal products? Not preference but
 
 In Qaanaaq, Greenland, the growing season lasts six weeks. The rest of the year, the ground is frozen harder than concrete. For the Inuit people who've lived here for millennia, the question isn't whether to eat animals but which ones—seal, whale, walrus, or caribou.footnote:[Borré, K. (1991). "Seal blood, Inuit blood, and diet: a biocultural model of physiology and cultural identity." Medical Anthropology Quarterly, 5(1), 48-62.]
 
-This isn't a lifestyle choice. It's thermodynamics. At -40°F, the human body needs 5,000 calories a day just to maintain temperature. Seal blubber provides those calories in a way no imported plant food could match, even if shipping quinoa to the Arctic Circle weren't absurdly impractical.
+This isn't a lifestyle choice. It's thermodynamics. At -40°F, the human body needs 5,000 calories a day just to maintain temperature. Seal blubber provides those calories in a way no imported plant food could match, even if shipping Impossible Burgers to the Arctic Circle weren't absurdly impractical.
 
 Similar realities face pastoral communities worldwide. The Maasai of East Africa, Mongolian herders, Himalayan yak farmers—for people in environments where crops won't grow, animals convert inedible grasses into human nutrition. These aren't just food systems but entire cultures evolved to thrive where plant agriculture fails.footnote:[Fratkin, E. (1997). "Pastoralism: Governance and development issues." Annual Review of Anthropology, 26(1), 235-261.]
 
-Then there's the sovereignty issue. When Indigenous peoples practice traditional hunting, they're not just acquiring calories. They're maintaining relationships with land, ancestors, and identity that colonialism has spent centuries trying to erase. Telling them to go vegan can look like the latest chapter in cultural imperialism.footnote:[Kim, C. J. (2015). Dangerous Crossings: Race, Species, and Nature in a Multicultural Age. Cambridge University Press.]
+Then there's the sovereignty issue. When Indigenous peoples practice traditional hunting, they're not just acquiring calories. They're maintaining relationships with land, ancestors, and identity that have been under threat for centuries. Telling them to go vegan can look like the latest chapter in cultural imperialism.footnote:[Kim, C. J. (2015). Dangerous Crossings: Race, Species, and Nature in a Multicultural Age. Cambridge University Press.]
 
 ==== Subsistence Versus Scale
 
@@ -181,7 +182,7 @@ More importantly, these traditional systems can't scale. There's not enough wild
 
 This exposes industrial agriculture's central lie. It claims to be necessary for feeding the world, but it's actually shockingly inefficient. We feed enough grain to farmed animals to nourish 3.5 billion humans directly. Animal agriculture is a massive calorie-destruction machine, wasting resources while claiming necessity.footnote:[Cassidy, E. S., West, P. C., Gerber, J. S., & Foley, J. A. (2013). "Redefining agricultural yields: from tonnes to people nourished per hectare." Environmental Research Letters, 8(3), 034015.]
 
-So yes, some people in some places need animal products to survive. But using Inuit seal hunting to defend buying factory-farmed chicken at Walmart is like using emergency cannibalism to justify Jeffrey Dahmer. The existence of genuine exceptions doesn't excuse the rule.
+So yes, some people in some places need animal products to survive. But using Inuit seal hunting to defend buying factory-farmed chicken at Walmart is like using handicap parking to justify blocking a fire lane. The existence of genuine exceptions doesn't excuse the rule.
 
 ==== Drawing Circles, Not Lines
 
@@ -189,7 +190,7 @@ What matters isn't drawing rigid lines but recognizing contexts. Unnecessary har
 
 For the tiny percentage of humans who genuinely need animal products—whether due to geography, biology, or circumstance—the ethical framework shifts. The question becomes not "whether" but "how": how to minimize harm, respect relationships, and acknowledge necessity.
 
-For the rest of us—especially those reading this book in climate-controlled rooms with year-round supermarket access—these exceptions offer no cover. We're not subsistence hunters or Arctic dwellers or people with Sarah's medical needs. We're people with choices, pretending we don't.
+For the rest of us—especially those reading this book in climate-controlled rooms with year-round supermarket access—these exceptions offer no cover. We're not subsistence hunters or Arctic dwellers or people with rare medical conditions that require animal products. We're people with choices, pretending we don't.
 
 The existence of genuine edge cases makes the center case clearer, not murkier. Unless you're reading this in an igloo, on the Mongolian steppes, or in a gastroenterologist's office, the exceptions probably don't apply to you.
 
@@ -227,11 +228,11 @@ Technology can reduce friction, but it can't create meaning. Lab-grown meat migh
 
 The deeper problem with waiting for perfect solutions is what happens while we wait. Every year of delay means billions more animals suffering in factory farms. Every "I'll change when lab meat arrives" means participating in the current system until someone else solves the problem.
 
-It's like continuing to dump toxic waste while waiting for someone to invent perfect recycling. The harm continues, compounding, while we hope for a technological salvation that may be decades away.
+It's like continuing to smoke while waiting for a cure for lung cancer. The harm continues, compounding, while we hope for a technological salvation that may be decades away.
 
 We don't need perfect solutions. We have good enough ones right now. Whatever cultivated meat might offer someday, plant proteins work today. Whatever regenerative grazing might achieve theoretically, plant agriculture uses less land practically. Whatever welfare reforms might accomplish eventually, not eating animals prevents suffering immediately.
 
-The waiting game assumes we need perfection before taking imperfect action. But ethics isn't about perfection—it's about doing the best we can with what we have. And what we have is sufficient.
+The waiting game assumes we need perfection before taking imperfect action. But practical ethics isn't about perfection—it's about doing the best we can with what we have.
 
 Yes, develop better alternatives. Yes, improve farming practices. Yes, celebrate every technological advance. But while waiting for perfect solutions, we can't ignore adequate ones. When certain harm continues while we wait for uncertain fixes, waiting becomes complicity.
 
@@ -241,11 +242,11 @@ Probably, we shouldn't wait.
 
 And so we return to "probably."
 
-Not as weakness or hedging, but as honest reckoning with complexity. We've examined the strongest objections to plant-based ethics—consciousness skepticism, existence paradoxes, natural suffering, human exceptions, technological promises. Each introduces genuine uncertainty. None provides comfortable clarity.
+Not as weakness or hedging, but as honest reckoning with complexity. We've examined some of the strongest objections to plant-based ethics—consciousness skepticism, existence paradoxes, natural suffering, human exceptions, technological promises. Each introduces genuine uncertainty. None provides comfortable clarity.
 
 But here's what becomes clear through the uncertainty: doubt doesn't paralyze ethics, it clarifies them.
 
-When we're unsure whether beings suffer, uncertainty argues for caution. When we're unsure whether lives are worth living, uncertainty argues against creating them for exploitation. When we're unsure how to help wild animals, uncertainty argues for not actively harming them. When we're unsure where consciousness ends, uncertainty argues for drawing generous boundaries. When we're unsure when technology will deliver, uncertainty argues for using available solutions.
+When we're unsure whether beings suffer, uncertainty argues for caution. When we're unsure whether lives are worth living, uncertainty argues against creating them for exploitation. When we're unsure how to help wild animals, uncertainty argues for not actively harming them. When we're unsure where consciousness ends, uncertainty argues for drawing generous boundaries. When we're unsure when future technology will deliver, uncertainty argues for using what's available now.
 
 The pattern is consistent: uncertainty plus high stakes equals precaution.
 
@@ -257,7 +258,7 @@ The same logic applies to our plates. We're uncertain about consciousness bounda
 
 The skeptics demanded proof. The utilitarian posed paradoxes. The naturalists pointed to suffering. The anthropologists noted exceptions. The optimists promised solutions. Each raised important challenges without providing satisfying answers. But taken together, they point toward one conclusion: when facing potential complicity in vast suffering with available alternatives, we should choose the alternatives.
 
-Not self-righteously. Not absolutely. But probably, and with good reason.
+Not self-righteously. Not without question. But probably, and with good reason.
 
 Which brings us to our final word: "you." Because recognizing what we probably shouldn't do only matters if someone actually stops doing it. The question isn't whether humanity in abstract should change, but whether the specific person reading this will.
 

@@ -6,9 +6,9 @@ This wasn't a Disney movie moment. It was a carefully controlled experiment at t
 
 The eighth pig? He kept searching behind the mirror, occasionally stopping to admire his reflection.
 
-I think about pigs like Moritz sometimes when I'm grocery shopping, standing in the meat aisle where pork chops lie in neat rows under fluorescent lights. The packages list weights and prices per pound, cooking suggestions, and occasionally a farm's bucolic name. What they never mention is that their contents once belonged to someone who could recognize themselves in a mirror, who had preferences and friendships, who—as we'll see—possessed an emotional life rich enough to include optimism and pessimism, empathy and spite.
+I think about pigs like Moritz sometimes when I'm grocery shopping, walking past the meat aisle where pork chops lie in neat rows under fluorescent lights. The packages list weights and prices per pound, cooking suggestions, and occasionally a farm's bucolic name. What they never mention is that their contents once belonged to someone who could recognize themselves in a mirror, who had preferences and friendships, who—as we'll see—possessed an emotional life rich enough to include optimism and pessimism, empathy and spite.
 
-The question this chapter explores isn't whether animals are conscious. The weight of scientific evidence points overwhelmingly in one direction—though absolute certainty remains elusive, as it does for all questions of inner experience. The real question is how we've managed to ignore this mounting evidence so effectively, and what it means to truly confront the likelihood that the animals we eat aren't biological machines but sentient beings with inner lives.
+The question this chapter explores isn't simply *whether* animals are conscious. The weight of scientific evidence points overwhelmingly in one direction—though absolute certainty remains elusive, as it does for all questions of inner experience. The deeper question is how we've managed to ignore this mounting evidence so effectively, and what it means to truly confront the likelihood that the animals we eat aren't biological machines but sentient beings with inner lives.
 
 To understand this, we need to meet them on their own terms.
 
@@ -48,7 +48,7 @@ They don't just live in different environments. They experience different emotio
 
 === The Uncomfortable Middle
 
-So far, we've discussed mammals—animals whose faces we can read, whose social bonds mirror our own, whose intelligence we grudgingly respect. But the vast majority of animals killed for food aren't mammals. They're chickens and fish—animals we find harder to empathize with, whose consciousness we more readily dismiss.
+So far, we've discussed mammals—animals whose faces we can read, whose social bonds mirror our own, whose intelligence we grudgingly respect. But the vast majority of animals killed for food aren't mammals. They're chickens, fish, and increasingly, shrimp—animals we find harder to empathize with, whose consciousness we more readily dismiss.
 
 This dismissal, as we'll see, says more about us than about them.
 
@@ -102,7 +102,7 @@ This discovery did more than map pain—it proved the distinction between nocice
 
 But what about animals without our exact brain structures? This question long justified dismissing fish and bird consciousness—they lack our layered neocortex, so how could they be conscious? The answer reveals a profound underestimation of evolution. Consciousness isn't tied to specific structures but to functions—functions that evolution has achieved through different means in different lineages.
 
-Birds demonstrate this principle beautifully. Their brains lack our neocortical layers but pack neurons differently, achieving similar computational power in less space. A crow's brain, despite being walnut-sized, contains neural densities that give it the problem-solving abilities of a young child. The avian pallium performs the same consciousness-supporting functions as the mammalian neocortex, just with different architecture.footnote:[Olkowicz, S., Kocourek, M., Lučan, R. K., Porteš, M., Fitch, W. T., Herculano-Houzel, S., & Němec, P. (2016). Birds have primate-like numbers of neurons in the forebrain. Proceedings of the National Academy of Sciences, 113(26), 7255-7260.]
+Birds demonstrate this principle beautifully. Their brains lack our neocortical layers but pack neurons differently, achieving similar computational power in less space—an elegant solution driven by the evolutionary need to minimize weight for flight. A crow's brain, despite being walnut-sized, contains neural densities that give it the problem-solving abilities of a young child. The avian pallium performs the same consciousness-supporting functions as the mammalian neocortex, just with different architecture.footnote:[Olkowicz, S., Kocourek, M., Lučan, R. K., Porteš, M., Fitch, W. T., Herculano-Houzel, S., & Němec, P. (2016). Birds have primate-like numbers of neurons in the forebrain. Proceedings of the National Academy of Sciences, 113(26), 7255-7260.]
 
 ==== The Behavioral Evidence
 

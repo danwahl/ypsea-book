@@ -16,9 +16,10 @@ The answer requires us to venture into philosophy, history, and psychology—but
 
 David Hume had a point that's been irritating philosophers for nearly 300 years.
 
-The Scottish philosopher noticed that moral arguments tend to pull a fast one. They start with statements about how the world is—descriptive facts anyone can observe—then suddenly jump to claims about how the world ought to be—prescriptive commands about right and wrong. This leap, Hume argued, is logically suspicious. You can't derive an "ought" from an "is" any more than you can pull a rabbit from a hat that definitely didn't have a rabbit in it.footnote:[Hume, D. (1739). A Treatise of Human Nature. The specific passage about is-ought appears in Book III, Part I, Section I.]
+The Scottish philosopher noticed that moral arguments tend to pull a fast one. They start with statements about how the world is—descriptive facts anyone can observe—then suddenly jump to claims about how the world ought to be—prescriptive commands about right and wrong. This leap, Hume argued, is logically suspicious. You can't derive an "ought" from an "is" any more than you can derive "wet" from "H₂O" without already knowing what water does.footnote:[Hume, D. (1739). A Treatise of Human Nature. The specific passage about is-ought appears in Book III, Part I, Section I.]
 
 Take a seemingly straightforward moral argument:
+
 1. Factory farms cause billions of animals to suffer (is)
 2. Therefore, we ought not support factory farms (ought)
 
@@ -52,13 +53,13 @@ The third bridge is less philosophical construction and more empirical observati
 
 Consider climate change. The statement "carbon emissions are warming the planet" is a scientific fact. The statement "we ought to reduce carbon emissions" is a moral imperative. Yet most people make this leap without existential hand-wringing. Why? Because when facts reveal serious harm to life and wellbeing, the moral response feels obvious, not mysterious.footnote:[For discussion of how environmental ethics navigates the is-ought gap, see Callicott, J. B. (1999). Beyond the Land Ethic. SUNY Press.]
 
-The same logic applies to animal agriculture. When facts reveal systematic harm—suffering to billions of conscious creatures, environmental destruction, pandemic risk—the ought emerges not through philosophical trickery but through basic moral consistency. If we accept that causing unnecessary harm to the environment creates obligations, why wouldn't causing unnecessary harm to sentient beings?
+If we accept that causing unnecessary harm to the environment creates obligations, why wouldn't causing unnecessary harm to sentient beings? The same logic applies to animal agriculture. When facts reveal systematic harm—suffering to billions of conscious creatures, environmental destruction, pandemic risk—the ought emerges not through philosophical trickery but through basic common sense.
 
 === When All Ethical Roads Lead to Rome
 
-Philosophy departments love their disagreements. Put three ethicists in a room and you'll get five incompatible moral theories. Which makes it all the more striking when these competing frameworks converge on the same conclusion.
+Philosophy departments love their disagreements. Put four ethicists in a room and you'll get five incompatible moral theories. Which makes it all the more striking when these competing frameworks converge on the same conclusion.
 
-Let me show you something remarkable.
+Let's explore how three major ethical traditions—deontology, utilitarianism, and virtue ethics—approach the issue of animal agriculture.
 
 ==== The Rights Approach: It's About Justice
 
@@ -100,7 +101,7 @@ When philosophical rivals agree, it's like seeing Democrats and Republicans co-s
 
 === The American Tradition of Principled Refusal
 
-Americans love to vote with their wallets. It's as American as apple pie, though presumably a pie no one's boycotting. From the Boston Tea Party onward, refusing to buy things has been our national sport when the ballot box feels insufficient.
+Americans love to vote with their wallets. It's as American as apple pie (which, incidentally, still tastes great when made without animal products). From the Boston Tea Party onward, refusing to buy things has been our national sport when the ballot box feels insufficient.
 
 This tradition offers crucial context for modern dietary refusal. Choosing plant-based eating isn't some newfangled form of "virtue signaling" or "cancel culture." It's the latest chapter in a story that includes colonial patriots, abolitionists, temperance crusaders, labor organizers, and civil rights activists. Understanding this history does two things: it reveals the power of economic non-participation, and it shows how principled refusal transcends political boundaries.
 
@@ -112,7 +113,7 @@ Before Prohibition became law, it was a consumer movement. The WCTU organized wo
 
 Were they priggish? Sure. Self-righteous? Absolutely. Effective? Well, they amended the Constitution. Not bad for a movement dismissed as church ladies with too much time on their hands.
 
-The lesson isn't that Prohibition was good policy (it wasn't) but that organized consumer refusal, even from a relatively powerless group, can reshape society. When people derided them as mere "moral scolds" engaged in "virtue signaling," they were building the organizational infrastructure that would transform American law.
+The lesson isn't that Prohibition was good policy (it wasn't) but that organized consumer refusal, even from a relatively powerless group, can reshape society. When people derided them as mere "moral scolds" engaged in "virtue signaling," they were building the organizational infrastructure that would (temporarily) transform American law.
 
 ==== When Progressives Boycotted Grapes
 
@@ -142,7 +143,7 @@ So far we've established that eating animals violates major ethical frameworks a
 
 ==== The Meat Paradox: A Case Study in Cognitive Dissonance
 
-Here's a fun party trick: ask people if they love animals and they'll say yes. Ask if they think animals should suffer unnecessarily and they'll say no. Then watch them order a burger.
+Ask if they think animals should suffer unnecessarily and they'll say no. Then watch them order a burger. (And watch yourself stop getting invited to dinner parties for pointing this out.)
 
 Psychologists call this the "meat paradox"—the uncomfortable tension between caring about animals and eating them.footnote:[Loughnan, S., Haslam, N., & Bastian, B. (2010). "The role of meat consumption in the denial of moral status and mind to meat animals." Appetite, 55(1), 156-159.] It's a textbook case of cognitive dissonance, that queasy feeling when our beliefs and behaviors don't align. Like a gym membership gathering dust while we binge Netflix, the gap between values and actions creates psychological discomfort.
 
@@ -160,7 +161,7 @@ Here's where things get interesting. When someone refuses to eat animals, they'r
 
 Think about it: if your dinner companion orders the veggie burger, what does that say about your bacon cheeseburger? Nothing explicitly. But implicitly? It suggests that avoiding meat is possible, practical, maybe even preferable. Your choice, previously invisible as water to a fish, suddenly becomes visible—and questionable.
 
-This visibility creates what researchers call "do-gooder derogation"—the tendency to disparage people who make ethical choices that implicitly challenge our own. It's why vegetarians get labeled preachy, self-righteous, and annoying, often before they've said anything beyond "I'll have the salad."
+This visibility creates what researchers call "do-gooder derogation"—the tendency to disparage people who make ethical choices that implicitly challenge our own. It's why vegetarians get labeled preachy, self-righteous, and annoying, often before they've said anything beyond "I'll have the salad."footnote:[Which, let's be honest, is rarely the most satisfying meal at a restaurant.]
 
 But here's the twist: this defensive reaction reveals the power of visible non-participation. People don't get angry about irrelevant choices. No one feels judged by someone ordering chocolate instead of vanilla ice cream. The emotional response to ethical eating reveals an underlying recognition that something moral is at stake.
 
@@ -174,7 +175,7 @@ The goal isn't to be a walking judgment on others' choices but to be a living ex
 
 === Making Ethics Edible
 
-At this point, a thoughtful reader might object: "This all sounds very philosophical, but I make food choices with my stomach, not my syllogisms." Fair point. The gap between abstract ethics and actual eating is where most good intentions go to die, usually around dinnertime.
+At this point, a thoughtful reader might object: "This all sounds very philosophical, but I make food choices with my stomach, not my syllogisms." Fair point. The gap between abstract ethics and actual eating is where most good intentions go to die, usually around lunchtime.
 
 But this is precisely why dietary choice works as moral practice. Unlike many ethical obligations that remain abstract—donate to effective charities, reduce carbon emissions, fight systemic injustice—food choices are concrete, repeated, and visible. Three times a day, ethics becomes edible.
 
@@ -188,7 +189,7 @@ This concreteness serves several functions:
 
 ==== Beyond Purity Politics
 
-Here's where I need to be careful, because movements have a tendency to eat themselves through purity testing. The goal isn't to achieve some state of perfect moral cleanliness. (Spoiler: you can't. Even vegetable agriculture involves some harm.) The goal is to reduce participation in unnecessary suffering while building a more ethical food system.
+Here's where we need to be careful, because movements have a tendency to self-destruct through purity testing. The goal isn't to achieve some state of perfect moral cleanliness. (Spoiler: you can't. Even vegetable agriculture involves some harm to animals.) The goal is to reduce participation in unnecessary suffering while building a more ethical and just food system.
 
 This means meeting people where they are. The person who does Meatless Mondays is moving in the right direction. The flexitarian who usually chooses plant-based is an ally, not an apostate. The vegetarian who still eats cheese isn't a hypocrite but someone on a journey.
 
@@ -208,6 +209,6 @@ The sugar boycotters didn't know their small refusal would help catalyze the end
 
 But perhaps you're not convinced. Perhaps you think I'm too certain about animal consciousness, too dire about environmental impacts, too optimistic about individual agency. Perhaps you have objections, counterarguments, complications I haven't considered.
 
-Good. The next chapter is for you. Because the case for plant-based eating doesn't require certainty—in fact, it's strengthened by acknowledging uncertainty. When we're unsure but the stakes are high, what should guide our choices?
+Good. The next chapter is for you, because the case for plant-based eating doesn't require certainty.
 
 Let's talk about probability.
