@@ -88,7 +88,7 @@ Something feels wrong here, but what exactly?
 
 ==== The Problem with the Math
 
-First, there's the empirical reality. This argument might work for the handful of animals on idyllic farms, but 99% of farmed animals live in conditions that make a mockery of "lives worth living." Whatever theoretical merit the happy pig argument has, it's irrelevant to the actual meat production system.footnote:[According to the Sentience Institute, over 98% of US farmed animals live on factory farms. See: https://www.sentienceinstitute.org/us-factory-farming-estimates]
+First, there's the empirical reality. This argument might work for the handful of animals on idyllic farms, but 99% of farmed animals live in conditions that make a mockery of "lives worth living." Whatever theoretical merit the happy pig argument has, it's irrelevant to the actual meat production system.footnote:[According to the Sentience Institute, over 98% of US farmed animals live on factory farms. See: Sentience Institute. US Factory Farming Estimates. Accessed 2025.]
 
 In fact, from a population ethics perspective, factory farming might be the worst possible equilibrium: maximizing the number of beings while also maximizing the risk they suffer. We've created a system that brings billions of sentient creatures into existence specifically to endure lives that are plausibly net-negative—where suffering outweighs any pleasure they might experience.
 
