@@ -1,3 +1,5 @@
+require 'fileutils'
+
 BUILD_DIR = "build"
 
 namespace :book do
@@ -8,13 +10,37 @@ namespace :book do
     end
   end
 
-  # Variables referenced for build
-  version_string = `git describe --tags`.chomp
-  if version_string.empty?
-    version_string = "0"
+  def setup_temp_build_dir(lang_code)
+    # Create temp folder in build dir
+    temp_dir = "#{BUILD_DIR}/temp/#{lang_code}"
+    FileUtils.rm_rf("#{BUILD_DIR}/temp") if Dir.exist?("#{BUILD_DIR}/temp")
+    FileUtils.mkdir_p(temp_dir)
+
+    # Copy translation source files
+    FileUtils.cp_r("translations/#{lang_code}/.", temp_dir)
+
+    # Copy images folder
+    if Dir.exist?("images")
+      FileUtils.cp_r("images", "#{temp_dir}/images")
+    end
+
+    temp_dir
   end
-  date_string = Time.now.strftime("%Y-%m-%d")
-  params = "--attribute revnumber='#{version_string}' --attribute revdate='#{date_string}'"
+
+  def cleanup_temp_build_dir
+    FileUtils.rm_rf("#{BUILD_DIR}/temp")
+  end
+
+  def build_params(lang_code = "en")
+    # Variables referenced for build
+    version_string = `git describe --tags`.chomp
+    if version_string.empty?
+      version_string = "0"
+    end
+    date_string = Time.now.strftime("%Y-%m-%d")
+
+    "--attribute revnumber='#{version_string}' --attribute revdate='#{date_string}' --attribute lang='#{lang_code}' --attribute imagesdir='images'"
+  end
 
   desc "build basic book formats"
   task build: [:build_html, :build_epub, :build_pdf] do
@@ -36,22 +62,43 @@ namespace :book do
   desc "build HTML format"
   task :build_html do
     puts "Converting to HTML..."
-    `bundle exec asciidoctor #{params} -a data-uri -D #{BUILD_DIR} ypsea-book.adoc`
-    puts " -- HTML output at #{BUILD_DIR}/ypsea-book.html"
+
+    temp_dir = setup_temp_build_dir("en")
+    params = build_params("en")
+    output_file = "#{BUILD_DIR}/ypsea-book-en.html"
+
+    `bundle exec asciidoctor #{params} -a data-uri -o #{output_file} #{temp_dir}/ypsea-book.adoc`
+
+    cleanup_temp_build_dir
+    puts " -- HTML output at #{output_file}"
   end
 
   desc "build Epub format"
   task :build_epub do
     puts "Converting to EPub..."
-    `bundle exec asciidoctor-epub3 #{params} -D #{BUILD_DIR} ypsea-book.adoc`
-    puts " -- Epub output at #{BUILD_DIR}/ypsea-book.epub"
+
+    temp_dir = setup_temp_build_dir("en")
+    params = build_params("en")
+    output_file = "#{BUILD_DIR}/ypsea-book-en.epub"
+
+    `bundle exec asciidoctor-epub3 #{params} -o #{output_file} #{temp_dir}/ypsea-book.adoc`
+
+    cleanup_temp_build_dir
+    puts " -- Epub output at #{output_file}"
   end
 
   desc "build PDF format"
   task :build_pdf do
     puts "Converting to PDF... (this one takes a while)"
-    `bundle exec asciidoctor-pdf #{params} --theme book -a pdf-themesdir=. -a compress -D #{BUILD_DIR} ypsea-book.adoc 2>/dev/null`
-    puts " -- PDF output at #{BUILD_DIR}/ypsea-book.pdf"
+
+    temp_dir = setup_temp_build_dir("en")
+    params = build_params("en")
+    output_file = "#{BUILD_DIR}/ypsea-book-en.pdf"
+
+    `bundle exec asciidoctor-pdf #{params} --theme book -a pdf-themesdir=. -a compress -o #{output_file} #{temp_dir}/ypsea-book.adoc 2>/dev/null`
+
+    cleanup_temp_build_dir
+    puts " -- PDF output at #{output_file}"
   end
 
   desc "Check generated books"
@@ -59,7 +106,7 @@ namespace :book do
     puts "Checking generated books"
 
     exec_or_raise("htmlproofer #{BUILD_DIR}")
-    exec_or_raise("epubcheck #{BUILD_DIR}/ypsea-book.epub")
+    exec_or_raise("epubcheck #{BUILD_DIR}/ypsea-book-en.epub")
   end
 
   desc "Clean all generated files"
