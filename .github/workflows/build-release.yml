@@ -41,8 +41,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./build/ypsea-book.html
-        asset_name: ypsea-book.html
+        asset_path: ./build/ypsea-book-en.html
+        asset_name: ypsea-book-en.html
         asset_content_type: text/html
 
     - name: Upload Epub
@@ -51,8 +51,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./build/ypsea-book.epub
-        asset_name: ypsea-book.epub
+        asset_path: ./build/ypsea-book-en.epub
+        asset_name: ypsea-book-en.epub
         asset_content_type: application/epub+zip
 
     - name: Upload PDF
@@ -61,8 +61,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./build/ypsea-book.pdf
-        asset_name: ypsea-book.pdf
+        asset_path: ./build/ypsea-book-en.pdf
+        asset_name: ypsea-book-en.pdf
         asset_content_type: application/pdf
 
     - name: Rename HTML to index.html
