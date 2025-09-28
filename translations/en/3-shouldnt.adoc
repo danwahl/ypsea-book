@@ -14,7 +14,7 @@ The answer requires us to venture into philosophy, history, and psychology—but
 
 === The Philosophical Leap: From Is to Ought
 
-David Hume had a point that's been irritating philosophers for nearly 300 years.
+David Hume raised a point that's been irritating philosophers for nearly 300 years.
 
 The Scottish philosopher noticed that moral arguments tend to pull a fast one. They start with statements about how the world is—descriptive facts anyone can observe—then suddenly jump to claims about how the world ought to be—prescriptive commands about right and wrong. This leap, Hume argued, is logically suspicious. You can't derive an "ought" from an "is" any more than you can derive "wet" from "H₂O" without already knowing what water does.footnote:[Hume, D. (1739). A Treatise of Human Nature. The specific passage about is-ought appears in Book III, Part I, Section I.]
 
@@ -31,9 +31,9 @@ Fortunately, philosophers haven't spent three centuries stumped. They've develop
 
 ==== Bridge One: Life Wants to Live
 
-The first bridge is almost embarrassingly simple. Some "is" statements contain their own "oughts"—specifically, statements about goal-directed behavior. "If you want to reach Chicago, you ought to drive north" isn't a moral command pulled from thin air; it's a factual statement about achieving goals in physical space.
+The first bridge is almost embarrassingly simple. Some "is" statements contain their own "oughts"—specifically, statements about goal-directed behavior. "If you want to reach Chicago from Champaign, you ought to drive north" isn't a moral command pulled from thin air; it's a factual statement about achieving goals in physical space.
 
-Life, by its very nature, is goal-directed. Every organism from bacteria to blue whales acts to preserve itself and promote its wellbeing. This isn't a philosophical stance—it's a biological fact. When we recognize this, a basic ought emerges: life ought to act to preserve and promote itself.footnote:[This argument draws from the tradition of ethical naturalism. For a detailed treatment, see Foot, P. (2001). Natural Goodness. Oxford University Press.]
+Life, by its very nature, is goal-directed. Every organism from beetles to blue whales acts to preserve itself and promote its wellbeing. This isn't a philosophical stance—it's a biological fact. When we recognize this, a basic ought emerges: life ought to act to preserve and promote itself.footnote:[This argument draws from the tradition of ethical naturalism. For a detailed treatment, see Foot, P. (2001). Natural Goodness. Oxford University Press.]
 
 Once we accept this foundational ought—and it's hard to coherently reject it while being alive—other oughts follow. If conscious creatures naturally seek to avoid suffering and pursue wellbeing, then causing unnecessary suffering violates something fundamental about the nature of conscious life itself.
 
@@ -43,13 +43,13 @@ The second bridge takes a different approach: maybe we don't need to derive all 
 
 Consider the statement "torturing innocent beings for fun is wrong." Do we really need to derive this from non-moral facts? Or does it stand as a self-evident starting point for ethical reasoning, the same way "things can't be both true and false simultaneously" anchors logical reasoning?footnote:[This is the approach of moral foundationalism. See Audi, R. (2004). The Good in the Right: A Theory of Intuition and Intrinsic Value. Princeton University Press.]
 
-This isn't a cop-out—it's recognizing that every system of reasoning needs starting points. Just as we accept that 2+2=4 without being able to prove it from more basic principles (since any proof would rely on mathematical reasoning that assumes basic arithmetic), we might accept "unnecessary suffering is wrong" as a foundational moral truth. Every system of reasoning needs starting points—axioms we take as self-evident rather than derived.
+This isn't a cop-out—it's recognizing that every system of reasoning needs starting points. Just as we accept that 2+2=4 without being able to prove it from more basic principles (since any proof would rely on mathematical reasoning that assumes basic arithmeticfootnote:[Or maybe "Just as we accept the Peano axioms..."]), we might accept "unnecessary suffering is wrong" as a foundational moral truth. Every system of reasoning needs starting points—axioms we take as self-evident rather than derived.
 
 From this foundation, the path to our plates is straightforward. If unnecessary suffering is fundamentally wrong, and eating animals causes massive unnecessary suffering, then the obligation follows as surely as any logical conclusion.
 
 ==== Bridge Three: We Already Make This Leap
 
-The third bridge is less philosophical construction and more empirical observation: we already routinely derive oughts from is-statements, especially about environmental issues.
+The third bridge is less philosophical construction and more empirical observation: we effortlessly derive oughts from is-statements all the time.
 
 Consider preventable diseases. The statement "thousands of children die from malaria each year" is a factual observation. The statement "we ought to prevent these deaths" is a moral imperative. Yet most people make this leap without existential hand-wringing. Why? Because when facts reveal serious harm to life and wellbeing, the moral response feels obvious, not mysterious.footnote:[For discussion of how environmental ethics navigates the is-ought gap, see Callicott, J. B. (1999). Beyond the Land Ethic. SUNY Press.]
 
@@ -59,7 +59,7 @@ The same logic applies to animal agriculture. When facts reveal systematic harm�
 
 Philosophy departments love their disagreements. Put four ethicists in a room and you'll get five incompatible moral theories. Which makes it all the more striking when these competing frameworks converge on the same conclusion.
 
-Let's explore how three major ethical traditions—deontology, utilitarianism, and virtue ethics—approach the issue of animal agriculture.
+Let's explore how three major ethical traditions—deontology, utilitarianism, and virtue ethics—approach the issue of intensive animal agriculture.
 
 ==== The Rights Approach: It's About Justice
 
@@ -69,11 +69,11 @@ The philosopher Tom Regan argued that animals meeting certain criteria—having 
 
 But here's the crucial insight for us plant-eaters-in-waiting: even if you're unsure about animal rights, deontology cares deeply about complicity. If a system is fundamentally unjust—built on treating sentient beings as property—then knowingly supporting that system violates duties of justice. The purchase becomes participation in injustice.
 
-This sidesteps the "but one person won't make a difference" objection entirely. From a rights perspective, the question isn't whether your individual refusal will shut down factory farms. It's whether you'll be complicit in injustice. The obligation is to keep your hands clean, not to single-handedly fix the world.
+This sidesteps the "but one person won't make a difference" objection entirely. From a rights perspective, the question isn't whether your individual refusal will shut down factory farms. It's whether you'll be complicit in injustice. The obligation is to keep your hands clean, even if you can't single-handedly fix the world.
 
 ==== The Consequences Approach: Do the Math
 
-Utilitarian ethics evaluates actions by their consequences—specifically, how much wellbeing or suffering they create. While critics argue this can lead to counterintuitive conclusions in edge cases, for something like factory farming, the calculation is straightforward: enormous suffering for billions of animals vastly outweighs human gustatory pleasure.
+Utilitarian ethics evaluates actions by their consequences—specifically, how much wellbeing or suffering they create. While critics argue this can lead to counterintuitive conclusions in edge cases, for something like factory farming, the calculation is straightforward: enormous suffering for billions of animals vastly outweighs fleeting human pleasure.
 
 Peter Singer did this math for animal agriculture decades ago, and the conclusions remain devastating.footnote:[Singer, P. (1975). Animal Liberation. Random House.] On one side of the equation: the enjoyment humans derive from eating animals—gustatory satisfaction, convenience, tradition. On the other side: lifetimes of suffering for billions of conscious creatures.
 
@@ -93,7 +93,7 @@ Virtue ethics offers a powerful reframe. Instead of universal pronouncements ("e
 
 ==== The Convergence
 
-Here's what's striking: three major ethical traditions—often at philosophical loggerheads—largely converge against factory farming. Of course, philosophers being philosophers, you'll find dissenters in each camp. Some rights theorists argue animals lack the cognitive capacities for rights. Some utilitarians invoke the Logic of the Larder we discussed. Some virtue ethicists claim that natural predation makes meat-eating virtuous.
+Here's what's striking: three major ethical traditions—often at philosophical loggerheads—largely converge against factory farming. Of course, philosophers being philosophers, you'll find dissenters in each camp. Some rights theorists argue animals lack the cognitive capacities for rights. Some utilitarians invoke the Logic of the Larder, as we'll discuss in the next chapter. Some virtue ethicists claim that natural predation makes meat-eating virtuous.
 
 But these are minority positions, increasingly so. The mainstream of each tradition, when seriously applied to modern animal agriculture, points toward plant-based diets. The convergence isn't unanimous—philosophy never is—but it's strong enough to be meaningful. When thinkers who rarely agree on anything else reach similar conclusions about factory farming, that's worth taking seriously.
 
@@ -131,7 +131,7 @@ Yet symbolism, it turns out, has power. When hundreds of universities divested b
 
 ==== The Common Thread
 
-Whether conservative or progressive, religious or secular, these movements shared a core insight: when systems of injustice depend on widespread participation, refusal to participate becomes a form of resistance. The sugar boycotters knew one person skipping dessert wouldn't end slavery. The temperance crusaders knew one family avoiding alcohol wouldn't empty the saloons. The grape boycotters knew one shopper choosing lettuce wouldn't revolutionize farm labor.
+Whether conservative or progressive, religious or secular, these movements shared a core insight: when systems of injustice depend on widespread participation, refusal to participate becomes a form of resistance. The sugar boycotters knew one person skipping dessert wouldn't end slavery. The temperance crusaders knew one family avoiding alcohol wouldn't empty the saloons. The grape boycotters knew one shopper choosing berries instead wouldn't revolutionize farm labor.
 
 But they also knew something else: visible non-participation changes the moral landscape. It forces comfortable people to confront uncomfortable questions. It transforms "that's just how things are" into "that's a choice we're making."
 
@@ -141,7 +141,7 @@ So far we've established that eating animals violates major ethical frameworks a
 
 ==== The Meat Paradox: A Case Study in Cognitive Dissonance
 
-Ask if they think animals should suffer unnecessarily and they'll say no. Then watch them order a burger. (And watch yourself stop getting invited to dinner parties for pointing this out.)
+Ask if they think animals should suffer unnecessarily and they'll say no. Then watch them order a burger. (And watch yourself stop getting invited to dinner parties if you point out the contradiction.)
 
 Psychologists call this the "meat paradox"—the uncomfortable tension between caring about animals and eating them.footnote:[Loughnan, S., Haslam, N., & Bastian, B. (2010). "The role of meat consumption in the denial of moral status and mind to meat animals." Appetite, 55(1), 156-159.] It's a textbook case of cognitive dissonance, that queasy feeling when our beliefs and behaviors don't align. Like a gym membership gathering dust while we binge Netflix, the gap between values and actions creates psychological discomfort.
 
@@ -149,7 +149,7 @@ Humans have developed impressive strategies for managing this discomfort without
 
 **Linguistic distancing**: We eat "beef" not cows, "pork" not pigs, "veal" not baby cows. The words create psychological distance between the meal and the animal. It's harder to feel bad about eating something that sounds like it grew on a tree.
 
-**Mental gymnastics**: We downplay animal intelligence ("chickens are basically feathered vegetables"), deny their capacity for suffering ("fish don't feel pain"), or invoke the circle of life ("it's natural"). The science contradicts all of these, but motivated reasoning is a powerful drug.
+**Mental gymnastics**: We downplay animal intelligence ("chickens are basically feathered vegetables"), deny their capacity for suffering ("fish don't feel pain"), or invoke the circle of life ("it's natural"). The literature contradicts all of these, but motivated reasoning is a powerful drug.
 
 **Strategic ignorance**: Most people know factory farming is awful. Solution? Don't think about it. The same people who research restaurants obsessively somehow never Google where their food comes from. Ignorance isn't just bliss—it's a psychological defense mechanism.
 

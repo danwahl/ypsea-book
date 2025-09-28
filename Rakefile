@@ -1,6 +1,10 @@
 require 'fileutils'
 
 BUILD_DIR = "build"
+TRANSLATIONS_DIR = "translations"
+
+# Detect all available languages
+LANGUAGES = Dir.exist?(TRANSLATIONS_DIR) ? Dir.children(TRANSLATIONS_DIR).select { |d| File.directory?(File.join(TRANSLATIONS_DIR, d)) } : []
 
 namespace :book do
   def exec_or_raise(command)
@@ -61,44 +65,50 @@ namespace :book do
 
   desc "build HTML format"
   task :build_html do
-    puts "Converting to HTML..."
+    LANGUAGES.each do |lang|
+      puts "Converting #{lang} to HTML..."
 
-    temp_dir = setup_temp_build_dir("en")
-    params = build_params("en")
-    output_file = "#{BUILD_DIR}/ypsea-book-en.html"
+      temp_dir = setup_temp_build_dir(lang)
+      params = build_params(lang)
+      output_file = "#{BUILD_DIR}/ypsea-book-#{lang}.html"
 
-    `bundle exec asciidoctor #{params} -a data-uri -o #{output_file} #{temp_dir}/ypsea-book.adoc`
+      `bundle exec asciidoctor #{params} -a data-uri -o #{output_file} #{temp_dir}/ypsea-book.adoc`
 
-    cleanup_temp_build_dir
-    puts " -- HTML output at #{output_file}"
+      cleanup_temp_build_dir
+      puts " -- #{lang} HTML output at #{output_file}"
+    end
   end
 
   desc "build Epub format"
   task :build_epub do
-    puts "Converting to EPub..."
+    LANGUAGES.each do |lang|
+      puts "Converting #{lang} to EPub..."
 
-    temp_dir = setup_temp_build_dir("en")
-    params = build_params("en")
-    output_file = "#{BUILD_DIR}/ypsea-book-en.epub"
+      temp_dir = setup_temp_build_dir(lang)
+      params = build_params(lang)
+      output_file = "#{BUILD_DIR}/ypsea-book-#{lang}.epub"
 
-    `bundle exec asciidoctor-epub3 #{params} -o #{output_file} #{temp_dir}/ypsea-book.adoc`
+      `bundle exec asciidoctor-epub3 #{params} -o #{output_file} #{temp_dir}/ypsea-book.adoc`
 
-    cleanup_temp_build_dir
-    puts " -- Epub output at #{output_file}"
+      cleanup_temp_build_dir
+      puts " -- #{lang} Epub output at #{output_file}"
+    end
   end
 
   desc "build PDF format"
   task :build_pdf do
-    puts "Converting to PDF... (this one takes a while)"
+    LANGUAGES.each do |lang|
+      puts "Converting #{lang} to PDF... (this one takes a while)"
 
-    temp_dir = setup_temp_build_dir("en")
-    params = build_params("en")
-    output_file = "#{BUILD_DIR}/ypsea-book-en.pdf"
+      temp_dir = setup_temp_build_dir(lang)
+      params = build_params(lang)
+      output_file = "#{BUILD_DIR}/ypsea-book-#{lang}.pdf"
 
-    `bundle exec asciidoctor-pdf #{params} --theme book -a pdf-themesdir=. -a compress -o #{output_file} #{temp_dir}/ypsea-book.adoc 2>/dev/null`
+      `bundle exec asciidoctor-pdf #{params} --theme book -a pdf-themesdir=. -a compress -o #{output_file} #{temp_dir}/ypsea-book.adoc 2>/dev/null`
 
-    cleanup_temp_build_dir
-    puts " -- PDF output at #{output_file}"
+      cleanup_temp_build_dir
+      puts " -- #{lang} PDF output at #{output_file}"
+    end
   end
 
   desc "Check generated books"
@@ -106,7 +116,12 @@ namespace :book do
     puts "Checking generated books"
 
     exec_or_raise("htmlproofer #{BUILD_DIR}")
-    exec_or_raise("epubcheck #{BUILD_DIR}/ypsea-book-en.epub")
+
+    # Check all language EPUBs
+    LANGUAGES.each do |lang|
+      epub_file = "#{BUILD_DIR}/ypsea-book-#{lang}.epub"
+      exec_or_raise("epubcheck #{epub_file}") if File.exist?(epub_file)
+    end
   end
 
   desc "Clean all generated files"

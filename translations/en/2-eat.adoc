@@ -21,13 +21,13 @@ But here's what the aggregate numbers hide: we're not eating 85 billion cows. Th
 
 This is what animal advocates call the "small-bodied animal problem." Our collective move from beef to chicken, often motivated by health or environmental concerns, has paradoxically increased the total number of sentient beings killed. It's like trying to cut caffeine by switching from coffee to tea, then drinking 10 cups of tea a day.footnote:[Ten cups of tea is the caffeine equivalent of about two cups of coffee, but the ratio of calories from animals is much larger. A cow provides about one million kcal of beef, while a chicken only nets about 1,000, so it would take 1,000 chickens to substitute for one cow.]
 
-The numbers become even more staggering when we include aquatic animals. Unlike land animals, fish are measured by weight rather than individuals—a convenient abstraction that helps us avoid confronting that we're killing somewhere between one and three trillion sentient beings from the oceans each year.footnote:[Sentient Media. "How Many Animals Are Killed for Food Every Day?" 2025.]
+The numbers become even more staggering when we include aquatic animals. Unlike land animals, fish are measured by weight rather than individuals—a convenient abstraction that helps us avoid confronting that we're killing somewhere between one and three trillion sentient beings from the oceans and other waterways each year.footnote:[Sentient Media. "How Many Animals Are Killed for Food Every Day?" 2025.]
 
 ==== The Industrial Blueprint
 
 These numbers are only possible because we've redesigned animals themselves. The modern broiler chicken grows so fast it reaches slaughter weight in just six weeks—compared to 16 weeks in the 1950s. Their breasts grow so large that many can't walk properly in their final days, their legs splaying beneath them as they sit in their own waste, sometimes dying of thirst just feet from water they can no longer reach.footnote:[Broom, D.M. and Fraser, A.F. (2015). Domestic Animal Behaviour and Welfare. CABI Publishing.]
 
-This isn't farming in any traditional sense. It's manufacturing, with living beings as the raw material.
+This isn't farming in any traditional sense. It's manufacturing, with living, feeling beings as the raw material.
 
 The standard practices read like a blueprint for suffering:
 
@@ -39,7 +39,7 @@ And then there's slaughter itself. The lucky ones are properly stunned before th
 
 Similar practices have also become standard in aquaculture, industrial animal agriculture's next frontier. The rapid rise of fish farming has brought factory farm conditions underwater. Salmon are packed into sea cages at densities that would be like keeping a bathtub-sized fish in a bathtub. The stress drives aggression, disease, and parasitic infections that spread like wildfire through the cramped populations.footnote:[FAO. "FAO Report: Global fisheries and aquaculture production reaches new record high." 2024.] In inland tanks, fish swim in endless circles through their own waste, dosed with antibiotics and pesticides in order to survive conditions no wild fish would ever encounter.
 
-What's crucial to understand is that these aren't failures of the system. They're features. When your business model requires killing 2,402 animals per second, globally, certain compromises become inevitable.footnote:[Calculated from 75.7 billion land animals slaughtered annually.]
+What's crucial to understand is that these aren't failures of the system. They're features. When your business model requires killing 1,750 animals per second, globally, certain compromises become inevitable.footnote:[Calculated from 75.7 billion land animals slaughtered annually.]
 
 === The Environmental Cascade
 
@@ -63,7 +63,7 @@ This voracious appetite for land makes animal agriculture the leading driver of 
 
 The bitter irony is that this land quickly degrades. Cattle compact soil, reduce plant cover, and accelerate erosion. Within years, productive pasture becomes degraded scrubland, pushing ranchers to clear more forest in an accelerating cycle of destruction.footnote:[WWF. "What is Erosion? Effects of Soil Erosion and Land Degradation." Accessed 2025.]
 
-==== Water Under Assault
+==== Water Under Fire
 
 The cascade continues with water. Agriculture uses 70% of global freshwater, with animal agriculture responsible for about a third of that.footnote:[Open Access Government. "The devastating water footprint of animal agriculture." 2025.] But the numbers only hint at the true impact.
 
@@ -85,7 +85,7 @@ Animal agriculture is the primary driver of this silent pandemic. The sector con
 
 This creates perfect conditions for breeding superbugs. Bacteria exposed to constant, low-level antibiotics evolve resistance. These resistant strains spread to humans through meat consumption, direct contact, or environmental contamination. When someone gets infected, the antibiotics doctors depend on no longer work.
 
-The cruelest irony is that the industry needs these antibiotics precisely because of the conditions it has created. Pack thousands of stressed animals into confined spaces with poor sanitation, and disease becomes inevitable. Rather than address the root cause, we pump them full of drugs, breeding the very pathogens that may ultimately undo modern medicine.
+And the industry needs these antibiotics precisely because of the conditions it has created. Pack thousands of stressed animals into confined spaces with poor sanitation, and disease becomes inevitable. Rather than address the root cause, we pump them full of drugs, breeding the very pathogens that may ultimately undo modern medicine.
 
 ==== Pandemic Factories
 
@@ -143,7 +143,7 @@ Pack animals tightly because land costs money. Use antibiotics because disease p
 
 This explains why proposed solutions so often amount to rearranging deck chairs. "Precision livestock farming" uses AI to manage animals more efficiently—potentially enabling even larger, more intensive operations. Manure digesters capture methane for energy—creating incentives to produce more manure. "Regenerative grazing" promises carbon sequestration while ignoring that methane from cattle overwhelms any realistic soil storage.footnote:[Zero Carbon Analytics. "Relying on soil-based carbon capture to offset livestock emissions is misguided." Accessed 2025.]
 
-These aren't solutions. They're problem displacement—addressing one symptom while leaving the fundamental issue untouched. That issue is scale. We're trying to feed 8 billion humans by filtering plants through 85 billion land animals annually. No amount of optimization can overcome that basic thermodynamic absurdity.
+These aren't solutions. They're problem displacement—addressing one symptom while leaving the fundamental issue untouched. That issue is scale. We're trying to feed 8 billion humans while filtering plants through 85 billion land animals annually. No amount of optimization can overcome that basic thermodynamic absurdity.
 
 The real solution requires acknowledging what the system is actually for. It's not about feeding the world—plant agriculture does that far more efficiently. It's not about human health—as the WHO's cancer classifications make clear. It's not about economic efficiency—not when you count the true costs.
 

@@ -11,12 +11,6 @@ If you run the following you _may_ actually get HTML, Epub, and PDF output files
 $ bundle config set --local path 'vendor/bundle'
 $ bundle install
 $ bundle exec rake book:build
-Converting to HTML...
- -- HTML output at ypsea-book.html
-Converting to EPub...
- -- Epub output at ypsea-book.epub
-Converting to PDF...
- -- PDF output at ypsea-book.pdf
 ----
 
 You can generate just one of the supported formats (HTML, EPUB, or PDF).

@@ -65,7 +65,7 @@ jobs:
         asset_name: ypsea-book-en.pdf
         asset_content_type: application/pdf
 
-    - name: Rename HTML to index.html
+    - name: Rename en HTML to index.html
       run: mv ./build/ypsea-book-en.html ./build/index.html
 
     - name: Deploy to GitHub Pages
