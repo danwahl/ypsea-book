@@ -1,0 +1,168 @@
+== Manger
+
+Le jour de Thanksgiving dernier, alors que 46 millions de dindes trouvaient la mort à travers l'Amérique, je me suis surpris à penser à un autre chiffre : 1 750.footnote:[Animal Kill Clock. Accessed 2025.]
+
+C'est à peu près le nombre d'animaux tués pour l'alimentation aux États-Unis, chaque seconde. Chacun d'eux expérimentant quelque chose de similaire à ce que Moritz le cochon a vécu — l'auto-reconnaissance, les liens sociaux, la peur, la douleur — jusqu'à ce que ce ne soit plus le cas.
+
+Mais ce chapitre n'a pas pour but de vous culpabiliser. Il s'agit de comprendre ce que signifie manger des animaux au rythme où nous le faisons aujourd'hui, et pourquoi le système que nous avons construit pour satisfaire notre appétit se situe au carrefour de multiples catastrophes. Pas des catastrophes métaphoriques ou des risques futurs, mais des crises mesurables et continues qui affectent le climat de la planète, sa capacité à nourrir les humains et notre propre santé.
+
+L'histoire de la façon dont nous en sommes arrivés là — comment la consommation d'animaux est passée d'un festin occasionnel à un impératif industriel — révèle quelque chose d'important sur la différence entre ce que nous pensons faire lorsque nous mangeons de la viande et ce que nous faisons réellement. Car une fois que nous reconnaissons que ces 1 750 animaux avaient probablement une vie intérieure, nous devons nous confronter non seulement au fait de leur mort, mais aussi à toute la machinerie qui les a produits.
+
+.Les animaux tués pour l'alimentation aux États-Unis, chaque seconde
+image::animalclock.png[Les animaux tués pour l'alimentation aux États-Unis, chaque seconde, align=center]
+
+=== L'échelle de la machine
+
+Pour comprendre l'élevage industriel moderne, il faut d'abord saisir sa magnitude — une échelle qui dépasse l'entendement commun et qui explique peut-être pourquoi nous y sommes devenus si anesthésiés.
+
+En 2023, les humains ont abattu 85,4 milliards d'animaux terrestres pour leur alimentation.footnote:[Faunalytics. "Global Animal Slaughter Statistics & Charts." Accessed 2025.] Pour mettre cela en perspective : si vous deviez compter un animal par seconde, il vous faudrait plus de 2 700 ans pour tous les compter. Le temps que vous ayez fini, en supposant que les tendances actuelles se maintiennent, les humains auraient abattu 260 billions d'animaux supplémentaires.
+
+Mais voici ce que les chiffres globaux cachent : nous ne mangeons pas 85 milliards de vaches. La majorité écrasante — 75 milliards — sont des poulets.footnote:[Les données de la FAO montrent que les poulets représentent plus de 88 % des animaux terrestres abattus chaque année. Our World in Data. "More than 80 billion land animals are slaughtered for meat every year." Accessed 2025.] C'est important, car si c'est la conscience qui compte sur le plan moral, alors le passage à la consommation d'animaux plus petits a considérablement augmenté le nombre d'individus qui souffrent pour notre nourriture. Une vache peut nourrir une famille pendant des mois ; un poulet nourrit une famille pour un seul repas.
+
+C'est ce que les défenseurs des animaux appellent le « problème des animaux de petite taille ». Notre transition collective du bœuf au poulet, souvent motivée par des préoccupations de santé ou d'environnement, a paradoxalement augmenté le nombre total d'êtres sentients tués. C'est comme essayer de réduire sa consommation de caféine en passant du café au thé, pour ensuite boire 10 tasses de thé par jour.footnote:[Dix tasses de thé équivalent en caféine à environ deux tasses de café, mais le ratio de calories provenant des animaux est beaucoup plus grand. Une vache fournit environ un million de kcal de bœuf, tandis qu'un poulet n'en fournit qu'environ 1 000, il faudrait donc 1 000 poulets pour remplacer une vache.]
+
+Les chiffres deviennent encore plus stupéfiants lorsque nous incluons les animaux aquatiques. Contrairement aux animaux terrestres, les poissons sont mesurés en poids plutôt qu'en individus — une abstraction commode qui nous aide à éviter de nous confronter au fait que nous tuons chaque année entre un et trois billions d'êtres sentients provenant des océans et autres voies navigables.footnote:[Sentient Media. "How Many Animals Are Killed for Food Every Day?" 2025.]
+
+==== Le plan industriel
+
+Ces chiffres ne sont possibles que parce que nous avons redessiné les animaux eux-mêmes. Le poulet de chair moderne grandit si vite qu'il atteint son poids d'abattage en seulement six semaines — contre 16 semaines dans les années 1950. Leurs poitrines deviennent si grosses que beaucoup ne peuvent plus marcher correctement dans leurs derniers jours, leurs pattes s'écartant sous eux alors qu'ils sont assis dans leurs propres excréments, mourant parfois de soif à quelques centimètres de l'eau qu'ils ne peuvent plus atteindre.footnote:[Broom, D.M. and Fraser, A.F. (2015). Domestic Animal Behaviour and Welfare. CABI Publishing.]
+
+Ce n'est pas de l'agriculture au sens traditionnel du terme. C'est de la fabrication, avec des êtres vivants et sensibles comme matière première.
+
+Les pratiques standards se lisent comme un plan conçu pour la souffrance :
+
+Un confinement si extrême que la plupart des animaux ne peuvent pas se retourner, déployer leurs ailes ou s'allonger confortablement. Une poule pondeuse typique dispose de moins d'espace qu'une feuille de papier.footnote:[The Humane League. "How Are Factory Farms Cruel to Animals?" Accessed 2025]
+
+Des mutilations de routine effectuées sans anesthésie : coupe de la queue, débecquage, castration, écornage. Ce ne sont pas des procédures médicales mais des outils de gestion pour empêcher les animaux de se blesser mutuellement en réponse au stress du confinement.footnote:[In Defense of Animals. "Standard Practices." Accessed 2025.]
+
+Une surutilisation d'antibiotiques qui serait criminelle en médecine humaine. Non pas pour traiter des animaux malades, mais pour prévenir les maladies qui sont inévitables lorsque vous entassez des milliers d'animaux stressés dans des espaces confinés.footnote:[World Health Organization. "Stop using antibiotics in healthy animals to prevent the spread of antibiotic resistance." 2017.]
+
+Et puis il y a l'abattage lui-même. Les plus chanceux sont correctement étourdis avant d'être égorgés. Mais aux cadences requises pour la rentabilité — jusqu'à 175 oiseaux par minute dans les abattoirs de poulets — beaucoup n'ont pas cette chance. Ils sont encore conscients lorsqu'ils entrent dans les bacs d'échaudage destinés à enlever leurs plumes.footnote:[PETA. "Factory Farming: The Industry Behind Meat and Dairy." Accessed 2025.]
+
+Des pratiques similaires sont également devenues la norme en aquaculture, la prochaine frontière de l'élevage industriel. L'essor rapide de la pisciculture a transposé les conditions des fermes-usines sous l'eau. Les saumons sont entassés dans des cages marines à des densités qui équivaudraient à garder un poisson de la taille d'une baignoire dans une baignoire. Le stress engendre l'agressivité, les maladies et les infections parasitaires qui se propagent comme une traînée de poudre dans les populations surpeuplées.footnote:[FAO. "FAO Report: Global fisheries and aquaculture production reaches new record high." 2024.] Dans les bassins intérieurs, les poissons nagent en cercles sans fin dans leurs propres déjections, recevant des doses d'antibiotiques et de pesticides pour survivre à des conditions qu'aucun poisson sauvage ne rencontrerait jamais.
+
+Ce qu'il est crucial de comprendre, c'est que ce ne sont pas des défaillances du système. Ce sont ses caractéristiques. Lorsque votre modèle économique exige de tuer 1 750 animaux par seconde, à l'échelle mondiale, certains compromis deviennent inévitables.footnote:[Calculé à partir de 75,7 milliards d'animaux terrestres abattus chaque année.]
+
+=== La cascade environnementale
+
+Si l'abattage industriel de 85 milliards d'animaux terrestres n'était qu'un problème de bien-être animal, ce serait déjà l'une des grandes crises morales de notre temps. Mais le système requis pour nourrir, loger et transformer ces animaux diminue la capacité de la planète à soutenir d'autres formes de vie — y compris la nôtre.
+
+L'impact environnemental de l'élevage industriel n'est pas un problème unique mais une cascade de crises interconnectées, chacune amplifiant les autres. À la racine se trouve une simple réalité biologique : l'inefficacité de filtrer les plantes à travers les animaux pour obtenir des calories.
+
+==== La déstabilisation du climat
+
+Commençons par le changement climatique. Selon l'Organisation des Nations Unies pour l'alimentation et l'agriculture, les chaînes d'approvisionnement du bétail émettent 7,1 gigatonnes d'équivalent CO₂ par an, soit 14,5 % de toutes les émissions de gaz à effet de serre d'origine humaine.footnote:[FAO. "Livestock and climate change: impact of livestock on climate." Academic OUP, 2019.] C'est plus que l'ensemble du secteur des transports.
+
+Mais se concentrer sur le pourcentage sous-estime l'urgence. Même si nous éliminions les combustibles fossiles demain, les émissions de notre système alimentaire à elles seules rendraient impossible de limiter le réchauffement à 1,5°C.footnote:[Frontiers in Animal Science. "Climate change, public health, and animal welfare: towards a One Health approach to reducing animal agriculture's climate footprint." 2024.] Et contrairement aux émissions de carbone, qui peuvent théoriquement être retirées de l'atmosphère, la souffrance que nous infligeons aux animaux ne pourra jamais être réparée. Nous disposons d'alternatives végétales dès maintenant, mais aucune technologie ne pourra jamais annuler la souffrance des milliards d'êtres déjà affectés.
+
+L'impact climatique du secteur est particulièrement pernicieux en raison des gaz qu'il émet. Alors que la production d'énergie libère principalement du CO₂, l'élevage industriel est la source dominante de méthane et de protoxyde d'azote — des gaz qui sont respectivement 28 et 265 fois plus puissants que le CO₂.footnote:[Valeurs du GIEC pour le potentiel de réchauffement planétaire sur 100 ans.] Chaque vache est une usine à méthane, rotant ce gaz comme sous-produit de la digestion. Leurs déjections en libèrent davantage en se décomposant, ainsi que du protoxyde d'azote.
+
+==== L'accaparement des terres
+
+Mais le climat n'est que le début de la cascade. L'élevage industriel est le plus grand utilisateur de terres au monde, occupant la moitié de toutes les terres habitables sur Terre.footnote:[Our World in Data. "If the world adopted a plant-based diet, we would reduce global agricultural land use by 75%." Accessed 2025.] Une superficie équivalente à l'Amérique du Nord et du Sud combinées — tout cela pour produire moins de 20 % de nos calories.
+
+Cet appétit vorace pour les terres fait de l'élevage industriel le principal moteur de la déforestation dans le monde. En Amazonie, l'élevage de bétail est responsable de 80 % de la déforestation.footnote:[WWF. "Unsustainable cattle ranching." Accessed 2025.] Chaque hamburger provenant de bétail élevé sur une forêt tropicale défrichée représente environ 5 mètres carrés de forêt — une parcelle de la taille d'une salle de bain de l'un des habitats les plus riches en biodiversité de la planète, convertie en pâturage.
+
+L'amère ironie est que cette terre se dégrade rapidement. Le bétail compacte le sol, réduit la couverture végétale et accélère l'érosion. En quelques années, un pâturage productif devient une friche dégradée, poussant les éleveurs à défricher davantage de forêt dans un cycle de destruction qui s'accélère.footnote:[WWF. "What is Erosion? Effects of Soil Erosion and Land Degradation." Accessed 2025.]
+
+==== L'eau sous pression
+
+La cascade se poursuit avec l'eau. L'agriculture utilise 70 % de l'eau douce mondiale, l'élevage industriel étant responsable d'environ un tiers de cette part.footnote:[Open Access Government. "The devastating water footprint of animal agriculture." 2025.] Mais les chiffres ne donnent qu'un aperçu de l'impact réel.
+
+Produire un kilogramme de bœuf nécessite 15 415 litres d'eau — assez pour satisfaire les besoins en boisson d'une personne pendant plus de 20 ans.footnote:[Mekonnen, M.M. & Hoekstra, A.Y. (2012). The hidden water resource use behind meat and dairy. Animal Frontiers.] La quasi-totalité de cette eau est de l'« eau virtuelle » utilisée pour irriguer les cultures fourragères. C'est une inefficacité stupéfiante : nous donnons essentiellement notre eau à manger aux animaux.
+
+Mais la consommation d'eau n'est que la moitié de l'histoire. Les 70 milliards d'animaux terrestres élevés chaque année rien qu'aux États-Unis produisent 400 milliards de kilos de fumier — plus de 130 fois les déchets produits par la population humaine.footnote:[ASPCA. "Factory Farming Environmental Impact." Accessed 2025.] Contrairement aux déchets humains, ceux-ci ne reçoivent aucun traitement. Ils sont stockés dans de vastes lagunes à ciel ouvert qui peuvent couvrir plusieurs hectares, puis épandus sur les champs.
+
+Le phosphore et l'azote contenus dans ces déchets s'écoulent dans les cours d'eau, alimentant des proliférations d'algues qui créent des zones mortes aquatiques. La zone morte du golfe du Mexique, alimentée par le ruissellement du bassin du Mississippi, peut s'étendre sur 20 000 kilomètres carrés — un désert sous-marin où rien ne peut vivre.footnote:[EPA. "Sources and Solutions: Agriculture." Accessed 2025.] L'aquaculture ajoute son propre fardeau : les déchets de millions de poissons d'élevage créent des zones mortes sous-marines autour des cages en mer, tandis que les exploitations intérieures rejettent de l'eau chargée de produits pharmaceutiques dans les rivières et les cours d'eau.
+
+=== Le lien avec la santé publique
+
+La cascade environnementale serait déjà une crise suffisante, mais le même système qui empoisonne notre air et notre eau fabrique également la prochaine pandémie et rend nos antibiotiques inutiles.
+
+==== La fabrication de superbactéries
+
+En 2019, la résistance aux antimicrobiens a tué directement 1,27 million de personnes et a contribué à près de 5 millions de décès — plus que le VIH/SIDA ou le paludisme.footnote:[WHO. "Antimicrobial resistance." Accessed 2025.] D'ici 2050, le bilan annuel pourrait atteindre 10 millions de morts, avec des dommages économiques de 100 billions de dollars.footnote:[WOAH. "Superbugs could jeopardise food security for over two billion people." 2024.]
+
+L'élevage industriel est le principal moteur de cette pandémie silencieuse. Le secteur consomme 70 à 80 % de tous les antibiotiques d'importance médicale dans de nombreux pays, principalement non pas pour traiter des animaux malades, mais administrés en routine à des troupeaux et des volées entiers.footnote:[WHO. "Stop using antibiotics in healthy animals to prevent the spread of antibiotic resistance." 2017.]
+
+Cela crée des conditions parfaites pour la reproduction de superbactéries. Les bactéries exposées à des antibiotiques constants et à faible dose développent une résistance. Ces souches résistantes se propagent aux humains par la consommation de viande, le contact direct ou la contamination environnementale. Lorsque quelqu'un est infecté, les antibiotiques dont dépendent les médecins ne fonctionnent plus.
+
+Et l'industrie a besoin de ces antibiotiques précisément à cause des conditions qu'elle a créées. Entassez des milliers d'animaux stressés dans des espaces confinés avec une mauvaise hygiène, et la maladie devient inévitable. Plutôt que de s'attaquer à la cause première, nous les gavons de médicaments, créant ainsi les agents pathogènes mêmes qui pourraient à terme anéantir la médecine moderne.
+
+==== Des usines à pandémies
+
+Si la résistance aux antimicrobiens est une catastrophe au ralenti, les fermes-usines présentent également un risque pandémique aigu. Les trois quarts des maladies infectieuses émergentes sont zoonotiques — elles sautent des animaux aux humains.footnote:[MSPCA. "How Factory Farming Could Create the Next Pandemic." Accessed 2025.] L'élevage industriel crée des conditions idéales pour l'émergence et l'amplification virale.
+
+La recette d'une pandémie est simple : entassez des milliers d'animaux génétiquement uniformes dans des espaces confinés, stressez leur système immunitaire et exposez-les à de nouveaux agents pathogènes. Les porcs sont particulièrement préoccupants en tant que « creusets viraux » — ils peuvent être infectés par des souches de grippe aviaire et humaine, permettant aux virus d'échanger des gènes et de créer potentiellement de nouvelles souches qui se propagent efficacement entre les humains.footnote:[Save Our Antibiotics. "Guest blog: Factory farming, zoonotic disease and the risk of pandemics." Accessed 2025.]
+
+La pandémie de grippe H1N1 de 2009, dite « grippe porcine », qui a tué jusqu'à un demi-million de personnes dans le monde, a émergé des élevages de porcs industriels au Mexique.footnote:[Rapports du CDC et de l'OMS sur les origines de la pandémie de H1N1 de 2009.] La propagation actuelle de la grippe aviaire hautement pathogène (H5N1), qui a dévasté les exploitations avicoles et a récemment sauté aux bovins et aux travailleurs agricoles, sert d'avertissement en temps réel du potentiel pandémique du système. Et bien que les origines exactes de la COVID-19 restent débattues, son émergence de la faune sauvage — que ce soit par le biais de marchés ou de laboratoires de recherche — souligne comment notre relation avec les animaux crée un risque pandémique.
+
+==== Les communautés assiégées
+
+Les impacts sur la santé ne sont pas des abstractions — ils sont concentrés dans les communautés rurales plus pauvres où se regroupent les CAFOs (exploitations d'alimentation animale concentrées).footnote:[Environmental Health News. "Factory farm air pollution is harming communities of color." Accessed 2025.]
+
+Imaginez vivre sous le vent d'une installation abritant 10 000 porcs. L'air empeste l'ammoniac et le sulfure d'hydrogène — des gaz qui provoquent des maladies respiratoires, des maux de tête et la dépression.footnote:[Humane World for Animals. "The Public Health Impacts of Concentrated Animal Feeding Operations on Local Communities." Accessed 2025.] Lorsque les lagunes de déchets débordent, comme c'est régulièrement le cas lors des tempêtes, les agents pathogènes et les nitrates contaminent l'eau potable. La valeur des propriétés s'effondre. Les enfants développent de l'asthme à des taux élevés.
+
+Pour les travailleurs de ces installations, les conditions sont encore pires. Le conditionnement de la viande est constamment classé parmi les emplois les plus dangereux d'Amérique. Une étude de l'USDA a révélé que 81 % des travailleurs de la volaille présentaient un risque élevé de développer des troubles musculo-squelettiques invalidants.footnote:[Sentient Media. "81% of Meatpacking Workers at High Injury Risk, USDA Warns." 2025.] Au-delà des dangers physiques, le bilan psychologique de l'abattage de centaines d'animaux par quart de travail entraîne des taux élevés de TSPT, de dépression et de violence domestique.
+
+=== Le paradoxe de l'inefficacité
+
+Peut-être l'ironie la plus cruelle de ce système est-elle qu'il échoue même selon ses propres termes. L'élevage industriel prétend nourrir efficacement le monde, mais c'est en réalité une énorme machine à détruire la nourriture.
+
+==== Le trou noir calorique
+
+Le secteur de l'élevage utilise 77 % des terres agricoles mais ne produit que 18 % de nos calories.footnote:[Our World in Data. "Environmental Impacts of Food Production." Accessed 2025.] Ce n'est pas de l'efficacité — c'est du gaspillage à l'échelle planétaire.
+
+Le problème est fondamentalement biologique. Lorsque nous donnons des cultures aux animaux, la plupart de l'énergie sert à maintenir l'animal en vie — métabolisme, mouvement, chaleur corporelle. Seule une fraction devient de la viande comestible. Pour 100 calories de céréales données au bétail, nous récupérons 3 calories de bœuf. Les porcs en retournent 10. Les poulets, nos animaux terrestres les plus « efficaces », n'en retournent que 12.footnote:[A Well-Fed World. "Feed-to-Meat Conversion Inefficiency Ratios." Accessed 2025.]
+
+Cette inefficacité a des implications stupéfiantes. À l'échelle mondiale, 36 à 41 % de toutes les calories des cultures sont destinées au bétail plutôt qu'aux humains.footnote:[World Federation for Animals. "Animal welfare is an opportunity to increase food security." Accessed 2025.] Dans un monde où 768 millions de personnes souffrent de la faim, nous filtrons assez de nourriture pour des milliards de personnes à travers des animaux pour en nourrir des millions.
+
+==== Le vrai coût
+
+Une autre inefficacité est économique. Le prix d'un hamburger ne reflète pas son coût réel — ce que les économistes appellent les « externalités ». Ces coûts cachés incluent :
+
+Les dommages climatiques dus aux émissions de gaz à effet de serre
+
+Les coûts de santé liés aux maladies liées à l'alimentation et à l'exposition à la pollution
+
+Le nettoyage de l'environnement dû au ruissellement des nutriments
+
+La perte des services écosystémiques due à la déforestation
+
+La préparation aux futures pandémies et la résistance aux antimicrobiens
+
+Une étude a estimé le coût environnemental mondial de l'élevage à 1,18 billion de dollars par an.footnote:[Grain.org. "Trucost reveals $3.33 trillion environmental cost of farming." Accessed 2025.] Les coûts de santé attribuables à la consommation de viande rouge et transformée ajoutent 285 milliards de dollars supplémentaires.footnote:[Zero Carbon Analytics. "The cost of livestock and meat consumption on human health." Accessed 2025.] Si l'on tient compte de l'impact économique projeté de la résistance aux antimicrobiens — 100 billions de dollars d'ici 2050 — le système de la viande « bon marché » ressemble à l'erreur la plus coûteuse de l'histoire de l'humanité.
+
+Cette fiction économique est maintenue par des subventions massives. Rien qu'aux États-Unis, les producteurs de maïs et de soja — qui cultivent principalement des aliments pour animaux — ont reçu plus de 5 milliards de dollars de subventions fédérales en 2024.footnote:[USAFacts. "Federal farm subsidies: What the data says." 2025.] Les 10 000 plus grandes exploitations d'élevage ont reçu 12,1 milliards de dollars d'aide fédérale entre 2018 et 2023.footnote:[GAO. "Department of Agriculture: Financial Assistance to Livestock Feeding Operations." 2025.]
+
+Ces subventions fonctionnent via plusieurs mécanismes : des paiements directs aux agriculteurs en fonction de la superficie, une assurance-récolte subventionnée qui socialise les pertes dues aux mauvaises récoltes, des prix de soutien qui garantissent des prix minimaux quelles que soient les conditions du marché, et des allégements fiscaux pour l'équipement et les infrastructures agricoles. Le résultat ? L'alimentation animale est artificiellement bon marché, faisant paraître la production de viande économiquement efficace alors qu'elle est en réalité soutenue par des milliards de dollars des contribuables. Sans ces subventions, le coût réel des produits animaux se refléterait à la caisse — et les options végétales seraient le choix économique évident.
+
+Nous payons trois fois pour les produits animaux : une fois au magasin, une autre fois par nos impôts, et enfin par des dommages environnementaux et sanitaires qui pourraient s'avérer irréversibles.
+
+=== La logique du système
+
+À ce stade, une personne raisonnable pourrait se demander : comment avons-nous construit quelque chose d'aussi globalement destructeur ? La réponse révèle quelque chose d'important sur la façon dont les systèmes peuvent évoluer pour maximiser les mauvaises choses.
+
+Chaque caractéristique que j'ai décrite — le confinement, les antibiotiques, la pollution, l'inefficacité — est parfaitement logique dans le cadre du système. Lorsque votre objectif est de produire la quantité maximale de protéines animales au coût direct le plus bas, ce ne sont pas des échecs. Ce sont des optimisations.
+
+Entasser les animaux car la terre coûte de l'argent. Utiliser des antibiotiques car la prévention des maladies est moins chère que des conditions humaines. Externaliser les déchets car le traitement coûte de l'argent. Nourrir les animaux avec des céréales car cela les engraisse plus vite que l'herbe. Le système est parfaitement conçu pour atteindre ses objectifs. Le problème, c'est que ses objectifs sont parfaitement désalignés de la santé planétaire et humaine.
+
+Cela explique pourquoi les solutions proposées reviennent si souvent à réarranger les chaises longues sur le pont. L'« élevage de précision » utilise l'IA pour gérer les animaux plus efficacement — permettant potentiellement des opérations encore plus grandes et plus intensives. Les méthaniseurs capturent le méthane pour l'énergie — créant des incitations à produire plus de fumier. Le « pâturage régénératif » promet la séquestration du carbone tout en ignorant que le méthane du bétail submerge toute capacité de stockage réaliste du sol.footnote:[Zero Carbon Analytics. "Relying on soil-based carbon capture to offset livestock emissions is misguided." Accessed 2025.]
+
+Ce ne sont pas des solutions. C'est un déplacement du problème — traiter un symptôme tout en laissant la question fondamentale intacte. Cette question est celle de l'échelle. Nous essayons de nourrir 8 milliards d'humains tout en filtrant des plantes à travers 85 milliards d'animaux terrestres chaque année. Aucune optimisation ne peut surmonter cette absurdité thermodynamique de base.
+
+La vraie solution nécessite de reconnaître la véritable finalité du système. Il ne s'agit pas de nourrir le monde — l'agriculture végétale le fait bien plus efficacement. Il ne s'agit pas de la santé humaine — comme le montrent clairement les classifications du cancer de l'OMS. Il ne s'agit pas d'efficacité économique — pas quand on compte les coûts réels.
+
+Il s'agit de satisfaire une préférence acquise pour les produits animaux, quelles qu'en soient les conséquences. Une fois que nous voyons cela clairement, la voie à suivre devient évidente, sinon facile.
+
+=== Conclusion
+
+J'ai commencé ce chapitre avec un chiffre : 1 750 animaux tués pour l'alimentation aux États-Unis, chaque seconde. Mais le vrai chiffre qui compte, c'est le suivant. Le prochain choix, trois fois par jour.
+
+Nous avons construit un système qui transforme des êtres conscients en produits par un processus qui déstabilise le climat, dégrade les terres, empoisonne notre eau, engendre des superbactéries, menace de pandémies et, en fin de compte, gaspille plus de nourriture qu'il n'en produit. Ce n'est pas de l'hyperbole ou de la rhétorique militante. C'est la conclusion de milliers d'études évaluées par des pairs examinant ces systèmes interconnectés.
+
+Le fossé entre ce que nous pensons faire en mangeant un hamburger — prendre un repas — et ce que nous faisons réellement — participer à un système de catastrophes en cascade — n'a jamais été aussi grand. Mais contrairement aux problèmes véritablement insolubles, celui-ci a une solution évidente : arrêter de donner des plantes à manger aux animaux pour nous nourrir.
+
+Bien sûr, « évident » ne signifie pas « facile ». Le prochain chapitre explore pourquoi, même face à des preuves accablantes de préjudice, nous avons tant de mal à changer. Il s'agit de plus qu'un choix personnel — il s'agit de ce que nous devons aux autres lorsque nos préférences causent de la souffrance.
+
+Le repas devant vous trois fois par jour est un choix. Maintenant que nous comprenons ce que manger des animaux implique vraiment, nous devons examiner ce que cette compréhension exige de nous.

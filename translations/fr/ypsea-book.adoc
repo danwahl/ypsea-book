@@ -1,0 +1,22 @@
+= Vous ne devriez probablement pas manger d'animaux
+Daniel Wahl
+:chapter-number: -1
+:doctype: book
+:!sectnums:
+:toc: macro
+
+toc::[]
+
+include::0-introduction.adoc[]
+
+include::1-animals.adoc[]
+
+include::2-eat.adoc[]
+
+include::3-shouldnt.adoc[]
+
+include::4-probably.adoc[]
+
+include::5-you.adoc[]
+
+include::6-conclusion.adoc[]

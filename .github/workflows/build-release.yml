@@ -35,38 +35,48 @@ jobs:
         draft: false
         prerelease: true
 
-    - name: Upload HTML
-      uses: actions/upload-release-asset@v1
+    - name: Upload release assets for all languages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./build/ypsea-book-en.html
-        asset_name: ypsea-book-en.html
-        asset_content_type: text/html
+      run: |
+        # Get the release tag
+        TAG="${GITHUB_REF#refs/tags/}"
+        
+        # Loop through each language directory
+        for lang_dir in translations/*/; do
+          lang=$(basename "$lang_dir")
+          
+          # Upload HTML
+          if [ -f "./build/ypsea-book-${lang}.html" ]; then
+            gh release upload "$TAG" "./build/ypsea-book-${lang}.html" --clobber
+          fi
+          
+          # Upload EPUB
+          if [ -f "./build/ypsea-book-${lang}.epub" ]; then
+            gh release upload "$TAG" "./build/ypsea-book-${lang}.epub" --clobber
+          fi
+          
+          # Upload PDF
+          if [ -f "./build/ypsea-book-${lang}.pdf" ]; then
+            gh release upload "$TAG" "./build/ypsea-book-${lang}.pdf" --clobber
+          fi
+        done
 
-    - name: Upload Epub
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./build/ypsea-book-en.epub
-        asset_name: ypsea-book-en.epub
-        asset_content_type: application/epub+zip
-
-    - name: Upload PDF
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./build/ypsea-book-en.pdf
-        asset_name: ypsea-book-en.pdf
-        asset_content_type: application/pdf
-
-    - name: Rename en HTML to index.html
-      run: mv ./build/ypsea-book-en.html ./build/index.html
+    - name: Prepare GitHub Pages directory structure
+      run: |
+        # Create language subdirectories and copy HTML files
+        for lang_dir in translations/*/; do
+          lang=$(basename "$lang_dir")
+          mkdir -p "./build/${lang}"
+          if [ -f "./build/ypsea-book-${lang}.html" ]; then
+            cp "./build/ypsea-book-${lang}.html" "./build/${lang}/index.html"
+          fi
+        done
+        
+        # Copy English as root index.html for default access
+        if [ -f "./build/ypsea-book-en.html" ]; then
+          cp "./build/ypsea-book-en.html" "./build/index.html"
+        fi
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
