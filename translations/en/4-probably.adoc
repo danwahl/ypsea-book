@@ -6,7 +6,7 @@ The Bush administration was evil. Animals were for eating. Radiohead's *OK Compu
 
 Then something terrible happened: I kept learning things.
 
-Not big, dramatic revelations, but small cracks in the foundation. A conservative coworker who was frustratingly kind. A philosophy class that complicated my easy ethics. That growing suspicion that *Kid A* was actually the masterpiece. Each new bit of information didn't strengthen my certainty—it eroded it, like water wearing away stone.
+Not big, dramatic revelations, but small cracks in the foundation. A conservative coworker who was frustratingly kind. A philosophy class that complicated my easy ethics. That growing suspicion that *Kid A* was actually the masterpiece. Each new bit of information didn't strengthen my certainty; it eroded it, like water wearing away stone.
 
 By thirty, I'd replaced most of my exclamation points with question marks. By forty, even the question marks came with footnotes.
 
@@ -14,7 +14,7 @@ This kind of epistemic hedging might seem like weakness, but I've come to see it
 
 Which brings us to this chapter, and to that crucial word in our title. "Probably" isn't there for false modesty or rhetorical flourish. It's there because honest engagement with the ethics of eating animals reveals genuine uncertainties. What if consciousness is rarer than we think? What if farmed animals truly are better off existing than not? What if nature really is crueler than agriculture? What if some people genuinely need animal products to thrive?
 
-These aren't bad faith objections or gotcha questions. They're real challenges that deserve real consideration. And here's the thing: taking them seriously doesn't weaken the case for plant-based eating. It transforms it from dogma into something more powerful—a rational response to moral uncertainty.
+These aren't bad faith objections or gotcha questions. They're real challenges that deserve real consideration. And here's the thing: taking them seriously doesn't weaken the case for plant-based eating. It transforms it from dogma into something more powerful: a rational response to moral uncertainty.
 
 Because when you're not sure, but the stakes are high, what you do with that uncertainty matters more than the uncertainty itself.
 
@@ -22,23 +22,23 @@ Because when you're not sure, but the stakes are high, what you do with that unc
 
 For me, the most uncomfortable question in animal ethics is: What if they don't feel anything at all?
 
-I don't mean this glibly. Some serious philosophers argue that what we interpret as animal suffering might be something else entirely—complex but unconscious responses, like a robot processing inputs without any inner experience. And they have better arguments than you might think.
+I don't mean this glibly. Some serious philosophers argue that what we interpret as animal suffering might be something else entirely: complex but unconscious responses, like a robot processing inputs without any inner experience. And they have better arguments than you might think.
 
 ==== The Case Against Animal Minds
 
-Start with philosophical zombies. Imagine someone who acts exactly like your best friend—laughs at jokes, winces at pain, remembers your birthday—but has no inner experience whatsoever. They're all behavior, no consciousness. Philosophers call them p-zombies, and if they're even conceivable, it suggests consciousness is something extra beyond behavior.footnote:[David Chalmers developed this argument. See Chalmers, D. (1996). The Conscious Mind. Oxford University Press.]
+Start with philosophical zombies. Imagine someone who acts exactly like your best friend (laughs at jokes, winces at pain, remembers your birthday) but has no inner experience whatsoever. They're all behavior, no consciousness. Philosophers call them p-zombies, and if they're even conceivable, it suggests consciousness is something extra beyond behavior.footnote:[David Chalmers developed this argument. See Chalmers, D. (1996). The Conscious Mind. Oxford University Press.]
 
-Apply this to animals and things get uncomfortable. That pig squealing in the slaughterhouse? Maybe it's just executing a complex behavioral program—no more conscious than your laptop's cooling fan spinning up under stress.
+Apply this to animals and things get uncomfortable. That pig squealing in the slaughterhouse? Maybe it's just executing a complex behavioral program, no more conscious than your laptop's cooling fan spinning up under stress.
 
-The skeptics have more ammunition. Some argue consciousness requires not just having experiences but thinking about those experiences—what philosophers call Higher-Order Thoughts. By this logic, a dog might have pain signals firing and exhibit pain behaviors, but without the ability to think "I am in pain," there's no actual suffering.footnote:[Carruthers, P. (2005). "Consciousness: Essays from a Higher-Order Perspective." Oxford University Press. For a critical discussion, see Seager, W., & Allen-Hermanson, S. (2010). "Panpsychism." Stanford Encyclopedia of Philosophy.]
+The skeptics have more ammunition. Some argue consciousness requires not just having experiences but thinking about those experiences, what philosophers call Higher-Order Thoughts. By this logic, a dog might have pain signals firing and exhibit pain behaviors, but without the ability to think "I am in pain," there's no actual suffering.footnote:[Carruthers, P. (2005). "Consciousness: Essays from a Higher-Order Perspective." Oxford University Press. For a critical discussion, see Seager, W., & Allen-Hermanson, S. (2010). "Panpsychism." Stanford Encyclopedia of Philosophy.]
 
-Then there's the discontinuity problem. Maybe consciousness isn't a dimmer switch but a light that suddenly turned on at some point in human evolution. Perhaps whatever makes experience possible—language, abstract reasoning, complex culture—emerged only in humans. The rest of the animal kingdom might be sophisticated biological robots.footnote:[Macphail, E. M. (1998). The Evolution of Consciousness. Oxford University Press.]
+Then there's the discontinuity problem. Maybe consciousness isn't a dimmer switch but a light that suddenly turned on at some point in human evolution. Perhaps whatever makes experience possible (language, abstract reasoning, complex culture) emerged only in humans. The rest of the animal kingdom might be sophisticated biological robots.footnote:[Macphail, E. M. (1998). The Evolution of Consciousness. Oxford University Press.]
 
 I find these arguments ultimately unconvincing, but I can't dismiss them entirely. And that's precisely the point.
 
 ==== Living Without Certainty
 
-It doesn't stop with animals: we face this same uncertainty about human consciousness. I can't prove you're conscious rather than a p-zombie going through the motions. The problem of other minds is unsolvable in principle—we're each trapped in our own subjective experience, inferring but never knowing what others feel.
+This doesn't stop with animals; we face this same uncertainty about human consciousness. I can't prove you're conscious rather than a p-zombie going through the motions. The problem of other minds is unsolvable in principle; we're each trapped in our own subjective experience, inferring but never knowing what others feel.
 
 Yet we don't throw up our hands and treat other humans as maybe-zombies. We assume they're conscious because the evidence strongly suggests it and the moral cost of being wrong is astronomical. The same logic applies to animals.
 
@@ -46,13 +46,13 @@ Consider the evidence we do have. Animals possess nociceptors (pain receptors) r
 
 But let's say I'm wrong. Let's say there's only a 10% chance that pig is genuinely suffering. Is that a gamble worth taking for bacon?
 
-Think of it this way: If I handed you a button that had a 90% chance of doing nothing but a 10% chance of torturing someone for hours, would you press it for a sandwich? That's essentially what we do when we buy factory-farmed meat—betting against consciousness with someone else paying the price if we're wrong.
+Think of it this way: If I handed you a button that had a 90% chance of doing nothing but a 10% chance of torturing someone for hours, would you press it for a sandwich? That's essentially what we do when we buy factory-farmed meat, betting against consciousness with someone else paying the price if we're wrong.
 
 ==== Drawing Lines in the Dark
 
 The consciousness question gets even messier at the margins. Everyone draws the line somewhere, and everyone's somewhere is different.
 
-Take oysters. They're animals, technically, but they lack a central nervous system—just scattered nerve clusters responding to stimuli. If consciousness requires integrated information processing, oysters probably aren't home. Some vegans eat them. Others don't. Both positions are defensible.footnote:[Cox, C. (2010). "Consider the Oyster." Slate Magazine. For the scientific perspective, see Crook, R. J., & Walters, E. T. (2011). "Nociceptive behavior and physiology of molluscs: animal welfare implications." ILAR Journal, 52(2), 185-195.]
+Take oysters. They're animals, technically, but they lack a central nervous system, having just scattered nerve clusters responding to stimuli. If consciousness requires integrated information processing, oysters probably aren't home. Some vegans eat them. Others don't. Both positions are defensible.footnote:[Cox, C. (2010). "Consider the Oyster." Slate Magazine. For the scientific perspective, see Crook, R. J., & Walters, E. T. (2011). "Nociceptive behavior and physiology of molluscs: animal welfare implications." ILAR Journal, 52(2), 185-195.]
 
 Or consider insects. We used to dismiss them as biological automata. Then research started finding surprising complexity. Bees show pessimistic cognitive biases when stressed. Fruit flies demonstrate behaviors consistent with depressionfootnote:[So much so that they are used in SSRI research, see Ries, A. S., Hermanns, T., Poeck, B., & Strauss, R. (2017). Serotonin modulates a depression-like state in Drosophila responsive to lithium treatment. Nature communications, 8, 15738.]. The evidence isn't conclusive, but it's accumulating.footnote:[Bateson, M., Desire, S., Gartside, S. E., & Wright, G. A. (2011). "Agitated honeybees exhibit pessimistic cognitive biases." Current Biology, 21(12), 1070-1073; Giurfa, M. (2013). "Cognition with few neurons: higher-order learning in insects." Trends in Neurosciences, 36(5), 285-294.]
 
@@ -70,13 +70,13 @@ You can never be perfectly safe driving a car, but that's no excuse to do 100 in
 
 === The Paradox of the Happy Pig
 
-Another challenging argument goes like this: That bacon on your plate is the reason the pig existed at all. No demand for bacon, no pig. And if that pig lived a good life—socializing with other pigs, rooting in mud, enjoying whatever pigs enjoy—then eating bacon literally created happiness that wouldn't otherwise exist. By this logic, the pig should thank you for your appetite.
+Another challenging argument goes like this: That bacon on your plate is the reason the pig existed at all. No demand for bacon, no pig. And if that pig lived a good life, socializing with other pigs, rooting in mud, enjoying whatever pigs enjoy, then eating bacon literally created happiness that wouldn't otherwise exist. By this logic, the pig should thank you for your appetite.
 
 They call it the Logic of the Larder, and it's surprisingly hard to refute.footnote:[Stephen, L. (1896). Social Rights and Duties. London: Swan Sonnenschein. For modern discussion, see Matheny, G. (2006). "Utilitarianism and animals." In P. Singer (Ed.), In Defense of Animals (pp. 13-25). Blackwell.]
 
 ==== Making the Numbers Work
 
-The argument has philosophical pedigree. Utilitarians care about maximizing total welfare in the world. If a pig lives a net-positive life (more happiness than suffering), then creating that pig increases total welfare. The fact that the pig's life ends in slaughter is beside the point—all lives end eventually. What matters is the total sum of hedonic experiences.
+The argument has philosophical pedigree. Utilitarians care about maximizing total welfare in the world. If a pig lives a net-positive life (more happiness than suffering), then creating that pig increases total welfare. The fact that the pig's life ends in slaughter is beside the point; all lives end eventually. What matters is the total sum of hedonic experiences.
 
 And there's something to this. A world with happy pigs frolicking in pastures might genuinely contain more total welfare than a world without those pigs. If we could guarantee truly good lives for farm animals, the Logic of the Larder would have real force.
 
@@ -88,7 +88,7 @@ Something feels wrong here, but what exactly?
 
 First, there's the empirical reality. This argument might work for the handful of animals on idyllic farms, but 99% of farmed animals live in conditions that make a mockery of "lives worth living." Whatever theoretical merit the happy pig argument has, it's irrelevant to the actual meat production system.footnote:[According to the Sentience Institute, over 98% of US farmed animals live on factory farms. See: Sentience Institute. US Factory Farming Estimates. Accessed 2025.]
 
-In fact, from a population ethics perspective, factory farming might be the worst possible equilibrium: maximizing the number of beings while also maximizing the risk they suffer. We've created a system that brings billions of sentient creatures into existence specifically to endure lives that are plausibly net-negative—where suffering outweighs any pleasure they might experience.
+In fact, from a population ethics perspective, factory farming might be the worst possible equilibrium: maximizing the number of beings while also maximizing the risk they suffer. We've created a system that brings billions of sentient creatures into existence specifically to endure lives that are plausibly net-negative, where suffering outweighs any pleasure they might experience.
 
 But let's imagine genuinely happy farm animals. The argument still faces serious challenges.
 
@@ -104,13 +104,13 @@ I'll be honest: I find this argument genuinely challenging. Happy lives might in
 
 But that's exactly why the "probably" in our title matters. When we're uncertain about deep questions of welfare and value, when we're literally gambling with sentient lives, which way should we err?
 
-Creating beings for food is always a moral gamble. In practice, with industrial agriculture, we're most likely losing that gamble—creating vast suffering for trivial pleasures. Even with "humane" farming, we're betting that brief lives with good conditions outweigh the harm of slaughter. Maybe that bet sometimes pays off. Maybe not.
+Creating beings for food is always a moral gamble. In practice, with industrial agriculture, we're most likely losing that gamble, creating vast suffering for trivial pleasures. Even with "humane" farming, we're betting that brief lives with good conditions outweigh the harm of slaughter. Maybe that bet sometimes pays off. Maybe not.
 
-The alternative—plant-based diets—involves no such gamble. We're not creating beings whose welfare we might misjudge. We're not risking net-negative lives. We're not cutting short experiences that might have positive value. It's the precautionary principle applied to creating conscious beings.
+The alternative, plant-based diets, involves no such gamble. We're not creating beings whose welfare we might misjudge. We're not risking net-negative lives. We're not cutting short experiences that might have positive value. It's the precautionary principle applied to creating conscious beings.
 
 The Logic of the Larder asks us to accept a lot of maybes to justify definite slaughter. Maybe farm animals have net-positive lives. Maybe those lives outweigh early death. Maybe we can scale humane farming. That's a lot of uncertainty to stake against certain killing for small benefits.
 
-When facing such profound uncertainty about creating lives for our own purposes—especially given how badly we've failed with factory farming—probably we shouldn't.
+When facing such profound uncertainty about creating lives for our own purposes, especially given how badly we've failed with factory farming, probably we shouldn't.
 
 === Nature, Red in Tooth and Claw
 
@@ -122,9 +122,9 @@ If you care about animal suffering, nature presents a genuine challenge. Which r
 
 ====  The Complexity of Wild Suffering
 
-The scale of wild animal life dwarfs human agriculture. For every human on Earth, there are thousands of wild vertebrates and millions of insects. Many live what ecologists term "r-selected" lives—reproductive strategies that produce massive numbers of offspring, most doomed to die young.footnote:[Ng, Y. K. (1995). "Towards welfare biology: Evolutionary economics of animal consciousness and suffering." Biology and Philosophy, 10(3), 255-285.]
+The scale of wild animal life dwarfs human agriculture. For every human on Earth, there are thousands of wild vertebrates and millions of insects. Many live what ecologists term "r-selected" lives: reproductive strategies that produce massive numbers of offspring, most doomed to die young.footnote:[Ng, Y. K. (1995). "Towards welfare biology: Evolutionary economics of animal consciousness and suffering." Biology and Philosophy, 10(3), 255-285.]
 
-Their deaths aren't peaceful. Starvation, dehydration, disease, parasitism, predation (often being eaten alive), exposure—nature can be harsh. As Richard Dawkins observed, nature is neither cruel nor kind, but indifferent, and that indifference often manifests as suffering.footnote:[Dawkins, R. (1995). River Out of Eden: A Darwinian View of Life. Basic Books.]
+Their deaths aren't peaceful. Starvation, dehydration, disease, parasitism, predation (often being eaten alive), exposure. Nature can be harsh. As Richard Dawkins observed, nature is neither cruel nor kind, but indifferent, and that indifference often manifests as suffering.footnote:[Dawkins, R. (1995). River Out of Eden: A Darwinian View of Life. Basic Books.]
 
 From this narrow perspective, farm animals might seem privileged. Regular meals, veterinary care, protection from predators, shelter from elements. Some philosophers have even argued we should intervene in nature to reduce wild animal suffering.footnote:[Pearce, D. (2015). "A Welfare State for Elephants? A Case Study of Compassionate Stewardship." Relations: Beyond Anthropocentrism, 3(2), 133-152.]
 
@@ -134,42 +134,42 @@ But this comparison misses crucial distinctions.
 
 The first mistake is treating wild and farmed animal suffering as an either/or proposition. These are fundamentally different ethical challenges requiring different approaches.
 
-Wild animal suffering exists independently of human action—it's part of evolved ecosystems that have functioned for millions of years. Farmed animal suffering is entirely human-created, existing only because we breed billions of animals into existence for our purposes. One is a natural baseline; the other is an added harm.
+Wild animal suffering exists independently of human action; it's part of evolved ecosystems that have functioned for millions of years. Farmed animal suffering is entirely human-created, existing only because we breed billions of animals into existence for our purposes. One is a natural baseline; the other is an added harm.
 
-Moreover, animal agriculture doesn't replace wild suffering—it compounds it. Farming is the leading driver of habitat destruction globally, using 77% of agricultural land while producing only 18% of our calories. In the Amazon, cattle ranching accounts for 80% of deforestation. Every acre cleared displaces or kills countless wild animals.footnote:[Poore, J., & Nemecek, T. (2018). "Reducing food's environmental impacts through producers and consumers." Science, 360(6392), 987-992.]
+Moreover, animal agriculture doesn't replace wild suffering; it compounds it. Farming is the leading driver of habitat destruction globally, using 77% of agricultural land while producing only 18% of our calories. In the Amazon, cattle ranching accounts for 80% of deforestation. Every acre cleared displaces or kills countless wild animals.footnote:[Poore, J., & Nemecek, T. (2018). "Reducing food's environmental impacts through producers and consumers." Science, 360(6392), 987-992.]
 
-The dynamics are complex: habitat conversion causes immediate suffering through displacement and death, while the long-term effects on wild animal populations involve enormous uncertainty. But just in terms of preserving ecosystems, animal agriculture is doubly harmful—both through direct land use and through feeding crops to animals rather than humans.
+The dynamics are complex: habitat conversion causes immediate suffering through displacement and death, while the long-term effects on wild animal populations involve enormous uncertainty. But just in terms of preserving ecosystems, animal agriculture is doubly harmful, both through direct land use and through feeding crops to animals rather than humans.
 
 ==== Addressing What We Can Control
 
 The wild animal suffering question does achieve something valuable: it expands our moral circle to consider all sentient beings, not just those harmed by humans. If we truly care about consciousness wherever it exists, we can't simply romanticize nature.
 
-But acknowledging nature's harshness doesn't justify adding to total suffering. We have clear, immediate control over farmed animal suffering—we can simply stop breeding animals for food. The solution is straightforward, even if implementation is challenging.
+But acknowledging nature's harshness doesn't justify adding to total suffering. We have clear, immediate control over farmed animal suffering: we can simply stop breeding animals for food. The solution is straightforward, even if implementation is challenging.
 
 For wild animal suffering, the path forward is far less clear. Interventions in complex ecosystems risk unintended consequences, likely by default. We lack both the knowledge and the tools to reduce wild suffering without potentially causing greater harm. This isn't an excuse for inaction forever, but it argues for extreme caution and much more research.
 
 The practical upshot: if you want to help animals, start where the solution is clear. Stop supporting factory farming. Reduce habitat destruction. Fund research into humane wildlife management. But don't use the existence of natural suffering to justify creating additional, unnecessary suffering through agriculture.
 Using uncertain future interventions in nature to justify certain present harm in farming is like refusing to put out a fire in your house because wildfires also exist. Address the problems you can control while thoughtfully considering those you can't (yet).
 
-In the face of such vast suffering—both wild and farmed—we should at least stop actively adding to it.
+In the face of such vast suffering, both wild and farmed, we should at least stop actively adding to it.
 
 === The Human Exception
 
 Here's a confession that might surprise you: I don't really like vegetables.
 
-Almost ten years into being vegan, and I still regard asparagus with deep suspicion. Sautéed spinach tastes like punishment. Don't get me started on cabbage. My ideal meal involves bread, pasta, or potatoes—preferably all three. If left to my own devices, I'd probably get scurvy.
+Almost ten years into being vegan, and I still regard asparagus with deep suspicion. Sautéed spinach tastes like punishment. Don't get me started on cabbage. My ideal meal involves bread, pasta, or potatoes, preferably all three. If left to my own devices, I'd probably get scurvy.
 
 I mention this because people assume vegans are powered by pure love of plants. That we wake up craving wheatgrass shots and dream in shades of quinoa. But I'm vegan despite my vegetable aversion, not because of some deep affinity for produce. Which illustrates something important: the ethics of eating animals isn't about what you like. It's about what you can live without.
 
-But what if you genuinely can't live without animal products? Not preference but necessity—biological, geographical, or cultural. These exceptions challenge vegan universalism in ways that matter.
+But what if you genuinely can't live without animal products? Not preference but necessity: biological, geographical, or cultural. These exceptions challenge vegan universalism in ways that matter.
 
 ==== When Place Determines Plate
 
-In Qaanaaq, Greenland, the growing season lasts six weeks. The rest of the year, the ground is frozen harder than concrete. For the Inuit people who've lived here for millennia, the question isn't whether to eat animals but which ones—seal, whale, walrus, or caribou.footnote:[Borré, K. (1991). "Seal blood, Inuit blood, and diet: a biocultural model of physiology and cultural identity." Medical Anthropology Quarterly, 5(1), 48-62.]
+In Qaanaaq, Greenland, the growing season lasts six weeks. The rest of the year, the ground is frozen harder than concrete. For the Inuit people who've lived here for millennia, the question isn't whether to eat animals but which ones: seal, whale, walrus, or caribou.footnote:[Borré, K. (1991). "Seal blood, Inuit blood, and diet: a biocultural model of physiology and cultural identity." Medical Anthropology Quarterly, 5(1), 48-62.]
 
-This isn't a lifestyle choice. It's thermodynamics. At -40°F, humans doing outdoor work need 5,000+ calories a day—the cold combined with physical activity creates enormous energy demands. Seal blubber provides those calories in a way no imported plant food could match, even if shipping Impossible Burgers to the Arctic Circle weren't absurdly impractical.
+This isn't a lifestyle choice. It's thermodynamics. At -40°F, humans doing outdoor work need 5,000+ calories a day, as the cold combined with physical activity creates enormous energy demands. Seal blubber provides those calories in a way no imported plant food could match, even if shipping Impossible Burgers to the Arctic Circle weren't absurdly impractical.
 
-Similar realities face pastoral communities worldwide. The Maasai of East Africa, Mongolian herders, Himalayan yak farmers—for people in environments where crops won't grow, animals convert inedible grasses into human nutrition. These aren't just food systems but entire cultures evolved to thrive where plant agriculture fails.footnote:[Fratkin, E. (1997). "Pastoralism: Governance and development issues." Annual Review of Anthropology, 26(1), 235-261.]
+Similar realities face pastoral communities worldwide. The Maasai of East Africa, Mongolian herders, Himalayan yak farmers. For people in environments where crops won't grow, animals convert inedible grasses into human nutrition. These aren't just food systems but entire cultures evolved to thrive where plant agriculture fails.footnote:[Fratkin, E. (1997). "Pastoralism: Governance and development issues." Annual Review of Anthropology, 26(1), 235-261.]
 
 Then there's the sovereignty issue. When Indigenous peoples practice traditional hunting, they're not just acquiring calories. They're maintaining relationships with land, ancestors, and identity that have been under threat for centuries. Telling them to go vegan can look like the latest chapter in cultural imperialism.footnote:[Kim, C. J. (2015). Dangerous Crossings: Race, Species, and Nature in a Multicultural Age. Cambridge University Press.]
 
@@ -177,9 +177,9 @@ Then there's the sovereignty issue. When Indigenous peoples practice traditional
 
 These exceptions are real and deserve respect. But here's the crucial point: they're exceptions that prove the rule, not invalidate it.
 
-Traditional subsistence hunting and industrial animal agriculture aren't different points on the same spectrum—they're different categories entirely. One involves small-scale, place-based practices often maintained for millennia. The other involves raising and killing 80 billion land animals annually in a system that's existed for mere decades.footnote:[FAO. (2021). FAOSTAT statistical database. Rome: Food and Agriculture Organization of the United Nations.]
+Traditional subsistence hunting and industrial animal agriculture aren't different points on the same spectrum; they're different categories entirely. One involves small-scale, place-based practices often maintained for millennia. The other involves raising and killing 80 billion land animals annually in a system that's existed for mere decades.footnote:[FAO. (2021). FAOSTAT statistical database. Rome: Food and Agriculture Organization of the United Nations.]
 
-More importantly, these traditional systems can't scale. There's not enough huntable wildlife to feed 8 billion people through hunting. Not enough marginal grassland for universal pastoralism. These practices work precisely because they're limited to specific peoples in specific places. Try to globalize them and they collapse—along with the ecosystems they depend on.
+More importantly, these traditional systems can't scale. There's not enough huntable wildlife to feed 8 billion people through hunting. Not enough marginal grassland for universal pastoralism. These practices work precisely because they're limited to specific peoples in specific places. Try to globalize them and they collapse, along with the ecosystems they depend on.
 
 So yes, some people in some places need animal products to survive. But using Inuit seal hunting to defend buying factory-farmed chicken at Walmart is like using handicap parking to justify blocking a fire lane. The existence of genuine exceptions doesn't excuse the rule.
 
@@ -187,15 +187,15 @@ So yes, some people in some places need animal products to survive. But using In
 
 What matters isn't drawing rigid lines but recognizing contexts. Unnecessary harm remains problematic whether inflicted by industrial agriculture or traditional practices. But subsistence hunting by marginalized peoples isn't the priority problem, and pretending otherwise is both strategically foolish and morally confused.
 
-For the tiny percentage of humans who genuinely need animal products—whether due to geography, biology, or circumstance—the ethical framework shifts. The question becomes not "whether" but "how": how to minimize harm, respect relationships, and acknowledge necessity.
+For the tiny percentage of humans who genuinely need animal products, whether due to geography, biology, or circumstance, the ethical framework shifts. The question becomes not "whether" but "how": how to minimize harm, respect relationships, and acknowledge necessity.
 
-For the rest of us—especially those reading this book in climate-controlled rooms with year-round supermarket access—these exceptions offer no cover. We're not subsistence hunters or Arctic dwellers or people with rare medical conditions that require animal products. We're people with choices, pretending otherwise.
+For the rest of us, especially those reading this book in climate-controlled rooms with year-round supermarket access, these exceptions offer no cover. We're not subsistence hunters or Arctic dwellers or people with rare medical conditions that require animal products. We're people with choices, pretending otherwise.
 
 The existence of genuine edge cases makes the center case clearer, not murkier. Unless you're reading this in an igloo, on the Mongolian steppes, or in a gastroenterologist's office, the exceptions probably don't apply to you.
 
 === The Waiting Game
 
-In 2013, the world's most expensive burger made its debut in London. Price tag: $330,000. The twist? No cow died for it—the meat was grown from bovine cells in a lab. "Give us ten years," the creators said, "and we'll have cruelty-free meat in every supermarket."
+In 2013, the world's most expensive burger made its debut in London. Price tag: $330,000. The twist? No cow died for it. The meat was grown from bovine cells in a lab. "Give us ten years," the creators said, "and we'll have cruelty-free meat in every supermarket."
 
 That was twelve years ago. Still waiting.
 
@@ -207,15 +207,15 @@ But what do we do while we wait for tomorrow's solutions to solve today's proble
 
 Let's be genuinely optimistic about these technologies. Cultivated meat is real science, not science fiction. Multiple companies have working prototypes. Singapore and other countries have approved sales. With enough investment and innovation, we probably will have affordable lab-grown meat eventually.footnote:[Post, M. J. (2012). "Cultured meat from stem cells: Challenges and prospects." Meat Science, 92(3), 297-301.]
 
-Regenerative agriculture isn't just hype either. Well-managed grazing can improve soil health, increase biodiversity, and sequester some carbon. The pictures are beautiful—cattle as ecosystem engineers, healing land while feeding people.footnote:[Teague, W. R., et al. (2016). "The role of ruminants in reducing agriculture's carbon footprint in North America." Journal of Soil and Water Conservation, 71(2), 156-164.]
+Regenerative agriculture isn't just hype either. Well-managed grazing can improve soil health, increase biodiversity, and sequester some carbon. The pictures are beautiful: cattle as ecosystem engineers, healing land while feeding people.footnote:[Teague, W. R., et al. (2016). "The role of ruminants in reducing agriculture's carbon footprint in North America." Journal of Soil and Water Conservation, 71(2), 156-164.]
 
-High-welfare farming offers a different fix. Maybe we keep eating animals but treat them well first. Pasture-raised, cage-free, one bad day—if we must kill, at least minimize suffering. Some small farms genuinely achieve this vision.
+High-welfare farming offers a different fix. Maybe we keep eating animals but treat them well first. Pasture-raised, cage-free, one bad day. If we must kill, at least minimize suffering. Some small farms genuinely achieve this vision.
 
 But here's the puzzle: we already have pretty good alternatives, and hardly anyone chooses them.
 
 ==== The 90% Solution Nobody Wants
 
-Plant-based meats have achieved something remarkable. The best versions are about 90% as good as animal meat by most measures—taste, texture, convenience, cooking properties. They're widely available and increasingly affordable. Oat milk is in every coffee shop. Beyond Burgers are in every supermarket.
+Plant-based meats have achieved something remarkable. The best versions are about 90% as good as animal meat by most measures: taste, texture, convenience, cooking properties. They're widely available and increasingly affordable. Oat milk is in every coffee shop. Beyond Burgers are in every supermarket.
 
 Yet plant-based meat has captured less than 2% of the market. Dairy alternatives do slightly better at around 10%. But if 90% similarity achieves at most 10% adoption, why expect 100% similarity to do much better?footnote:[Good Food Institute. (2021). "Plant-based meat, eggs, and dairy: 2020 U.S. retail market insights."]
 
@@ -231,7 +231,7 @@ It's like continuing to smoke while waiting for a cure for lung cancer. The harm
 
 We don't need perfect solutions. We have good enough ones right now. Whatever cultivated meat might offer someday, plant proteins work today. Whatever regenerative grazing might achieve theoretically, plant agriculture uses less land practically. Whatever welfare reforms might accomplish eventually, not eating animals prevents suffering immediately.
 
-The waiting game assumes we need perfection before taking imperfect action. But practical ethics isn't about perfection—it's about doing the best we can with what we have.
+The waiting game assumes we need perfection before taking imperfect action. But practical ethics isn't about perfection; it's about doing the best we can with what we have.
 
 Yes, develop better alternatives. Yes, improve farming practices. Yes, celebrate every technological advance. But while waiting for perfect solutions, we can't ignore adequate ones. When certain harm continues while we wait for uncertain fixes, waiting becomes complicity.
 
@@ -241,7 +241,7 @@ Probably, we shouldn't wait.
 
 And so we return to "probably."
 
-Not as weakness or hedging, but as honest reckoning with complexity. We've examined some of the strongest objections to plant-based ethics—consciousness skepticism, existence paradoxes, natural suffering, human exceptions, technological promises. Each introduces genuine uncertainty. None provides comfortable clarity.
+Not as weakness or hedging, but as honest reckoning with complexity. We've examined some of the strongest objections to plant-based ethics: consciousness skepticism, existence paradoxes, natural suffering, human exceptions, technological promises. Each introduces genuine uncertainty. None provides comfortable clarity.
 
 But here's what becomes clear through the uncertainty: doubt doesn't paralyze ethics, it clarifies them.
 
