@@ -137,7 +137,7 @@ We're paying three times for animal products: once at the store, again through o
 
 At this point, a reasonable person might ask: how did we build something so comprehensively destructive? The answer reveals something important about how systems can evolve to maximize the wrong things.
 
-Every feature I've described, the confinement, the antibiotics, the pollution, the inefficiency, makes perfect sense within the logic of the system. When your goal is to produce the maximum amount of animal protein at the lowest direct cost, these aren't failures. They're optimizations.
+Every feature I've described (the confinement, the antibiotics, the pollution, the inefficiency) makes perfect sense within the logic of the system. When your goal is to produce the maximum amount of animal protein at the lowest direct cost, these aren't failures. They're optimizations.
 
 Pack animals tightly because land costs money. Use antibiotics because disease prevention is cheaper than humane conditions. Externalize waste because treatment costs money. Feed animals grain because it fattens them faster than grass. The system is perfectly designed to achieve its goals. It's just that its goals are perfectly misaligned with planetary and human health.
 
