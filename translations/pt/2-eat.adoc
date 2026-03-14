@@ -49,11 +49,11 @@ O impacto ambiental da agropecuária não é um problema único, mas uma cascata
 
 ==== Desestabilização Climática
 
-Comece com as mudanças climáticas. Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), as cadeias de suprimentos da pecuária emitem 7,1 gigatoneladas de CO₂-equivalente anualmente, ou 14,5% de todas as emissões de gases de efeito estufa causadas pelo homem.footnote:[FAO. "Livestock and climate change: impact of livestock on climate." Academic OUP, 2019.] Isso é mais do que todo o setor de transportes.
+Comece com as mudanças climáticas. Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), as cadeias de suprimentos da pecuária emitem 7,1 gigatoneladas de CO~2~-equivalente anualmente, ou 14,5% de todas as emissões de gases de efeito estufa causadas pelo homem.footnote:[FAO. "Livestock and climate change: impact of livestock on climate." Academic OUP, 2019.] Isso é mais do que todo o setor de transportes.
 
 Mas focar na porcentagem subestima a urgência. Mesmo que eliminássemos os combustíveis fósseis amanhã, as emissões apenas do nosso sistema alimentar tornariam impossível limitar o aquecimento a 1,5°C.footnote:[Frontiers in Animal Science. "Climate change, public health, and animal welfare: towards a One Health approach to reducing animal agriculture's climate footprint." 2024.] E, ao contrário das emissões de carbono, que teoricamente podem ser removidas da atmosfera, o sofrimento que infligimos aos animais nunca poderá ser desfeito. Temos alternativas à base de plantas disponíveis agora, mas nenhuma tecnologia jamais desfará o sofrimento dos bilhões já prejudicados.
 
-O impacto climático do setor é especialmente pernicioso por causa dos gases que emite. Enquanto a produção de energia libera principalmente CO₂, a agropecuária é a principal fonte de metano e óxido nitroso, gases que são 28 e 265 vezes mais potentes que o CO₂, respectivamente.footnote:[Valores do IPCC para o potencial de aquecimento global em 100 anos.] Cada vaca é uma fábrica de metano, arrotando o gás como subproduto da digestão. Seu esterco libera mais à medida que se decompõe, juntamente com óxido nitroso.
+O impacto climático do setor é especialmente pernicioso por causa dos gases que emite. Enquanto a produção de energia libera principalmente CO~2~, a agropecuária é a principal fonte de metano e óxido nitroso, gases que são 28 e 265 vezes mais potentes que o CO~2~, respectivamente.footnote:[Valores do IPCC para o potencial de aquecimento global em 100 anos.] Cada vaca é uma fábrica de metano, arrotando o gás como subproduto da digestão. Seu esterco libera mais à medida que se decompõe, juntamente com óxido nitroso.
 
 ==== A Apropriação de Terras
 

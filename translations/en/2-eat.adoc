@@ -49,11 +49,11 @@ The environmental impact of animal agriculture isn't a single problem but a casc
 
 ==== Climate Destabilization
 
-Start with climate change. According to the UN's Food and Agriculture Organization, livestock supply chains pump out 7.1 gigatonnes of CO₂-equivalent annually, or 14.5% of all human-caused greenhouse gas emissions.footnote:[FAO. "Livestock and climate change: impact of livestock on climate." Academic OUP, 2019.] That's more than the entire transportation sector.
+Start with climate change. According to the UN's Food and Agriculture Organization, livestock supply chains pump out 7.1 gigatonnes of CO~2~-equivalent annually, or 14.5% of all human-caused greenhouse gas emissions.footnote:[FAO. "Livestock and climate change: impact of livestock on climate." Academic OUP, 2019.] That's more than the entire transportation sector.
 
 But focusing on the percentage understates the urgency. Even if we eliminated fossil fuels tomorrow, emissions from our food system alone would make it impossible to limit warming to 1.5°C.footnote:[Frontiers in Animal Science. "Climate change, public health, and animal welfare: towards a One Health approach to reducing animal agriculture's climate footprint." 2024.] And unlike carbon emissions, which can theoretically be removed from the atmosphere, the suffering we inflict on animals can never be undone. We have plant-based alternatives available now, but no technology will ever un-suffer the billions already harmed.
 
-The sector's climate impact is especially pernicious because of the gases it emits. While energy production mainly releases CO₂, animal agriculture is the dominant source of methane and nitrous oxide, gases that are 28 and 265 times more potent than CO₂, respectively.footnote:[IPCC values for 100-year global warming potential.] Every cow is a methane factory, belching out the gas as a byproduct of digestion. Their manure releases more as it decomposes, along with nitrous oxide.
+The sector's climate impact is especially pernicious because of the gases it emits. While energy production mainly releases CO~2~, animal agriculture is the dominant source of methane and nitrous oxide, gases that are 28 and 265 times more potent than CO~2~, respectively.footnote:[IPCC values for 100-year global warming potential.] Every cow is a methane factory, belching out the gas as a byproduct of digestion. Their manure releases more as it decomposes, along with nitrous oxide.
 
 ==== The Land Grab
 

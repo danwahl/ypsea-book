@@ -16,7 +16,7 @@ The answer requires us to venture into philosophy, history, and psychology, but 
 
 David Hume raised a point that's been irritating philosophers for nearly 300 years.
 
-The Scottish philosopher noticed that moral arguments tend to pull a fast one. They start with statements about how the world is (descriptive facts anyone can observe) then suddenly jump to claims about how the world ought to be (prescriptive commands about right and wrong). This leap, Hume argued, is logically suspicious. You can't derive an "ought" from an "is" any more than you can derive "wet" from "H₂O" without already knowing what water does.footnote:[Hume, D. (1739). A Treatise of Human Nature. The specific passage about is-ought appears in Book III, Part I, Section I.]
+The Scottish philosopher noticed that moral arguments tend to pull a fast one. They start with statements about how the world is (descriptive facts anyone can observe) then suddenly jump to claims about how the world ought to be (prescriptive commands about right and wrong). This leap, Hume argued, is logically suspicious. You can't derive an "ought" from an "is" any more than you can derive "wet" from "H~2~O" without already knowing what water does.footnote:[Hume, D. (1739). A Treatise of Human Nature. The specific passage about is-ought appears in Book III, Part I, Section I.]
 
 Take a seemingly straightforward moral argument:
 

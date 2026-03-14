@@ -16,7 +16,7 @@ La réponse nous oblige à nous aventurer dans la philosophie, l'histoire et la 
 
 David Hume a soulevé un point qui irrite les philosophes depuis près de 300 ans.
 
-Le philosophe écossais a remarqué que les arguments moraux ont tendance à faire un tour de passe-passe. Ils commencent par des déclarations sur la façon dont le monde *est* (des faits descriptifs que n'importe qui peut observer) puis sautent soudainement à des affirmations sur la façon dont le monde *devrait être* (des commandements prescriptifs sur le bien et le mal). Ce saut, selon Hume, est logiquement suspect. On ne peut pas dériver un « devrait être » d'un « est », pas plus qu'on ne peut dériver « mouillé » de « H₂O » sans savoir déjà ce que fait l'eau.footnote:[Hume, D. (1739). A Treatise of Human Nature. Le passage spécifique sur le "est-devrait être" apparaît dans le Livre III, Partie I, Section I.]
+Le philosophe écossais a remarqué que les arguments moraux ont tendance à faire un tour de passe-passe. Ils commencent par des déclarations sur la façon dont le monde *est* (des faits descriptifs que n'importe qui peut observer) puis sautent soudainement à des affirmations sur la façon dont le monde *devrait être* (des commandements prescriptifs sur le bien et le mal). Ce saut, selon Hume, est logiquement suspect. On ne peut pas dériver un « devrait être » d'un « est », pas plus qu'on ne peut dériver « mouillé » de « H~2~O » sans savoir déjà ce que fait l'eau.footnote:[Hume, D. (1739). A Treatise of Human Nature. Le passage spécifique sur le "est-devrait être" apparaît dans le Livre III, Partie I, Section I.]
 
 Prenons un argument moral apparemment simple :
 

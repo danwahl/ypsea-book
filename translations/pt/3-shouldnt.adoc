@@ -16,7 +16,7 @@ A resposta exige que nos aventuremos pela filosofia, história e psicologia, mas
 
 David Hume levantou um ponto que tem irritado os filósofos por quase 300 anos.
 
-O filósofo escocês notou que os argumentos morais tendem a aplicar um truque. Eles começam com afirmações sobre como o mundo *é* (fatos descritivos que qualquer um pode observar) e de repente saltam para alegações sobre como o mundo *deve ser* (comandos prescritivos sobre o certo e o errado). Esse salto, argumentou Hume, é logicamente suspeito. Você não pode derivar um "deve ser" de um "é", assim como não pode derivar "molhado" de "H₂O" sem já saber o que a água faz.footnote:[Hume, D. (1739). A Treatise of Human Nature. The specific passage about is-ought appears in Book III, Part I, Section I.]
+O filósofo escocês notou que os argumentos morais tendem a aplicar um truque. Eles começam com afirmações sobre como o mundo *é* (fatos descritivos que qualquer um pode observar) e de repente saltam para alegações sobre como o mundo *deve ser* (comandos prescritivos sobre o certo e o errado). Esse salto, argumentou Hume, é logicamente suspeito. Você não pode derivar um "deve ser" de um "é", assim como não pode derivar "molhado" de "H~2~O" sem já saber o que a água faz.footnote:[Hume, D. (1739). A Treatise of Human Nature. The specific passage about is-ought appears in Book III, Part I, Section I.]
 
 Considere um argumento moral aparentemente direto:
 
