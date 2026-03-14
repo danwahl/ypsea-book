@@ -56,7 +56,7 @@ Take oysters. They're animals, technically, but they lack a central nervous syst
 
 Or consider insects. We used to dismiss them as biological automata. Then research started finding surprising complexity. Bees show pessimistic cognitive biases when stressed. Fruit flies demonstrate behaviors consistent with depressionfootnote:[So much so that they are used in SSRI research, see Ries, A. S., Hermanns, T., Poeck, B., & Strauss, R. (2017). Serotonin modulates a depression-like state in Drosophila responsive to lithium treatment. Nature communications, 8, 15738.]. The evidence isn't conclusive, but it's accumulating.footnote:[Bateson, M., Desire, S., Gartside, S. E., & Wright, G. A. (2011). "Agitated honeybees exhibit pessimistic cognitive biases." Current Biology, 21(12), 1070-1073; Giurfa, M. (2013). "Cognition with few neurons: higher-order learning in insects." Trends in Neurosciences, 36(5), 285-294.]
 
-Push this logic far enough and you reach the reducto ad absurdum: What if plants are conscious? What if bacteria suffer? What if rocks have feelings? At some point, moral consideration becomes so expansive it collapses into paralysis.
+Push this logic far enough and you reach the reductio ad absurdum: What if plants are conscious? What if bacteria suffer? What if rocks have feelings? At some point, moral consideration becomes so expansive it collapses into paralysis.
 
 But this slippery slope assumes we need certainty to act ethically. We don't. We need reasonable judgment about managing risk.
 
@@ -100,7 +100,7 @@ Most fundamentally, the Logic of the Larder asks us to accept enormous risks wit
 
 ==== Sitting with the Discomfort
 
-I'll be honest: I find this argument genuinely challenging. Happy lives might indeed be valuable, even if they end in slaughter. I can't definitively prove that a world without farm animals is better than one with happy farm animals. Things gets murky here.
+I'll be honest: I find this argument genuinely challenging. Happy lives might indeed be valuable, even if they end in slaughter. I can't definitively prove that a world without farm animals is better than one with happy farm animals. Things get murky here.
 
 But that's exactly why the "probably" in our title matters. When we're uncertain about deep questions of welfare and value, when we're literally gambling with sentient lives, which way should we err?
 
@@ -120,7 +120,7 @@ When they hatch, hundreds scramble toward the ocean in darkness. Seabirds pick t
 
 If you care about animal suffering, nature presents a genuine challenge. Which raises an uncomfortable question: compared to this natural carnage, could even factory farms be an improvement?
 
-====  The Complexity of Wild Suffering
+==== The Complexity of Wild Suffering
 
 The scale of wild animal life dwarfs human agriculture. For every human on Earth, there are thousands of wild vertebrates and millions of insects. Many live what ecologists term "r-selected" lives: reproductive strategies that produce massive numbers of offspring, most doomed to die young.footnote:[Ng, Y. K. (1995). "Towards welfare biology: Evolutionary economics of animal consciousness and suffering." Biology and Philosophy, 10(3), 255-285.]
 
@@ -149,6 +149,7 @@ But acknowledging nature's harshness doesn't justify adding to total suffering. 
 For wild animal suffering, the path forward is far less clear. Interventions in complex ecosystems risk unintended consequences, likely by default. We lack both the knowledge and the tools to reduce wild suffering without potentially causing greater harm. This isn't an excuse for inaction forever, but it argues for extreme caution and much more research.
 
 The practical upshot: if you want to help animals, start where the solution is clear. Stop supporting factory farming. Reduce habitat destruction. Fund research into humane wildlife management. But don't use the existence of natural suffering to justify creating additional, unnecessary suffering through agriculture.
+
 Using uncertain future interventions in nature to justify certain present harm in farming is like refusing to put out a fire in your house because wildfires also exist. Address the problems you can control while thoughtfully considering those you can't (yet).
 
 In the face of such vast suffering, both wild and farmed, we should at least stop actively adding to it.
