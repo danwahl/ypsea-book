@@ -78,12 +78,11 @@ Why individual change matters despite systemic focus. Practical guidance without
 5. **Avoid graphic content**: No slaughterhouse footage or guilt tactics
 
 ## Key Phrases/Concepts to Remember
-- "You probably shouldn't eat animals" (not "don't" or "can't")
+- "You probably shouldn't eat animals" (the calibration matters: "probably" not "definitely," "shouldn't" not "can't") — but express this in flowing prose, not stacked sentence fragments like "Not definitely. Not can't."
 - "Three meals a day" / "three choices a day"
 - Precautionary principle as core framework
 - "Potential significant harm + unnecessary action = probably should stop"
 - Individual choices create constituencies for systemic change
-- "Not definitely. Not can't. Probably shouldn't."
 - "Moral testimony" rather than personal preference
 
 ## What Makes This Book Different
