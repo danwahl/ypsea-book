@@ -15,6 +15,7 @@ The author is writing a short book titled "You Probably Shouldn't Eat Animals" b
 - **Strategic humor**: Light touches that lower defenses without undermining seriousness
 - **Memorable metaphors**: Find sticky ways to express abstract concepts (e.g., "knowledge and action often live in different neighborhoods")
 - **Balance confidence with humility**: "Overwhelmingly convincing" paired with "I'm not asking you to agree with me yet"
+- **Plain, direct prose**: No em dashes. Avoid "not X but Y" contrasts, reflexive triads, stacked fragments, and filler intensifiers ("genuinely," "truly," "crucial")
 
 ### Structural Principles
 - Each chapter preview shows how it builds on the previous one, creating momentum
@@ -78,12 +79,11 @@ Why individual change matters despite systemic focus. Practical guidance without
 5. **Avoid graphic content**: No slaughterhouse footage or guilt tactics
 
 ## Key Phrases/Concepts to Remember
-- "You probably shouldn't eat animals" (not "don't" or "can't")
+- "You probably shouldn't eat animals" (the calibration matters: "probably" not "definitely," "shouldn't" not "can't"), but express this in flowing prose, not stacked sentence fragments like "Not definitely. Not can't."
 - "Three meals a day" / "three choices a day"
 - Precautionary principle as core framework
 - "Potential significant harm + unnecessary action = probably should stop"
 - Individual choices create constituencies for systemic change
-- "Not definitely. Not can't. Probably shouldn't."
 - "Moral testimony" rather than personal preference
 
 ## What Makes This Book Different
