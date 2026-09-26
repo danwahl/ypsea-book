@@ -9,7 +9,7 @@ This chapter isn't an exercise in guilt. I want to understand what it means to e
 The story of how we got here, how eating animals transformed from occasional feast to industrial imperative, reveals the gap between what we think we're doing when we eat meat and what we're actually doing. Because once we acknowledge that those 1,750 animals likely had inner lives, we must confront their deaths and the entire machinery that produced them.
 
 .The animals killed for food in the US, every second
-image::animalclock.png[The animals killed for food in the US, every second, align=center]
+image::animalclock.png["The animals killed for food in the US, every second", align=center]
 
 === The Scale of the Machine
 

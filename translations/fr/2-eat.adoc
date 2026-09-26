@@ -9,7 +9,7 @@ Ce chapitre n'est pas un exercice de culpabilisation. Je veux comprendre ce que 
 L'histoire de la façon dont nous en sommes arrivés là, comment la consommation d'animaux est passée d'un festin occasionnel à un impératif industriel, révèle l'écart entre ce que nous pensons faire lorsque nous mangeons de la viande et ce que nous faisons réellement. Car une fois que nous reconnaissons que ces 1 750 animaux avaient probablement une vie intérieure, nous devons nous confronter à leur mort et à toute la machinerie qui les a produits.
 
 .Les animaux tués pour l'alimentation aux États-Unis, chaque seconde
-image::animalclock.png[Les animaux tués pour l'alimentation aux États-Unis, chaque seconde, align=center]
+image::animalclock.png["Les animaux tués pour l'alimentation aux États-Unis, chaque seconde", align=center]
 
 === L'échelle de la machine
 

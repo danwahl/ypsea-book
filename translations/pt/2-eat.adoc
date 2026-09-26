@@ -9,7 +9,7 @@ Este capítulo não é um exercício de culpa. Quero entender o que significa co
 A história de como chegamos aqui, como comer animais se transformou de um banquete ocasional em um imperativo industrial, revela a distância entre o que pensamos que estamos fazendo quando comemos carne e o que estamos realmente fazendo. Porque, uma vez que reconhecemos que aqueles 1.750 animais provavelmente tinham vidas interiores, devemos confrontar suas mortes e toda a maquinaria que os produziu.
 
 .Os animais mortos para alimentação nos EUA, a cada segundo
-image::animalclock.png[Os animais mortos para alimentação nos EUA, a cada segundo, align=center]
+image::animalclock.png["Os animais mortos para alimentação nos EUA, a cada segundo", align=center]
 
 === A Escala da Máquina
 
