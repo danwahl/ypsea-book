@@ -2,50 +2,50 @@
 
 No último Dia de Ação de Graças, enquanto 46 milhões de perus encontravam seu fim em toda a América, eu me vi pensando em outro número: 1.750.footnote:[Animal Kill Clock. Accessed 2025.]
 
-Esse é o número aproximado de animais mortos para alimentação nos EUA, a cada segundo. Cada um deles vivenciando algo como o que o porco Moritz vivenciou—autorreconhecimento, laços sociais, medo, dor—até não vivenciarem mais.
+Esse é o número aproximado de animais mortos para alimentação nos EUA, a cada segundo. Cada um deles vivenciando algo como o que o porco Moritz vivenciou (autorreconhecimento, laços sociais, medo, dor), até não vivenciarem mais.
 
-Mas este capítulo não é para fazer você se sentir culpado. É para entender o que significa comer animais no ritmo que comemos hoje, e por que o sistema que construímos para satisfazer nosso apetite está na interseção de múltiplas catástrofes. Não catástrofes metafóricas ou riscos futuros, mas crises mensuráveis e contínuas que afetam o clima do planeta, sua capacidade de alimentar os humanos e nossa própria saúde.
+Este capítulo não é um exercício de culpa. Quero entender o que significa comer animais no ritmo que comemos hoje, e por que o sistema que construímos para satisfazer nosso apetite está na interseção de múltiplas catástrofes. São crises mensuráveis e contínuas que afetam o clima do planeta, sua capacidade de alimentar os humanos e nossa própria saúde.
 
-A história de como chegamos aqui, como comer animais se transformou de um banquete ocasional em um imperativo industrial, revela algo importante sobre a diferença entre o que pensamos que estamos fazendo quando comemos carne e o que estamos realmente fazendo. Porque, uma vez que reconhecemos que aqueles 1.750 animais provavelmente tinham vidas interiores, devemos confrontar não apenas o fato de suas mortes, mas toda a maquinaria que os produziu.
+A história de como chegamos aqui, como comer animais se transformou de um banquete ocasional em um imperativo industrial, revela a distância entre o que pensamos que estamos fazendo quando comemos carne e o que estamos realmente fazendo. Porque, uma vez que reconhecemos que aqueles 1.750 animais provavelmente tinham vidas interiores, devemos confrontar suas mortes e toda a maquinaria que os produziu.
 
 .Os animais mortos para alimentação nos EUA, a cada segundo
 image::animalclock.png[Os animais mortos para alimentação nos EUA, a cada segundo, align=center]
 
 === A Escala da Máquina
 
-Para entender a agropecuária moderna, primeiro é preciso compreender sua magnitude pura: uma escala que desafia a compreensão comum e talvez explique por que nos tornamos tão insensíveis a ela.
+Para entender a agropecuária moderna, comece pela sua escala, que desafia a compreensão comum e pode explicar por que nos tornamos tão insensíveis a ela.
 
-Em 2023, os humanos abateram 85,4 bilhões de animais terrestres para alimentação.footnote:[Faunalytics. "Global Animal Slaughter Statistics & Charts." Accessed 2025.] Para colocar isso em perspectiva: se você contasse um animal por segundo, levaria mais de 2.700 anos para contá-los todos. Quando você terminasse, assumindo que as tendências atuais continuem, os humanos teriam abatido outros 260 trilhões de animais.
+Em 2023, os humanos abateram 85,4 bilhões de animais terrestres para alimentação.footnote:[Faunalytics. "Global Animal Slaughter Statistics & Charts." Accessed 2025.] Se você contasse um animal por segundo, levaria mais de 2.700 anos para contá-los todos. Quando você terminasse, assumindo que as tendências atuais continuem, os humanos teriam abatido outros 260 trilhões de animais.
 
-Mas eis o que os números agregados escondem: não estamos comendo 85 bilhões de vacas. A esmagadora maioria, 75 bilhões, são galinhas.footnote:[Dados da FAO mostram que as galinhas representam mais de 88% dos animais terrestres abatidos anualmente. Our World in Data. "More than 80 billion land animals are slaughtered for meat every year." Accessed 2025.] Isso importa porque, se a consciência é o que importa moralmente, então a mudança para o consumo de animais menores aumentou drasticamente o número de indivíduos que sofrem por nossa comida. Uma vaca pode alimentar uma família por meses; uma galinha alimenta uma família por uma refeição.
+Os números agregados escondem a verdadeira história. Não estamos comendo 85 bilhões de vacas. A esmagadora maioria, 75 bilhões, são galinhas.footnote:[Dados da FAO mostram que as galinhas representam mais de 88% dos animais terrestres abatidos anualmente. Our World in Data. "More than 80 billion land animals are slaughtered for meat every year." Accessed 2025.] Isso importa porque, se a consciência é o que importa moralmente, então a mudança para o consumo de animais menores aumentou drasticamente o número de indivíduos que sofrem por nossa comida. Uma vaca pode alimentar uma família por meses; uma galinha alimenta uma família por uma refeição.
 
 Isso é o que os defensores dos animais chamam de "o problema dos animais de corpo pequeno". Nossa mudança coletiva de carne bovina para frango, muitas vezes motivada por preocupações com a saúde ou o meio ambiente, paradoxalmente aumentou o número total de seres sencientes mortos. É como tentar cortar a cafeína trocando o café pelo chá e depois beber 10 xícaras de chá por dia.footnote:[Dez xícaras de chá é o equivalente em cafeína a cerca de duas xícaras de café, mas a proporção de calorias de animais é muito maior. Uma vaca fornece cerca de um milhão de kcal de carne bovina, enquanto uma galinha rende apenas cerca de 1.000, então seriam necessárias 1.000 galinhas para substituir uma vaca.]
 
-Os números se tornam ainda mais impressionantes quando incluímos os animais aquáticos. Diferente dos animais terrestres, os peixes são medidos por peso em vez de indivíduos, uma abstração conveniente que nos ajuda a evitar confrontar o fato de que estamos matando algo entre um e três trilhões de seres sencientes dos oceanos e outras vias navegáveis a cada ano.footnote:[Sentient Media. "How Many Animals Are Killed for Food Every Day?" 2025.]
+Os números ficam ainda mais difíceis de conceber quando incluímos os animais aquáticos. Diferente dos animais terrestres, os peixes são medidos por peso em vez de indivíduos, uma abstração conveniente que nos ajuda a evitar confrontar o fato de que estamos matando algo entre um e três trilhões de seres sencientes dos oceanos e outras vias navegáveis a cada ano.footnote:[Sentient Media. "How Many Animals Are Killed for Food Every Day?" 2025.]
 
 ==== O Modelo Industrial
 
 Esses números só são possíveis porque redesenhamos os próprios animais. O frango de corte moderno cresce tão rápido que atinge o peso de abate em apenas seis semanas, em comparação com 16 semanas na década de 1950. Seus peitos crescem tanto que muitos não conseguem andar adequadamente em seus últimos dias, com as pernas se abrindo sob eles enquanto sentam em seus próprios dejetos, às vezes morrendo de sede a poucos centímetros da água que não conseguem mais alcançar.footnote:[Broom, D.M. and Fraser, A.F. (2015). Domestic Animal Behaviour and Welfare. CABI Publishing.]
 
-Isso não é agricultura em nenhum sentido tradicional. É manufatura, com seres vivos e sencientes como matéria-prima.
+Isso é mais manufatura do que agricultura, com seres vivos e sencientes como matéria-prima.
 
 As práticas padrão parecem um projeto para o sofrimento:
 
 - **Confinamento tão extremo** que a maioria dos animais não consegue se virar, abrir as asas ou deitar-se confortavelmente. Uma galinha poedeira típica tem menos espaço que uma folha de papel.footnote:[The Humane League. "How Are Factory Farms Cruel to Animals?" Accessed 2025]
-- **Mutilações rotineiras** realizadas sem anestesia: corte de cauda, debicagem, castração, descorna. Não são procedimentos médicos, mas ferramentas de manejo para evitar que os animais se firam em resposta ao estresse do confinamento.footnote:[In Defense of Animals. "Standard Practices." Accessed 2025.]
-- **Uso excessivo de antibióticos** que seria criminoso na medicina humana. Não para tratar animais doentes, mas para prevenir as doenças que são inevitáveis quando se amontoam milhares de animais estressados em espaços confinados.footnote:[World Health Organization. "Stop using antibiotics in healthy animals to prevent the spread of antibiotic resistance." 2017.]
+- **Mutilações rotineiras** realizadas sem anestesia: corte de cauda, debicagem, castração, descorna. Elas servem como ferramentas de manejo para evitar que os animais se firam em resposta ao estresse do confinamento.footnote:[In Defense of Animals. "Standard Practices." Accessed 2025.]
+- **Uso excessivo de antibióticos** que seria criminoso na medicina humana, usados para prevenir as doenças que são inevitáveis quando se amontoam milhares de animais estressados em espaços confinados.footnote:[World Health Organization. "Stop using antibiotics in healthy animals to prevent the spread of antibiotic resistance." 2017.]
 
 E depois há o próprio abate. Os sortudos são devidamente atordoados antes de terem suas gargantas cortadas. Mas nas velocidades de linha exigidas para a lucratividade, até 175 aves por minuto em frigoríficos de frango, muitos não têm tanta sorte. Eles ainda estão conscientes quando entram nos tanques de escaldagem destinados a remover suas penas.footnote:[PETA. "Factory Farming: The Industry Behind Meat and Dairy." Accessed 2025.]
 
-Práticas semelhantes também se tornaram padrão na aquicultura, a próxima fronteira da agropecuária industrial. A rápida ascensão da piscicultura trouxe as condições da criação industrial para debaixo d'água. Salmões são amontoados em jaulas marinhas em densidades que seriam como manter um peixe do tamanho de uma banheira em uma banheira. O estresse leva à agressão, doenças e infecções parasitárias que se espalham como fogo em populações apertadas.footnote:[FAO. "FAO Report: Global fisheries and aquaculture production reaches new record high." 2024.] Em tanques terrestres, os peixes nadam em círculos intermináveis em meio a seus próprios dejetos, medicados com antibióticos e pesticidas para sobreviver a condições que nenhum peixe selvagem jamais encontraria.
+Práticas semelhantes também se tornaram padrão na aquicultura, a próxima fronteira da agropecuária industrial. A rápida ascensão da piscicultura trouxe as condições da criação industrial para debaixo d'água. Salmões são amontoados em jaulas marinhas em densidades que seriam como manter um peixe do tamanho de uma banheira em uma banheira. O estresse leva à agressão, doenças e infecções parasitárias que devastam as populações apertadas.footnote:[FAO. "FAO Report: Global fisheries and aquaculture production reaches new record high." 2024.] Em tanques terrestres, os peixes nadam em círculos intermináveis em meio a seus próprios dejetos, medicados com antibióticos e pesticidas para sobreviver a condições que nenhum peixe selvagem jamais encontraria.
 
-O que é crucial entender é que essas não são falhas do sistema. São características. Quando seu modelo de negócios exige matar 1.750 animais por segundo, globalmente, certos compromissos se tornam inevitáveis.footnote:[Calculado a partir de 75,7 bilhões de animais terrestres abatidos anualmente.]
+O sistema está funcionando como foi projetado. Quando seu modelo de negócios exige matar 1.750 animais por segundo, globalmente, certos compromissos se tornam inevitáveis.footnote:[Calculado a partir de 75,7 bilhões de animais terrestres abatidos anualmente.]
 
 === A Cascata Ambiental
 
 Se o abate industrial de 85 bilhões de animais terrestres fosse apenas uma questão de bem-estar animal, ainda seria uma das grandes crises morais de nosso tempo. Mas o sistema necessário para alimentar, abrigar e processar esses animais está diminuindo a capacidade do planeta de sustentar outras formas de vida, incluindo a nossa.
 
-O impacto ambiental da agropecuária não é um problema único, mas uma cascata de crises interligadas, cada uma amplificando as outras. Na raiz está uma realidade biológica simples: a ineficiência de filtrar plantas através de animais para obter calorias.
+O impacto ambiental da agropecuária é uma cascata de crises interligadas, cada uma amplificando as outras. Na raiz está uma realidade biológica simples: a ineficiência de filtrar plantas através de animais para obter calorias.
 
 ==== Desestabilização Climática
 
@@ -57,19 +57,19 @@ O impacto climático do setor é especialmente pernicioso por causa dos gases qu
 
 ==== A Apropriação de Terras
 
-Mas o clima é apenas o começo da cascata. A agropecuária é a maior usuária de terras do mundo, ocupando metade de toda a terra habitável do planeta.footnote:[Our World in Data. "If the world adopted a plant-based diet, we would reduce global agricultural land use by 75%." Accessed 2025.] Uma área equivalente à América do Norte e do Sul combinadas, tudo para produzir menos de 20% de nossas calorias.
+O clima é só o começo da cascata. A agropecuária é a maior usuária de terras do mundo, ocupando metade de toda a terra habitável do planeta.footnote:[Our World in Data. "If the world adopted a plant-based diet, we would reduce global agricultural land use by 75%." Accessed 2025.] Uma área equivalente à América do Norte e do Sul combinadas, tudo para produzir menos de 20% de nossas calorias.
 
 Este apetite voraz por terra torna a agropecuária o principal motor do desmatamento em todo o mundo. Na Amazônia, a pecuária é responsável por 80% do desmatamento.footnote:[WWF. "Unsustainable cattle ranching." Accessed 2025.] Cada hambúrguer de gado criado em floresta desmatada representa cerca de 5 metros quadrados de floresta, um pedaço do tamanho de um banheiro de um dos habitats mais biodiversos da Terra convertido em pasto.
 
-A amarga ironia é que essa terra se degrada rapidamente. O gado compacta o solo, reduz a cobertura vegetal e acelera a erosão. Em poucos anos, o pasto produtivo se torna uma área degradada, empurrando os pecuaristas a desmatar mais floresta em um ciclo acelerado de destruição.footnote:[WWF. "What is Erosion? Effects of Soil Erosion and Land Degradation." Accessed 2025.]
+O revés amargo é que essa terra se degrada rapidamente. O gado compacta o solo, reduz a cobertura vegetal e acelera a erosão. Em poucos anos, o pasto produtivo se torna uma área degradada, empurrando os pecuaristas a desmatar mais floresta em um ciclo acelerado de destruição.footnote:[WWF. "What is Erosion? Effects of Soil Erosion and Land Degradation." Accessed 2025.]
 
 ==== Água sob Ataque
 
 A cascata continua com a água. A agricultura usa 70% da água doce global, com a agropecuária responsável por cerca de um terço disso.footnote:[Open Access Government. "The devastating water footprint of animal agriculture." 2025.] Mas os números apenas insinuam o verdadeiro impacto.
 
-Produzir um quilo de carne bovina requer 15.415 litros de água, o suficiente para suprir as necessidades de água potável de uma pessoa por mais de 20 anos.footnote:[Mekonnen, M.M. & Hoekstra, A.Y. (2012). The hidden water resource use behind meat and dairy. Animal Frontiers.] Quase toda essa é "água virtual" usada para irrigar as plantações de ração. É uma ineficiência impressionante: estamos essencialmente alimentando nossa água para os animais.
+Produzir um quilo de carne bovina requer 15.415 litros de água, o suficiente para suprir as necessidades de água potável de uma pessoa por mais de 20 anos.footnote:[Mekonnen, M.M. & Hoekstra, A.Y. (2012). The hidden water resource use behind meat and dairy. Animal Frontiers.] Quase toda essa é "água virtual" usada para irrigar as plantações de ração. Na prática, estamos alimentando os animais com nossa água.
 
-Mas o consumo de água é apenas metade da história. Os aproximadamente 10 bilhões de animais terrestres criados anualmente apenas nos EUA produzem 400 milhões de toneladas de esterco, mais de 130 vezes o lixo produzido pela população humana.footnote:[ASPCA. "Factory Farming Environmental Impact." Accessed 2025.] Ao contrário dos dejetos humanos, este não recebe tratamento. É armazenado em vastas lagoas abertas que podem cobrir vários hectares e, em seguida, pulverizado nos campos.
+O consumo de água é apenas metade da história. Os aproximadamente 10 bilhões de animais terrestres criados anualmente apenas nos EUA produzem 400 milhões de toneladas de esterco, mais de 130 vezes o lixo produzido pela população humana.footnote:[ASPCA. "Factory Farming Environmental Impact." Accessed 2025.] Ao contrário dos dejetos humanos, este não recebe tratamento. É armazenado em vastas lagoas abertas que podem cobrir vários hectares e, em seguida, pulverizado nos campos.
 
 O fósforo e o nitrogênio desses dejetos escoam para os cursos d'água, alimentando a proliferação de algas que criam zonas mortas aquáticas. A zona morta do Golfo do México, alimentada pelo escoamento da Bacia do Mississippi, pode abranger 20.000 quilômetros quadrados, um deserto subaquático onde nada pode viver.footnote:[EPA. "Sources and Solutions: Agriculture." Accessed 2025.] A aquicultura adiciona seu próprio fardo: os dejetos de milhões de peixes de criação criam zonas mortas subaquáticas ao redor das jaulas marinhas, enquanto as operações terrestres descarregam água com produtos farmacêuticos em rios e córregos.
 
@@ -93,11 +93,11 @@ Se a resistência antimicrobiana é uma catástrofe em câmera lenta, as fazenda
 
 A receita para uma pandemia é simples: amontoe milhares de animais geneticamente uniformes em espaços confinados, estresse seus sistemas imunológicos e exponha-os a novos patógenos. Os porcos são particularmente preocupantes como "recipientes de mistura" porque eles podem ser infectados por cepas de gripe aviária e humana, permitindo que os vírus troquem genes e potencialmente criem novas cepas que se espalham eficientemente entre os humanos.footnote:[Save Our Antibiotics. "Guest blog: Factory farming, zoonotic disease and the risk of pandemics." Accessed 2025.]
 
-A pandemia de "gripe suína" H1N1 de 2009, que matou até meio milhão de pessoas em todo o mundo, surgiu de fazendas industriais de porcos no México.footnote:[Relatórios do CDC e da OMS sobre as origens da pandemia de H1N1 de 2009.] A disseminação contínua da gripe aviária altamente patogênica (H5N1), que devastou operações avícolas e recentemente saltou para o gado e trabalhadores rurais, serve como um aviso em tempo real do potencial pandêmico do sistema. E embora as origens exatas da COVID-19 permaneçam em debate, seu surgimento a partir da vida selvagem, seja através de mercados ou laboratórios de pesquisa, ressalta como nosso relacionamento com os animais cria risco de pandemia.
+A pandemia de "gripe suína" H1N1 de 2009, que matou até meio milhão de pessoas em todo o mundo, surgiu de fazendas industriais de porcos no México.footnote:[Relatórios do CDC e da OMS sobre as origens da pandemia de H1N1 de 2009.] A disseminação contínua da gripe aviária altamente patogênica (H5N1), que devastou operações avícolas e recentemente saltou para o gado e trabalhadores rurais, é um aviso em tempo real do potencial pandêmico do sistema. E embora as origens exatas da COVID-19 permaneçam em debate, seu surgimento a partir da vida selvagem, seja através de mercados ou laboratórios de pesquisa, mostra como nosso relacionamento com os animais cria risco de pandemia.
 
 ==== Comunidades Sitiadas
 
-Os impactos na saúde não são abstrações; eles estão concentrados nas comunidades rurais mais pobres onde as Operações Concentradas de Alimentação Animal (CAFOs) se agrupam.footnote:[Environmental Health News. "Factory farm air pollution is harming communities of color." Accessed 2025.]
+Os impactos na saúde estão concentrados nas comunidades rurais mais pobres onde as Operações Concentradas de Alimentação Animal (CAFOs) se agrupam.footnote:[Environmental Health News. "Factory farm air pollution is harming communities of color." Accessed 2025.]
 
 Imagine viver a favor do vento de uma instalação que abriga 10.000 porcos. O ar fede a amônia e sulfeto de hidrogênio, gases que causam doenças respiratórias, dores de cabeça e depressão.footnote:[Humane World for Animals. "The Public Health Impacts of Concentrated Animal Feeding Operations on Local Communities." Accessed 2025.] Quando as lagoas de dejetos transbordam, como acontece regularmente durante as tempestades, patógenos e nitratos contaminam a água potável. Os valores das propriedades despencam. As crianças desenvolvem asma em taxas elevadas.
 
@@ -105,15 +105,15 @@ Para os trabalhadores dentro dessas instalações, as condições são ainda pio
 
 === O Paradoxo da Ineficiência
 
-Talvez a ironia mais cruel deste sistema seja que ele falha até mesmo em seus próprios termos. A agropecuária industrial afirma alimentar o mundo de forma eficiente, mas na verdade é uma enorme máquina de destruição de alimentos.
+Talvez a ironia mais cruel deste sistema seja que ele falha até mesmo em seus próprios termos. Ele afirma alimentar o mundo de forma eficiente, mas funciona como uma enorme máquina de destruição de alimentos.
 
 ==== O Buraco Negro Calórico
 
-O setor pecuário usa 77% das terras agrícolas, mas produz apenas 18% de nossas calorias.footnote:[Our World in Data. "Environmental Impacts of Food Production." Accessed 2025.] Isso não é eficiência; é desperdício em escala planetária.
+O setor pecuário usa 77% das terras agrícolas, mas produz apenas 18% de nossas calorias.footnote:[Our World in Data. "Environmental Impacts of Food Production." Accessed 2025.] Isso é desperdício em escala planetária.
 
 O problema é a biologia fundamental. Quando alimentamos plantações para animais, a maior parte da energia vai para manter o animal vivo: metabolismo, movimento, calor corporal. Apenas uma fração se torna carne comestível. Para cada 100 calorias de grãos dadas ao gado, recebemos de volta 3 calorias de carne bovina. Os porcos retornam 10 calorias. As galinhas, nossos animais terrestres mais "eficientes", retornam apenas 12.footnote:[A Well-Fed World. "Feed-to-Meat Conversion Inefficiency Ratios." Accessed 2025.]
 
-Essa ineficiência tem implicações impressionantes. Globalmente, de 36 a 41% de todas as calorias de plantações vão para a pecuária em vez de para os humanos.footnote:[World Federation for Animals. "Animal welfare is an opportunity to increase food security." Accessed 2025.] Em um mundo onde 768 milhões enfrentam a fome, estamos filtrando comida suficiente para bilhões através de animais para alimentar milhões.
+Globalmente, de 36 a 41% de todas as calorias de plantações vão para a pecuária em vez de para os humanos.footnote:[World Federation for Animals. "Animal welfare is an opportunity to increase food security." Accessed 2025.] Em um mundo onde 768 milhões enfrentam a fome, estamos filtrando comida suficiente para bilhões através de animais para alimentar milhões.
 
 ==== O Custo Real
 
@@ -129,34 +129,34 @@ Um estudo estimou o custo ambiental global da pecuária em US$ 1,18 trilhão anu
 
 Essa ficção econômica é mantida por meio de subsídios maciços. Apenas nos EUA, os produtores de milho e soja, que cultivam principalmente ração animal, receberam mais de US$ 5 bilhões em subsídios federais em 2024.footnote:[USAFacts. "Federal farm subsidies: What the data says." 2025.] As 10.000 maiores operações pecuárias receberam US$ 12,1 bilhões em assistência federal entre 2018 e 2023.footnote:[GAO. "Department of Agriculture: Financial Assistance to Livestock Feeding Operations." 2025.]
 
-Esses subsídios funcionam através de vários mecanismos: pagamentos diretos aos agricultores com base na área plantada, seguro agrícola subsidiado que socializa as perdas de colheitas ruins, apoio de preços que garante preços mínimos independentemente das condições de mercado e isenções fiscais para equipamentos e infraestrutura agrícola. O resultado? A ração animal é artificialmente barata, fazendo com que a produção de carne pareça economicamente eficiente quando, na verdade, é sustentada por bilhões em dólares dos contribuintes. Sem esses subsídios, o custo real dos produtos de origem animal seria refletido no caixa, e as opções à base de plantas seriam a escolha econômica óbvia.
+Esses subsídios funcionam através de vários mecanismos: pagamentos diretos aos agricultores com base na área plantada, seguro agrícola subsidiado que socializa as perdas de colheitas ruins, apoio de preços que garante preços mínimos independentemente das condições de mercado e isenções fiscais para equipamentos e infraestrutura agrícola. O resultado é que a ração animal é artificialmente barata, fazendo com que a produção de carne pareça economicamente eficiente quando é sustentada por bilhões em dólares dos contribuintes. Sem esses subsídios, o custo real dos produtos de origem animal seria refletido no caixa, e as opções à base de plantas seriam a escolha econômica óbvia.
 
 Estamos pagando três vezes pelos produtos de origem animal: uma vez na loja, outra vez através de nossos impostos e, finalmente, através de danos ambientais e de saúde que podem se provar irreversíveis.
 
 === A Lógica do Sistema
 
-Neste ponto, uma pessoa razoável pode perguntar: como construímos algo tão abrangentemente destrutivo? A resposta revela algo importante sobre como os sistemas podem evoluir para maximizar as coisas erradas.
+Como construímos algo tão completamente destrutivo? A resposta mostra como os sistemas podem evoluir para maximizar as coisas erradas.
 
-Cada característica que descrevi (o confinamento, os antibióticos, a poluição, a ineficiência) faz todo o sentido dentro da lógica do sistema. Quando seu objetivo é produzir a quantidade máxima de proteína animal pelo menor custo direto, essas não são falhas. São otimizações.
+Cada característica que descrevi (o confinamento, os antibióticos, a poluição, a ineficiência) faz todo o sentido dentro da lógica do sistema. Quando seu objetivo é produzir a quantidade máxima de proteína animal pelo menor custo direto, cada uma delas é uma otimização.
 
 Amontoe os animais porque a terra custa dinheiro. Use antibióticos porque a prevenção de doenças é mais barata do que condições humanas. Externalize os dejetos porque o tratamento custa dinheiro. Alimente os animais com grãos porque isso os engorda mais rápido do que a grama. O sistema é perfeitamente projetado para atingir seus objetivos. Só que seus objetivos estão perfeitamente desalinhados com a saúde planetária e humana.
 
 Isso explica por que as soluções propostas muitas vezes se resumem a reorganizar as cadeiras do convés. A "pecuária de precisão" usa IA para gerenciar os animais de forma mais eficiente, potencialmente permitindo operações ainda maiores e mais intensivas. Biodigestores de esterco capturam metano para energia, criando incentivos para produzir mais esterco. O "pastoreio regenerativo" promete sequestro de carbono enquanto ignora que o metano do gado supera qualquer armazenamento realista no solo.footnote:[Zero Carbon Analytics. "Relying on soil-based carbon capture to offset livestock emissions is misguided." Accessed 2025.]
 
-Estas não são soluções. São deslocamentos de problemas, tratando um sintoma enquanto deixam a questão fundamental intocada. Essa questão é a escala. Estamos tentando alimentar 8 bilhões de humanos enquanto filtramos plantas através de 85 bilhões de animais terrestres anualmente. Nenhuma otimização pode superar esse absurdo termodinâmico básico.
+Nada disso resolve o problema; apenas o desloca, tratando um sintoma enquanto deixa a questão fundamental intocada. Essa questão é a escala. Estamos tentando alimentar 8 bilhões de humanos enquanto filtramos plantas através de 85 bilhões de animais terrestres anualmente. Nenhuma otimização pode superar esse absurdo termodinâmico básico.
 
-A solução real requer reconhecer para que o sistema realmente serve. Não é para alimentar o mundo—a agricultura vegetal faz isso de forma muito mais eficiente. Não é para a saúde humana—como as classificações de câncer da OMS deixam claro. Não é sobre eficiência econômica—não quando se contam os custos reais.
+A solução real requer reconhecer para que o sistema realmente serve. Não é para alimentar o mundo; a agricultura vegetal faz isso de forma muito mais eficiente. Não é para a saúde humana, como as classificações de câncer da OMS deixam claro, nem para a eficiência econômica, uma vez que se contam os custos reais.
 
-É sobre satisfazer uma preferência aprendida por produtos de origem animal, independentemente das consequências. Uma vez que vemos isso claramente, o caminho a seguir se torna óbvio, se não exatamente fácil.
+O sistema existe para satisfazer uma preferência aprendida por produtos de origem animal, independentemente das consequências. Uma vez que vemos isso claramente, o caminho a seguir se torna óbvio, se não exatamente fácil.
 
 === Conclusão
 
 Comecei este capítulo com um número: 1.750 animais mortos para alimentação nos EUA, a cada segundo. Mas o número real que importa é o próximo. A próxima escolha, três vezes ao dia.
 
-Construímos um sistema que transforma seres conscientes em produtos por meio de um processo que desestabiliza o clima, degrada a terra, envenena nossa água, cria superbactérias, ameaça pandemias e, por fim, desperdiça mais comida do que produz. Isso não é hipérbole ou retórica ativista. É a conclusão de milhares de estudos revisados por pares que examinam esses sistemas interconectados.
+Construímos um sistema que transforma seres conscientes em produtos por meio de um processo que desestabiliza o clima, degrada a terra, envenena nossa água, cria superbactérias, ameaça pandemias e, por fim, desperdiça mais comida do que produz. Essa é a conclusão de milhares de estudos revisados por pares que examinam esses sistemas interconectados.
 
 A lacuna entre o que pensamos que estamos fazendo quando comemos um hambúrguer (fazendo uma refeição) e o que estamos realmente fazendo (participando de um sistema de catástrofes em cascata) nunca foi tão grande. Mas, ao contrário de problemas verdadeiramente intratáveis, este vem com uma solução óbvia: parar de alimentar plantas para animais para nos alimentarmos.
 
-Claro, "óbvio" não significa "fácil". O próximo capítulo explora por que, mesmo quando confrontados com evidências esmagadoras de danos, achamos tão difícil mudar. É mais do que uma escolha pessoal; é sobre o que devemos aos outros quando nossas preferências causam sofrimento.
+Claro, "óbvio" não significa "fácil". O próximo capítulo explora por que achamos tão difícil mudar mesmo quando confrontados com evidências esmagadoras de danos, e o que devemos aos outros quando nossas preferências causam sofrimento.
 
-A refeição à sua frente três vezes ao dia é uma escolha. Agora que entendemos o que comer animais realmente acarreta, precisamos examinar o que esse entendimento exige de nós.
+A refeição à sua frente três vezes ao dia é uma escolha. Agora que entendemos o que comer animais acarreta, precisamos examinar o que esse entendimento exige de nós.
