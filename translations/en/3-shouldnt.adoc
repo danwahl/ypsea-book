@@ -33,7 +33,7 @@ Fortunately, philosophers haven't spent three centuries stumped. They've develop
 
 The first bridge is almost embarrassingly simple. Some "is" statements contain their own "oughts": specifically, statements about goal-directed behavior. "If you want to reach Chicago from Champaign, you ought to drive north" isn't a moral command pulled from thin air; it's a factual statement about achieving goals in physical space.
 
-Life, by its very nature, is goal-directed. Every organism from beetles to blue whales acts to preserve itself and promote its wellbeing. That's a biological fact, not a philosophical stance. When we recognize this, a basic ought emerges: life ought to act to preserve and promote itself.footnote:[This argument draws from the tradition of ethical naturalism. For a detailed treatment, see Foot, P. (2001). Natural Goodness. Oxford University Press.]
+Life, by its very nature, is goal-directed. Every organism from beetles to blue whales acts to preserve itself and promote its wellbeing. That's a biological fact. When we recognize this, a basic ought emerges: life ought to act to preserve and promote itself.footnote:[This argument draws from the tradition of ethical naturalism. For a detailed treatment, see Foot, P. (2001). Natural Goodness. Oxford University Press.]
 
 Once we accept this foundational ought (and it's hard to coherently reject it while being alive), other oughts follow. If conscious creatures naturally seek to avoid suffering and pursue wellbeing, then causing unnecessary suffering violates something fundamental about the nature of conscious life itself.
 
@@ -53,7 +53,7 @@ The third bridge rests on plain observation: we effortlessly derive oughts from 
 
 Consider preventable diseases. The statement "thousands of children die from malaria each year" is a factual observation. The statement "we ought to prevent these deaths" is a moral imperative. Yet most people make this leap without existential hand-wringing. Why? Because when facts reveal serious harm to life and wellbeing, the moral response feels obvious, not mysterious.footnote:[For discussion of how environmental ethics navigates the is-ought gap, see Callicott, J. B. (1999). Beyond the Land Ethic. SUNY Press.]
 
-The same logic applies to animal agriculture. When facts reveal systematic harm (suffering to billions of conscious creatures, environmental destruction, pandemic risk), the ought emerges not through philosophical trickery but through basic common sense.
+The same logic applies to animal agriculture. When facts reveal systematic harm (suffering to billions of conscious creatures, environmental destruction, pandemic risk), the ought follows from basic common sense.
 
 === When All Ethical Roads Lead to Rome
 
@@ -63,11 +63,11 @@ Consider how three major ethical traditions (deontology, utilitarianism, and vir
 
 ==== The Rights Approach: It's About Justice
 
-Deontological ethics, the philosophy of rights and duties, judges actions by their inherent nature rather than consequences. From this perspective, the core question is whether eating animals violates fundamental duties of justice, not merely whether it causes harm (though it does).
+Deontological ethics, the philosophy of rights and duties, judges actions by their inherent nature rather than consequences. From this perspective, harm (which eating animals certainly causes) matters less than whether the practice violates fundamental duties of justice.
 
 The philosopher Tom Regan argued that animals meeting certain criteria (having beliefs, desires, memory, a sense of future) possess inherent value and thus rights.footnote:[Regan, T. (1983). The Case for Animal Rights. University of California Press.] The specific criteria matter less than the recognition that if beings have inherent value, they can't justly be treated as mere resources.
 
-But here's the insight that matters for us plant-eaters-in-waiting: even if you're unsure about animal rights, deontology cares deeply about complicity. If a system is fundamentally unjust, built on treating sentient beings as property, then knowingly supporting that system violates duties of justice. The purchase becomes participation in injustice.
+What matters for us plant-eaters-in-waiting is that even if you're unsure about animal rights, deontology cares deeply about complicity. If a system is fundamentally unjust, built on treating sentient beings as property, then knowingly supporting that system violates duties of justice. The purchase becomes participation in injustice.
 
 This sidesteps the "but one person won't make a difference" objection entirely. From a rights perspective, the question isn't whether your individual refusal will shut down factory farms. It's whether you'll be complicit in injustice. The obligation is to keep your hands clean, even if you can't single-handedly fix the world.
 
@@ -93,7 +93,7 @@ Virtue ethics offers a powerful reframe. Instead of universal pronouncements ("e
 
 ==== The Convergence
 
-Here's what's striking: three major ethical traditions, often at philosophical loggerheads, largely converge against factory farming. Of course, philosophers being philosophers, you'll find dissenters in each camp. Some rights theorists argue animals lack the cognitive capacities for rights. Some utilitarians invoke the Logic of the Larder, as we'll discuss in the next chapter. Some virtue ethicists claim that natural predation makes meat-eating virtuous.
+Three major ethical traditions, often at philosophical loggerheads, largely converge against factory farming. Of course, philosophers being philosophers, you'll find dissenters in each camp. Some rights theorists argue animals lack the cognitive capacities for rights. Some utilitarians invoke the Logic of the Larder, as we'll discuss in the next chapter. Some virtue ethicists claim that natural predation makes meat-eating virtuous.
 
 But these are minority positions, increasingly so. The mainstream of each tradition, when seriously applied to modern animal agriculture, points toward plant-based diets. The convergence isn't unanimous (philosophy never is), but it's strong enough to be meaningful. When thinkers who rarely agree on anything else reach similar conclusions about factory farming, that's worth taking seriously.
 
@@ -151,13 +151,13 @@ Humans have developed impressive strategies for managing this discomfort without
 
 **Mental gymnastics**: We downplay animal intelligence ("chickens are basically feathered vegetables"), deny their capacity for suffering ("fish don't feel pain"), or invoke the circle of life ("it's natural"). The literature contradicts all of these, but motivated reasoning is a powerful drug.
 
-**Strategic ignorance**: Most people know factory farming is awful. Solution? Don't think about it. The same people who research restaurants obsessively somehow never Google where their food comes from. Ignorance isn't just bliss; it's a psychological defense mechanism.
+**Strategic ignorance**: Most people know factory farming is awful. Solution? Don't think about it. The same people who research restaurants obsessively somehow never Google where their food comes from. Ignorance is bliss, and it's also a defense mechanism.
 
 ==== The Power and Peril of Visible Refusal
 
-When someone refuses to eat animals, they're not just making a personal choice. They're creating what psychologists call a "moral threat" to everyone around them.footnote:[Minson, J. A., & Monin, B. (2012). "Do-gooder derogation: Disparaging morally motivated minorities to defuse anticipated reproach." Social Psychological and Personality Science, 3(2), 200-207.]
+When someone refuses to eat animals, their personal choice also creates what psychologists call a "moral threat" to everyone around them.footnote:[Minson, J. A., & Monin, B. (2012). "Do-gooder derogation: Disparaging morally motivated minorities to defuse anticipated reproach." Social Psychological and Personality Science, 3(2), 200-207.]
 
-Think about it: if your dinner companion orders the veggie burger, what does that say about your bacon cheeseburger? Nothing explicitly. But implicitly? It suggests that avoiding meat is possible, practical, maybe even preferable. Your choice, previously invisible as water to a fish, suddenly becomes visible, and questionable.
+If your dinner companion orders the veggie burger, what does that say about your bacon cheeseburger? Nothing explicitly. But implicitly? It suggests that avoiding meat is possible, practical, maybe even preferable. Your choice, previously invisible as water to a fish, suddenly becomes visible, and questionable.
 
 This visibility creates what researchers call "do-gooder derogation": the tendency to disparage people who make ethical choices that implicitly challenge our own. It's why vegetarians get labeled preachy, self-righteous, and annoying, often before they've said anything beyond "I'll have the salad."footnote:[Which, let's be honest, is rarely the most satisfying meal at a restaurant.]
 
@@ -167,9 +167,9 @@ But the defensive reaction itself reveals the power of visible non-participation
 
 Understanding do-gooder derogation suggests a strategic approach. Instead of framing dietary choice as universal judgment ("eating meat is wrong"), frame it as personal integrity ("I can't align eating animals with my values"). This shifts from accusation to testimony, from "you should" to "I must."
 
-This isn't conflict avoidance; it's how moral change happens. Social movements rarely succeed by argument alone; they succeed by making alternative choices visible, viable, and eventually normal. Every plant-based meal in public normalizes the choice. Every polite "no thanks" to the passed appetizers raises questions. Every substitution at a restaurant makes the next person's substitution easier.
+It's also how moral change happens. Social movements rarely succeed by argument alone. They succeed by making alternative choices visible, viable, and eventually normal. Every plant-based meal in public normalizes the choice. Every polite "no thanks" to the passed appetizers raises questions. Every substitution at a restaurant makes the next person's substitution easier.
 
-The goal isn't to be a walking judgment on others' choices but to be a living example that different choices are possible. When someone asks why you don't eat animals, and they will ask, you have an opportunity for connection, not confrontation. Most people already share your values; they just haven't connected them to their plates yet.
+The goal isn't to be a walking judgment on others' choices but to be a living example that different choices are possible. When someone asks why you don't eat animals, and they will ask, you have an opportunity for connection. Most people already share your values; they just haven't connected them to their plates yet.
 
 === Making Ethics Edible
 
@@ -183,27 +183,27 @@ This concreteness does several things:
 
 **Social proof**: Eating is social. Your choices are visible to family, friends, colleagues. This visibility, while sometimes uncomfortable, creates ripple effects. You become evidence that change is possible.
 
-**Identity reinforcement**: We are what we repeatedly do. Someone who eats plant-based isn't just someone who happens not to eat animals; they become someone who doesn't eat animals. The identity reinforces the behavior, and the behavior reinforces the identity.
+**Identity reinforcement**: We are what we repeatedly do. Someone who eats plant-based long enough stops being someone who happens not to eat animals and becomes someone who doesn't eat animals. The identity reinforces the behavior, and the behavior reinforces the identity.
 
 ==== Beyond Purity Politics
 
 This is where we need to be careful, because movements have a tendency to self-destruct through purity testing. The goal isn't to achieve some state of perfect moral cleanliness. (Spoiler: you can't. Even vegetable agriculture involves some harm to animals.) The goal is to reduce participation in unnecessary suffering while building a more ethical and just food system.
 
-This means meeting people where they are. The person who does Meatless Mondays is moving in the right direction. The flexitarian who usually chooses plant-based is an ally, not an apostate. The vegetarian who still eats cheese is on a journey, not a hypocrite.
+This means meeting people where they are. The person who does Meatless Mondays is moving in the right direction. The flexitarian who usually chooses plant-based is an ally, not an apostate. The vegetarian who still eats cheese isn't a hypocrite.
 
-Perfect adherence to ethical ideals is impossible in a complex world. But impossible perfection doesn't excuse us from possible improvement. The question is whether you can reduce harm, not eliminate it; whether you can stop actively supporting the worst unjust systems, not opt out of all of them.
+Perfect adherence to ethical ideals is impossible in a complex world. But impossible perfection doesn't excuse us from possible improvement. The question is whether you can reduce harm and stop actively supporting the worst unjust systems. No one can eliminate harm or opt out of every unjust system.
 
 === The Moral of the Meal
 
 I began this chapter with British sugar boycotters, those privileged tea-drinkers who decided their sweet tooth wasn't worth slavery. They faced all the criticisms modern ethical eaters face: individual choices won't change systems, boycotts are mere virtue signaling, real change requires political action not consumer choices.
 
-They boycotted anyway. Not because they thought skipping sugar would end slavery, but because they couldn't stomach complicity. Their refusal to participate made the invisible visible, the political personal, the distant immediate. It transformed abstract injustice into a choice faced three times daily: will I participate or refuse?
+They boycotted anyway. They didn't think skipping sugar would end slavery; they just couldn't stomach complicity. Their refusal to participate made the invisible visible, the political personal, the distant immediate. It transformed abstract injustice into a choice faced three times daily: will I participate or refuse?
 
-The same choice faces us at every meal. We know animals suffer in industrial agriculture; that's no longer seriously disputed. We know this system damages our planet, threatens public health, wastes resources. The facts are clear. The ethical frameworks converge. The historical precedents guide.
+The same choice faces us at every meal. We know animals suffer in industrial agriculture; that's no longer seriously disputed. We know this system damages our planet, threatens public health, wastes resources. The facts are clear, and the ethical frameworks and historical precedents point the same way.
 
-What remains is the ought that emerges from the is: when systematic harm is real, unnecessary, and avoidable, participation becomes a choice rather than a given. Not eating animals isn't about dietary purity or moral superiority. Our plates are platforms, our meals are messages, our choices are chances to align action with values.
+What remains is the ought that emerges from the is: when systematic harm is real, unnecessary, and avoidable, participation becomes a choice rather than a given. Declining to eat animals has nothing to do with dietary purity or moral superiority. Every meal is a chance to align action with values.
 
-The sugar boycotters didn't know their small refusal would help catalyze the end of British slavery. They just knew they couldn't continue participating once they understood what their participation meant. The question facing us is whether we'll continue participating once we know what our participation means, not whether our individual choices will single-handedly transform industrial agriculture.
+The sugar boycotters didn't know their small refusal would help catalyze the end of British slavery. They just knew they couldn't continue participating once they understood what their participation meant. The question facing us is the same: whether we'll continue participating once we know what our participation means.
 
 But perhaps you're not convinced. Perhaps you think I'm too certain about animal consciousness, too dire about environmental impacts, too optimistic about individual agency. Perhaps you have objections, counterarguments, complications I haven't considered.
 

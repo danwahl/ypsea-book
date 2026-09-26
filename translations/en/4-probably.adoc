@@ -6,15 +6,15 @@ The Bush administration was evil. Animals were for eating. Radiohead's *OK Compu
 
 Then something terrible happened: I kept learning things.
 
-Not big, dramatic revelations, but small cracks in the foundation. A conservative coworker who was frustratingly kind. A philosophy class that complicated my easy ethics. That growing suspicion that *Kid A* was actually the masterpiece. Each new bit of information didn't strengthen my certainty; it eroded it, like water wearing away stone.
+Not big, dramatic revelations, but small cracks in the foundation. A conservative coworker who was frustratingly kind. A philosophy class that complicated my easy ethics. That growing suspicion that *Kid A* was actually the masterpiece. Each new bit of information eroded my certainty a little more, like water wearing away stone.
 
 By thirty, I'd replaced most of my exclamation points with question marks. By forty, even the question marks came with footnotes.
 
-This kind of epistemic hedging might seem like weakness, but I've come to see it as a strength. The kind that admits when it doesn't know something. The kind that says "probably" and means it.
+This kind of epistemic hedging might seem like weakness, but I've come to see it as a strength: the kind that admits when it doesn't know something, and says "probably" and means it.
 
 Which brings us to this chapter, and to that load-bearing word in our title. "Probably" isn't there for false modesty or rhetorical flourish. It's there because honest engagement with the ethics of eating animals reveals genuine uncertainties. What if consciousness is rarer than we think? What if farmed animals truly are better off existing than not? What if nature really is crueler than agriculture? What if some people need animal products to thrive?
 
-These aren't bad faith objections or gotcha questions. They're real challenges that deserve real consideration. And taking them seriously strengthens the case for plant-based eating, turning dogma into a reasoned response to moral uncertainty.
+These are real challenges, and they deserve real consideration. And taking them seriously strengthens the case for plant-based eating, turning dogma into a reasoned response to moral uncertainty.
 
 Because when you're not sure, but the stakes are high, what you do with that uncertainty matters more than the uncertainty itself.
 
@@ -62,7 +62,7 @@ But this slippery slope assumes we need certainty to act ethically. We don't. We
 
 The evidence sorts into a usable hierarchy. The evidence for mammal and bird consciousness is overwhelming. The evidence for fish consciousness is strong. The evidence for insect consciousness is suggestive and growing. The evidence for bivalve consciousness is minimal. The evidence for plant consciousness is practically nonexistent despite extensive investigation.
 
-The line follows the evidence. When the stakes are high (potential suffering) and alternatives exist (plant foods), we should err on the side of caution. Not because we're certain, but because we're not.
+The line follows the evidence. When the stakes are high (potential suffering) and alternatives exist (plant foods), uncertainty is a reason to err on the side of caution.
 
 The philosopher Peter Singer put it well: "We should give animals the benefit of the doubt."footnote:[Singer, P. (1975). Animal Liberation. New York: Random House.] That doesn't mean treating bacteria like beings. It means taking seriously the possibility that the animals we routinely harm for food might have inner lives that matter.
 
@@ -168,7 +168,7 @@ But what if you really can't live without animal products? For some people, the 
 
 In Qaanaaq, Greenland, the growing season lasts six weeks. The rest of the year, the ground is frozen harder than concrete. For the Inuit people who've lived here for millennia, the question isn't whether to eat animals but which ones: seal, whale, walrus, or caribou.footnote:[Borré, K. (1991). "Seal blood, Inuit blood, and diet: a biocultural model of physiology and cultural identity." Medical Anthropology Quarterly, 5(1), 48-62.]
 
-This isn't a lifestyle choice. It's thermodynamics. At -40°F, humans doing outdoor work need 5,000+ calories a day, as the cold combined with physical activity creates enormous energy demands. Seal blubber provides those calories in a way no imported plant food could match, even if shipping Impossible Burgers to the Arctic Circle weren't absurdly impractical.
+The reason is thermodynamics. At -40°F, humans doing outdoor work need 5,000+ calories a day, as the cold combined with physical activity creates enormous energy demands. Seal blubber provides those calories in a way no imported plant food could match, even if shipping Impossible Burgers to the Arctic Circle weren't absurdly impractical.
 
 Similar realities face pastoral communities worldwide. The Maasai of East Africa, Mongolian herders, Himalayan yak farmers. For people in environments where crops won't grow, animals convert inedible grasses into human nutrition. These are entire cultures evolved to thrive where plant agriculture fails.footnote:[Fratkin, E. (1997). "Pastoralism: Governance and development issues." Annual Review of Anthropology, 26(1), 235-261.]
 
@@ -208,15 +208,15 @@ But what do we do while we wait for tomorrow's solutions to solve today's proble
 
 Let's be optimistic about these technologies. Cultivated meat is real science, not science fiction. Multiple companies have working prototypes. Singapore and other countries have approved sales. With enough investment and innovation, we probably will have affordable lab-grown meat eventually.footnote:[Post, M. J. (2012). "Cultured meat from stem cells: Challenges and prospects." Meat Science, 92(3), 297-301.]
 
-Regenerative agriculture isn't just hype either. Well-managed grazing can improve soil health, increase biodiversity, and sequester some carbon. The pictures are beautiful: cattle as ecosystem engineers, healing land while feeding people.footnote:[Teague, W. R., et al. (2016). "The role of ruminants in reducing agriculture's carbon footprint in North America." Journal of Soil and Water Conservation, 71(2), 156-164.]
+Regenerative agriculture has substance too. Well-managed grazing can improve soil health, increase biodiversity, and sequester some carbon. The pictures are beautiful: cattle as ecosystem engineers, healing land while feeding people.footnote:[Teague, W. R., et al. (2016). "The role of ruminants in reducing agriculture's carbon footprint in North America." Journal of Soil and Water Conservation, 71(2), 156-164.]
 
 High-welfare farming offers a different fix. Maybe we keep eating animals but treat them well first. Pasture-raised, cage-free, one bad day. If we must kill, at least minimize suffering. Some small farms achieve this vision.
 
-But here's the puzzle: we already have pretty good alternatives, and hardly anyone chooses them.
+The puzzle is that we already have pretty good alternatives, and hardly anyone chooses them.
 
 ==== The 90% Solution Nobody Wants
 
-Plant-based meats have achieved something remarkable. The best versions are about 90% as good as animal meat by most measures: taste, texture, convenience, cooking properties. They're widely available and increasingly affordable. Oat milk is in every coffee shop. Beyond Burgers are in every supermarket.
+Plant-based meats have come a long way. The best versions are about 90% as good as animal meat by most measures: taste, texture, convenience, cooking properties. They're widely available and increasingly affordable. Oat milk is in every coffee shop. Beyond Burgers are in every supermarket.
 
 Yet plant-based meat has captured less than 2% of the market. Dairy alternatives do slightly better at around 10%. But if 90% similarity achieves at most 10% adoption, why expect 100% similarity to do much better?footnote:[Good Food Institute. (2021). "Plant-based meat, eggs, and dairy: 2020 U.S. retail market insights."]
 
@@ -242,9 +242,9 @@ Probably, we shouldn't wait.
 
 And so we return to "probably."
 
-Not as weakness or hedging, but as honest reckoning with complexity. We've examined some of the strongest objections to plant-based ethics: consciousness skepticism, existence paradoxes, natural suffering, human exceptions, technological promises. Each introduces genuine uncertainty. None provides comfortable clarity.
+The word is an honest reckoning with complexity. We've examined some of the strongest objections to plant-based ethics: consciousness skepticism, existence paradoxes, natural suffering, human exceptions, technological promises. Each introduces genuine uncertainty. None provides comfortable clarity.
 
-But the uncertainty does something useful: it clarifies the ethics rather than paralyzing them.
+But the uncertainty does something useful: it clarifies the ethics.
 
 When we're unsure whether beings suffer, uncertainty argues for caution. When we're unsure whether lives are worth living, uncertainty argues against creating them for exploitation. When we're unsure how to help wild animals, uncertainty argues for not actively harming them. When we're unsure where consciousness ends, uncertainty argues for drawing generous boundaries. When we're unsure when future technology will deliver, uncertainty argues for using what's available now.
 
@@ -258,7 +258,7 @@ The same logic applies to our plates. We're uncertain about consciousness bounda
 
 The skeptics demanded proof. The utilitarian posed paradoxes. The naturalists pointed to suffering. The anthropologists noted exceptions. The optimists promised solutions. Each raised important challenges without providing satisfying answers. But taken together, they point toward one conclusion: when facing potential complicity in vast suffering with available alternatives, we should choose the alternatives.
 
-We should choose them without self-righteousness or false certainty, but probably, and with good reason.
+We should choose them without self-righteousness or false certainty. Probably, and with good reason.
 
 Which brings us to our final word: "you." Because recognizing what we probably shouldn't do only matters if someone actually stops doing it. The question isn't whether humanity in abstract should change, but whether the specific person reading this will.
 

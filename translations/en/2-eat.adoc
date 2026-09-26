@@ -2,18 +2,18 @@
 
 Last Thanksgiving, while 46 million turkeys met their end across America, I found myself thinking about another number: 1,750.footnote:[Animal Kill Clock. Accessed 2025.]
 
-That's about how many animals are killed for food in the US, every second. Each one experiencing something like what Moritz the pig experienced (self-recognition, social bonds, fear, pain) until they didn't.
+That's about how many animals are killed for food in the US, every second. Each one experiencing something like what Moritz the pig experienced (self-recognition, social bonds, fear, pain), until they didn't.
 
 This chapter isn't an exercise in guilt. I want to understand what it means to eat animals at the rate we do today, and why the system we've built to satisfy our appetite sits at the intersection of multiple catastrophes. These are measurable, ongoing crises that affect the planet's climate, its capacity to feed humans, and our own health.
 
-The story of how we got here, how eating animals transformed from occasional feast to industrial imperative, reveals how far the reality of meat has drifted from our idea of it. Because once we acknowledge that those 1,750 animals likely had inner lives, we must confront not just the fact of their deaths but the entire machinery that produced them.
+The story of how we got here, how eating animals transformed from occasional feast to industrial imperative, reveals the gap between what we think we're doing when we eat meat and what we're actually doing. Because once we acknowledge that those 1,750 animals likely had inner lives, we must confront their deaths and the entire machinery that produced them.
 
 .The animals killed for food in the US, every second
 image::animalclock.png[The animals killed for food in the US, every second, align=center]
 
 === The Scale of the Machine
 
-Modern animal agriculture starts with magnitude, a scale that may explain why we have become so numb to it.
+To understand modern animal agriculture, start with its scale, which defeats ordinary comprehension and may explain why we've become so numb to it.
 
 In 2023, humans slaughtered 85.4 billion land animals for food.footnote:[Faunalytics. "Global Animal Slaughter Statistics & Charts." Accessed 2025.] If you counted one animal per second, it would take you over 2,700 years to count them all. By the time you finished, assuming current trends continue, humans would have slaughtered another 260 trillion animals.
 
@@ -27,7 +27,7 @@ The numbers grow harder to fathom when we include aquatic animals. Unlike land a
 
 These numbers are only possible because we've redesigned animals themselves. The modern broiler chicken grows so fast it reaches slaughter weight in just six weeks, compared to 16 weeks in the 1950s. Their breasts grow so large that many can't walk properly in their final days, their legs splaying beneath them as they sit in their own waste, sometimes dying of thirst just feet from water they can no longer reach.footnote:[Broom, D.M. and Fraser, A.F. (2015). Domestic Animal Behaviour and Welfare. CABI Publishing.]
 
-This isn't farming. It's manufacturing, with living, feeling beings as the raw material.
+This is manufacturing more than farming, with living, feeling beings as the raw material.
 
 The standard practices read like a blueprint for suffering:
 
@@ -45,7 +45,7 @@ The system is working as designed. When your business model requires killing 1,7
 
 If the industrial slaughter of 85 billion land animals were only an animal welfare issue, it would still be among the great moral crises of our time. But the system required to feed, house, and process these animals is diminishing the planet's ability to sustain other life, ours included.
 
-The environmental impact of animal agriculture isn't a single problem but a cascade of interconnected crises, each amplifying the others. At the root is a simple biological reality: the inefficiency of filtering plants through animals to obtain calories.
+The environmental impact of animal agriculture is a cascade of interconnected crises, each amplifying the others. At the root is a simple biological reality: the inefficiency of filtering plants through animals to obtain calories.
 
 ==== Climate Destabilization
 
@@ -67,7 +67,7 @@ The bitter twist is that this land quickly degrades. Cattle compact soil, reduce
 
 The cascade continues with water. Agriculture uses 70% of global freshwater, with animal agriculture responsible for about a third of that.footnote:[Open Access Government. "The devastating water footprint of animal agriculture." 2025.] But the numbers only hint at the true impact.
 
-Producing a kilogram of beef requires 15,415 liters of water, enough to supply a person's drinking needs for over 20 years.footnote:[Mekonnen, M.M. & Hoekstra, A.Y. (2012). The hidden water resource use behind meat and dairy. Animal Frontiers.] Nearly all of this is "virtual water" used to irrigate feed crops. The inefficiency is hard to overstate: we're feeding our water to animals.
+Producing a kilogram of beef requires 15,415 liters of water, enough to supply a person's drinking needs for over 20 years.footnote:[Mekonnen, M.M. & Hoekstra, A.Y. (2012). The hidden water resource use behind meat and dairy. Animal Frontiers.] Nearly all of this is "virtual water" used to irrigate feed crops. In effect, we're feeding our water to animals.
 
 Water consumption is only half the story. The roughly 10 billion land animals raised annually in the US alone produce 885 billion pounds of manure, over 130 times the waste produced by the human population.footnote:[ASPCA. "Factory Farming Environmental Impact." Accessed 2025.] Unlike human waste, this receives no treatment. It's stored in vast open lagoons that can cover several acres, then sprayed on fields.
 
@@ -97,7 +97,7 @@ The 2009 H1N1 "swine flu" pandemic, which killed up to half a million people glo
 
 ==== Communities Under Siege
 
-The health impacts aren't abstractions; they're concentrated in poorer rural communities where CAFOs cluster.footnote:[Environmental Health News. "Factory farm air pollution is harming communities of color." Accessed 2025.]
+The health impacts are concentrated in poorer rural communities where CAFOs cluster.footnote:[Environmental Health News. "Factory farm air pollution is harming communities of color." Accessed 2025.]
 
 Imagine living downwind from a facility housing 10,000 pigs. The air reeks of ammonia and hydrogen sulfide, gases that cause respiratory illness, headaches, and depression.footnote:[Humane World for Animals. "The Public Health Impacts of Concentrated Animal Feeding Operations on Local Communities." Accessed 2025.] When waste lagoons overflow, as they regularly do during storms, pathogens and nitrates contaminate drinking water. Property values plummet. Children develop asthma at elevated rates.
 
@@ -105,11 +105,11 @@ For workers inside these facilities, conditions are even worse. Meatpacking is c
 
 === The Inefficiency Paradox
 
-Perhaps the cruelest irony of this system is that it fails even on its own terms. It claims to feed the world efficiently. It is a massive food destruction machine.
+Perhaps the cruelest irony of this system is that it fails even on its own terms. It claims to feed the world efficiently, but it works as a massive food destruction machine.
 
 ==== The Caloric Black Hole
 
-The livestock sector uses 77% of agricultural land but produces only 18% of our calories.footnote:[Our World in Data. "Environmental Impacts of Food Production." Accessed 2025.] This isn't efficiency; it's waste on a planetary scale.
+The livestock sector uses 77% of agricultural land but produces only 18% of our calories.footnote:[Our World in Data. "Environmental Impacts of Food Production." Accessed 2025.] That's waste on a planetary scale.
 
 The problem is fundamental biology. When we feed crops to animals, most of the energy goes to keeping the animal alive: metabolism, movement, body heat. Only a fraction becomes edible meat. For every 100 calories of grain fed to cattle, we get back 3 calories of beef. Pigs return 10 calories. Chickens, our most "efficient" land animals, return just 12.footnote:[A Well-Fed World. "Feed-to-Meat Conversion Inefficiency Ratios." Accessed 2025.]
 
@@ -145,15 +145,15 @@ This explains why proposed solutions so often amount to rearranging deck chairs.
 
 None of these solve the problem; they displace it, addressing one symptom while leaving the fundamental issue untouched. That issue is scale. We're trying to feed 8 billion humans while filtering plants through 85 billion land animals annually. No amount of optimization can overcome that basic thermodynamic absurdity.
 
-The real solution requires acknowledging what the system is actually for. It's not about feeding the world; plant agriculture does that far more efficiently. It's not about human health, as the WHO's cancer classifications make clear. It's not about economic efficiency, not when you count the true costs.
+The real solution requires acknowledging what the system is actually for. It isn't feeding the world; plant agriculture does that far more efficiently. It isn't human health, as the WHO's cancer classifications make clear, or economic efficiency, once you count the true costs.
 
-It's about satisfying a learned preference for animal products regardless of the consequences. Once we see that clearly, the path forward becomes obvious, if not exactly easy.
+The system exists to satisfy a learned preference for animal products regardless of the consequences. Once we see that clearly, the path forward becomes obvious, if not exactly easy.
 
 === Conclusion
 
 I began this chapter with a number: 1,750 animals killed for food in the US, every second. But the real number that matters is the next one. The next choice, three times a day.
 
-We've built a system that transforms conscious beings into products through a process that destabilizes the climate, degrades the land, poisons our water, breeds superbugs, threatens pandemics, and ultimately wastes more food than it produces. Thousands of peer-reviewed studies examining these interconnected systems point to the same conclusion.
+We've built a system that transforms conscious beings into products through a process that destabilizes the climate, degrades the land, poisons our water, breeds superbugs, threatens pandemics, and ultimately wastes more food than it produces. That's the conclusion of thousands of peer-reviewed studies examining these interconnected systems.
 
 The gap between what we think we're doing when we eat a burger (having a meal) and what we're actually doing (participating in a system of cascading catastrophes) has never been wider. But unlike truly intractable problems, this one comes with an obvious solution: stop feeding plants to animals to feed ourselves.
 
